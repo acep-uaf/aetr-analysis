@@ -1,0 +1,1245 @@
+﻿year,aea_energy_region,plant_name,total,ff-turbines,recip-ice,hydro,wind,utility-solar,batteries,flywheel,other,source,data_version
+2021,Southeast,Yakutat,4.17,0,4.17,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Wrangell,8.5,0,8.5,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,Willow Solar,1.34,0,0,0,0,1.34,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Whitman,4.8,0,0,4.8,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bering Straits,White Mountain,0.382,0,0.382,0,0,0,0,0,,AEA,Early Release
+2021,Southeast,Whale Pass,0.612,0,0.612,0,0,0,0,0,,EIA860,Early Release
+2021,Aleutians,Westward Seafoods,6.6,0,6.6,0,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Wales,0.495,0,0.495,0,0,0,0,0,,EIA860,Early Release
+2021,North Slope,Wainwright,3,0,3,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Viking,1,0,1,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Venetie,0.495,0,0.495,0,0,0,0,0,,EIA860,Early Release
+2021,Copper River/Chugach,Valdez Cogen,5.3,5.3,0,0,0,0,0,0,,EIA860,Early Release
+2021,Copper River/Chugach,Valdez,8.6,0,8.6,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Utility Plants Section,20,20,0,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Upper Kalskag,1.1,0,1.1,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,University of Alaska Fairbanks,39.6,30,9.6,0,0,0,0,0,,EIA860,Early Release
+2021,Aleutians,Unisea G 2,17.5,0,17.5,0,0,0,0,0,,EIA860,Early Release
+2021,Aleutians,Unalaska Power Module,1.25,0,1.1,0,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Unalakleet,2.5,0,1.9,0,0.6,0,0,0,,EIA860,Early Release
+2021,Southeast,Tyee Lake Hydroelectric Facility,22.6,0,0,22.6,0,0,0,0,,EIA860,Early Release
+2021,Bristol Bay,Twin Hills,0.341,0,0.341,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Tununak,0.325,0,0.325,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Tuntutuliak,2.465,0,1.695,0,0.475,0,0.295,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Tuluksak,0.45,0,0.45,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Toksook Bay,2.106,0,2.006,0,0.1,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Tok,5.21,0,5.21,0,0,0,0,0,,EIA860,Early Release
+2021,Bristol Bay,Togiak,2.634,0,2.634,0,0,0,0,0,,EIA860,Early Release
+2021,North Slope,TNSG South Plant,7.8,0,7.8,0,0,0,0,0,,EIA860,Early Release
+2021,North Slope,TNSG North Plant,25.7,25.4,0.3,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Thorne Bay Plant,1,0,1,0,0,0,0,,,No data,Early Release
+2021,Railbelt,Tesoro Kenai Cogeneration Plant,8.6,8.6,0,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Kodiak,Terror Lake Microgrid,33.6,0,0,33.6,0,0,0,,,No data,Early Release
+2021,Southeast,Tenakee Springs,0.42,0,0.24,0.18,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bering Straits,Teller,1.05,0,1.05,0,0,0,0,0,,0,Early Release
+2021,Aleutians,TDX Saint Paul Wind,0.225,0,0,0,0.225,0,0,0,,0,Early Release
+2021,Copper River/Chugach,Tatitlek,,,,,,,,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Tanana,1.605,0,1.605,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Takotna,0.167,0,0.167,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Swan Lake,22.6,0,0,22.6,0,0,0,0,,AEA,Early Release
+2021,Kodiak,Swampy Acres Microgrid,8.4,0,8.4,0,0,0,0,0,,AEA,Early Release
+2021,Lower Yukon-Kuskokwim,Stony River,0.138,0,0.138,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Stevens Village,0.29,0,0.29,0,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Stebbins,2.112,0,2.112,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Southcentral Power Project,203.9,203.9,0,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,South Fork Hydro (Eagle River),1.2,0,0,1.2,0,0,0,0,,EIA860,Early Release
+2021,Southeast,South Fork,2,0,0,2,0,0,0,0,,EIA860,Early Release
+2021,Copper River/Chugach,Solomon Gulch,12,0,0,12,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Soldotna,96.5,50,0,0,0,0,46.5,0,,EIA860,Early Release
+2021,Southeast,Snettisham,78.2,0,0,78.2,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Snake River,18.4,0,16.6,0,1.8,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Sleetmute,0.323,0,0.323,0,0,0,0,0,,EIA860,Early Release
+2021,Copper River/Chugach,Slana Generating Station ,1.072,0,1.072,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Skagway,4.385,0,3.385,1,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Silvis,2.1,0,0,2.1,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Northwest Arctic,Shungnak,1.959,0,1.5,0,0,0.224,0.235,0,,AEA PH Assessment,Early Release
+2021,Bering Straits,Shishmaref,1.436,0,1.436,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bering Straits,Shaktoolik,0.985,0,0.785,0,0.2,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Shageluk,0.395,0,0.395,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Seward,15.6,0,15.6,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Seldovia,2.2,0,2.2,0,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Selawik,2.51,0,2.25,0,0.26,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Scammon Bay,1.08,0,1.08,0,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Savoonga,1.7,0,1.5,0,0.2,0,0,0,,EIA860,Early Release
+2021,Aleutians,Sand Point,3.88,0,2.88,0,1,0,0,0,,EIA860,Early Release
+2021,Southeast,Salmon Creek 1,8.5,0,0,8.5,0,0,0,0,,EIA860,Early Release
+2021,Aleutians,Saint Paul,2.65,0,2.65,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bering Straits,Saint Michael,0.7,0,0.7,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Saint Mary's,3.18,0,2.28,0,0.9,0,0,0,,EIA860,Early Release
+2021,Aleutians,Saint George,0.925,0,0.83,0,0.095,0,0,0,,Northwest Arctic Borough,Early Release
+2021,Southeast,S W Bailey,25.9,0,25.9,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Russian Mission,0.904,0,0.904,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Ruby,0.527,0,0.527,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Red Devil,,,,,,,,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Rampart,0.26,0,0.26,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Quinhagak,1.58,0,1.28,0,0.3,0,0,0,,EIA860,Early Release
+2021,Southeast,Purple Lake,3.9,0,0,3.9,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Copper River/Chugach,Power Creek,6,0,0,6,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Kodiak,Port Lions Microgrid,0.5,0,0.5,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Port Heiden,0.702,0,0.702,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Port Alsworth,0.815,0,0.815,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,North Slope,Point Lay,2.4,0,2.4,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,North Slope,Point Hope,3.1,0,3.1,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Platinum,0.12,0,0.12,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Pilot Station,1.501,0,1.501,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Pilot Point,0.497,0,0.297,0,0.2,0,0,0,,AEA PH Assessment,Early Release
+2021,Kodiak,Pillar Mountain Wind Project Microgrid,9,0,0,0,9,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Perryville,0.498,0,0.474,0,0.024,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Pelican,2.4,0,1,1.4,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Pedro Bay,0.219,0,0.219,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Kodiak,Ouzinkie,0.461,0,0.336,0.125,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Copper River/Chugach,Orca,10.7,0,10.7,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Kodiak,Old Harbor,1,0,1,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Kodiak,Nymans Plant Microgrid,10,0,10,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Nunapitchuk,0.5,0,0.5,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Nunam Iqua,1.68,0,1.68,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Nulato,1.002,0,1.002,0,0,0,0,0,,EIA860,Early Release
+2021,North Slope,Nuiqsut,4.4,0,4.4,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Northway,1.099,0,1.099,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,North Pole,181,181,0,0,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Noorvik,1.649,0,1.626,0,0,0.023,0,0,,AEA PH Assessment,Early Release
+2021,Northwest Arctic,Noatak,1.252,0,1.252,0,0,0,0,0,,AEA,Early Release
+2021,Aleutians,Nikolski,0.065,0,0,0,0.065,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Nikolai,0.2,0,0.2,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Nikiski Co-Generation,80.8,80.8,0,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Nightmute,0.325,0,0.325,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Newtok,0.379,0,0.379,0,0,0,0,,,No data,Early Release
+2021,Bristol Bay,Newhalen,1.7,0,0.9,0.8,0,0,0,0,,AEA,Early Release
+2021,Bristol Bay,New Stuyahok,1.231,0,1.231,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Aleutians,Nelson Lagoon,0.15,0,0.15,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Naukati Bay,0.32,0,0.32,0,0,0,0,0,,AEA,Early Release
+2021,Lower Yukon-Kuskokwim,Napaskiak,0.567,0,0.567,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Napakiak,0.25,0,0.25,0,0,0,0,0,,AEA,Early Release
+2021,Bristol Bay,Naknek,16.5,0,16.5,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Mountain Village,2.3,0,2.3,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Minto,0.708,0,0.708,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Mekoryuk,0.903,0,0.703,0,0.2,0,0,0,,EIA860,Early Release
+2021,#N/A,McRoberts Creek,0.125,0,0,0.125,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,McGrath,1.6,0,1.6,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Marshall,1.15,0,1.15,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,Marathon Hydro,0.16,0,0,0.16,0,0,0,0,,EIA860,Early Release
+2021,Bristol Bay,Manokotak,0.6,0,0.6,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Manley Hot Springs,0.236,0,0.236,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Lutak,1.785,0,1.5,0.285,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Lime Village,0.012,0,0,0,0,0.012,0,0,,EIA860,Early Release
+2021,Bristol Bay,Levelock,0.234,0,0.234,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Lemon Creek,61.7,37.2,24.5,0,0,0,0,0,,EIA860,Early Release
+2021,Kodiak,Larsen Bay,0.475,0,0,0.475,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Lake Dorothy Hydroelectric Project,14.3,0,0,14.3,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Kwigillingok,1.798,0,1.028,0,0.475,0,0.295,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Kwethluk,1.1,0,1.1,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Koyukuk,0.138,0,0.138,0,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Koyuk,1.049,0,1.049,0,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Kotzebue,17.1,0,11.8,0,3.3,0.8,1.2,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Kotlik,1.39,0,1.39,0,0,0,0,,,No data,Early Release
+2021,Lower Yukon-Kuskokwim,Kongiganak,2.62,0,1.85,0,0.475,0,0.295,,,No data,Early Release
+2021,Bristol Bay,Koliganek,0.702,0,0.702,0,0,0,0,0,,EIA860,Early Release
+2021,Bristol Bay,Kokhanok,0.772,0,0.582,0,0.19,0,0,,,No data,Early Release
+2021,Kodiak,Kodiak Microgrid,18.3,0,18.3,0,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Kobuk,0.18,0,0.18,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Klawock Power Generation Station,2.5,0,2.5,0,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Kivalina,1.1,0,1.1,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Kipnuk,1.98,0,1.41,0,0.57,0,0,0,,EIA860,Early Release
+2021,Aleutians,King Cove,3,0,1.8,1.2,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Kiana,1.2,0,1.2,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Ketchikan,4.2,0,0,4.2,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Kasigluk,3.306,0,3.006,0,0.3,0,0,0,,AEA,Early Release
+2021,Southeast,Kasidaya Creek Hydro,3,0,0,3,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Kodiak,Karluk,0.2,0,0.2,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Kaltag,0.7826,0,0.773,0,0,0.0096,0,0,,EIA860,Early Release
+2021,North Slope,Kaktovik,2.6,0,2.6,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Kake,3.6,0,3.1,0.5,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Juniper Creek Hydroelectric Project,0.3,0,0,0.3,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,JBER Landfill Gas Power Plant,11.5,0,11.5,0,0,0,0,0,,EIA-860,Early Release
+2021,Southeast,Jarvis Street,25.6,0,25.6,0,0,0,0,0,,IES website,Early Release
+2021,Railbelt,International,15,15,0,0,0,0,0,0,,DOE,Early Release
+2021,Southeast,Industrial Plant,41.7,41.7,0,0,0,0,0,0,,EIA860,Early Release
+2021,Bristol Bay,Igiugig,0.361,0,0.201,0,0,0,0.125,0,,EIA860,Early Release
+2021,Southeast,Hydaburg,1.445,0,1.445,0,0,0,0,0,,0,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Huslia,0.796,0,0.796,0,0,0,0,0,,0,Early Release
+2021,Copper River/Chugach,Humpback Creek,1.2,0,0,1.2,0,0,0,0,,AEA,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Hughes,0.748,0,0.378,0,0,0.12,0.25,0,,DOE,Early Release
+2021,Lower Yukon-Kuskokwim,Hooper Bay,2.5,0,2.2,0,0.3,0,0,0,,EIA860,Early Release
+2021,Southeast,Hoonah,2.45,0,2,0.45,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Holy Cross,0.64,0,0.64,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Hollis,0,0,0,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Hiilangaay Hydro,5,0,0,5,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Healy Lake,0.101,0,0.101,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Healy,92.8,90,2.8,0,0,0,0,0,,AEA,Early Release
+2021,Southeast,Haines,10.02,0,10.02,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Gwitchyaa Zhee,2.8,0,2.8,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,GVEA Solar Farm,0.563,0,0,0,0,0.563,0,0,,EIA860,Early Release
+2021,Southeast,Gustavus,2.2,0,1.4,0.8,0,0,0,2,,EIA860,Early Release
+2021,Southeast,Green Lake,18.6,0,0,18.6,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Grayling,0.373,0,0.373,0,0,0,0,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Goodnews Bay,0.642,0,0.642,0,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Golovin,0.69,0,0.69,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Gold Creek,9.7,0,8.1,1.6,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Goat Lake Hydro,4,0,0,4,0,0,0,0,,EIA860,Early Release
+2021,Copper River/Chugach,Glennallen,9.2,0,9.2,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,George M Sullivan Generation Plant 2,346.9,346.9,0,0,0,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Gambell,2.25,0,1.95,0,0.3,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Galena Electric Utility,3.9,0,3.9,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,Fort Greely Power Plant,7.4,0,7.4,0,0,0,0,0,,0,Early Release
+2021,Kodiak,Flywheel Energy Storage System Microgrid,2,0,0,0,0,0,0,0,,AEA,Early Release
+2021,Railbelt,Fire Island Wind,18,0,0,0,18,0,0,0,,AEA PH Assessment,Early Release
+2021,Aleutians,False Pass,,,,,,,,0,,AEA,Early Release
+2021,Southeast,False Island,1.3,0,1.3,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,Fairbanks,42.2,36.8,5.4,0,0,0,0,0,,EIA860,Early Release
+2021,Copper River/Chugach,Eyak Service Center BESS,1,0,0,0,0,0,1,0,,EIA860,Early Release
+2021,Railbelt,Eva Creek Wind,24.6,0,0,0,24.6,0,0,0,,AEA,Early Release
+2021,Kodiak,ESS Battery Microgrid,3,0,0,0,0,0,3,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Emmonak,3.6,0,3.2,0,0.4,0,0,0,,EIA860,Early Release
+2021,Bering Straits,Elim,1.31,0,1.31,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Elfin Cove,,,,,,,,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Ekwok,0.32,0,0.32,0,0,0,0,,,No data,Early Release
+2021,Railbelt,Eklutna Hydro Project,44.4,0,0,44.4,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,Eklutna Generation Station,171,0,171,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,Eielson AFB Central Heat & Power Plant,31,25,6,0,0,0,0,0,,EIA860,Early Release
+2021,Bristol Bay,Egegik,1,0,1,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Eek,1.12,0,1.12,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Eagle,0.554,0,0.53,0,0,0.024,0,0,,AEA PH Assessment,Early Release
+2021,Aleutians,Dutch Harbor,21.9,0,21.9,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bering Straits,Diomede,0.508,0,0.508,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Dillingham,11,0,11,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Dewey Lakes ,0.943,0,0,0.943,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Railbelt,Delta Wind Farm,1.9,0,0,0,1.9,0,0,0,,EIA860,Early Release
+2021,Railbelt,Delta Power,23.1,23.1,0,0,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Deering,0.7955,0,0.37,0,0.1,0.0485,0.277,0,,EIA860,Early Release
+2021,Lower Yukon-Kuskokwim,Crooked Creek,0.274,0,0.274,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Craig,6.8,0,6.8,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Cooper Lake,19.4,0,0,19.4,0,0,0,0,,EIA860,Early Release
+2021,Aleutians,Cold Bay,,,,,,,,0,,EIA860,Early Release
+2021,Southeast,Coffman Cove,0.7,0,0.7,0,0,0,0,0,,EIA860,Early Release
+2021,Bristol Bay,Clark's Point,0.3498,0,0.3498,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Circle,0.29,0,0.29,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Chugach Storage,3,0,0,0,0,0,2,0,,AEA,Early Release
+2021,Lower Yukon-Kuskokwim,Chuathbaluk,0.179,0,0.179,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Copper River/Chugach,Chitina,0.351,0,0.351,0,0,0,0,0,,EIA860,Early Release
+2021,Copper River/Chugach,Chistochina,,,,,,,,0,,EIA860,Early Release
+2021,Southeast,Chilkat Valley,0.55,0,0,0.55,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Chignik Lake,0.435,0,0.435,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Chignik Lagoon,0.66,0,0.493,0.167,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Bristol Bay,Chignik Bay,0.635,0,0.575,0.06,0,0,0,0,,0,Early Release
+2021,Lower Yukon-Kuskokwim,Chevak,2.2,0,1.8,0,0.4,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Chester Lake,1.3,0,0,1.3,0,0,0,0,,AEA,Early Release
+2021,Copper River/Chugach,Chenega Bay,0.487,0,0.487,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Chefornak,1.206,0,0.921,0,0.285,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Chalkyitsik,0.327,0,0.327,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Central,0.345,0,0.345,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Centennial,4.3,0,3.3,0,0,0,1,0,,EIA860,Early Release
+2021,Northwest Arctic,Buckland,1.675,0,1.152,0,0.2,0.046,0.277,0,,EIA860,Early Release
+2021,Bering Straits,Brevig Mission,1,0,1,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Bradley Lake,126,0,0,126,0,0,0,0,,AEA,Early Release
+2021,Southeast,Blue Lake Hydro,15.9,0,0,15.9,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Blind Slough,14.5,0,12.9,1.6,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Black Bear Lake,4.5,0,0,4.5,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Birch Creek,,,,,,,,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Bettles,0.6,0,0.6,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Bethel,13.5,0,12.6,0,0.9,0,0,,,No data,Early Release
+2021,Railbelt,Bernice Lake,76.7,76.7,0,0,0,0,0,,,No data,Early Release
+2021,Railbelt,Beluga,312.4,312.4,0,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Beaver Falls,5.4,0,0,5.4,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Beaver,0.32,0,0.32,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Battery Energy Storage System,40,0,0,0,0,0,40,0,,EIA860,Early Release
+2021,North Slope,Barrow,20.3,17.3,3,0,0,0,0,0,,AEA,Early Release
+2021,Railbelt,Aurora Energy LLC Chena,27.5,27.5,0,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Auke Bay,36.2,33.7,2.5,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,North Slope,Atqasuk,3.2,0,3.2,0,0,0,0,0,,0,Early Release
+2021,Lower Yukon-Kuskokwim,Atmautluak,1.104,0,1.104,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Aleutians,Atka,0.541,0,0.257,0.284,0,0,0,0,,AEA,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Arctic Village,0.395,0,0.395,0,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Anvik,0.44,0,0.44,0,0,0,0,0,,EIA860,Early Release
+2021,Southeast,Annex Creek,4,0,0,4,0,0,0,0,,City of Unalaska,Early Release
+2021,Lower Yukon-Kuskokwim,Aniak,2.2,0,2.2,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Southeast,Angoon,1.5,0,1.5,0,0,0,0,0,,EIA860,Early Release
+2021,Railbelt,Anchorage 1,50.9,48.9,2,0,0,0,0,0,,EIA860,Early Release
+2021,North Slope,Anaktuvuk Pass,2.7,0,2.7,0,0,0,0,0,,EIA860,Early Release
+2021,Northwest Arctic,Ambler,1.1,0,1.1,0,0,0,0,0,,AEA PH Assessment,Early Release
+2021,Copper River/Chugach,Allison Creek Hydro,6.5,0,0,6.5,0,0,0,0,,EIA860,Early Release
+2021,Yukon-Koyukuk/Upper Tanana,Allakaket,,,,,,,,0,,AEA PH Assessment,Early Release
+2021,Lower Yukon-Kuskokwim,Alakanuk,0.8,0,0.8,0,0,0,0,0,,EIA860,Early Release
+2021,Aleutians,Akutan,0.505,0,0.4,0.105,0,0,0,0,,AEA,Early Release
+2021,Lower Yukon-Kuskokwim,Akiak,0.92,0,0.92,0,0,0,0,0,,AEA,Early Release
+2021,Lower Yukon-Kuskokwim,Akiachak,1.5,0,1.5,0,0,0,0,0,,EIA860,Early Release
+2021,Kodiak,Akhiok,0.34,0,0.34,0,0,0,0,1,,AEA,Early Release
+2021,Railbelt,Agrium Kenai Nitrogen Operations,12.5,12.5,0,0,0,0,0,0,,AEA,Early Release
+2021,Aleutians,Adak,,,,,,,,0,, ,Early Release
+2018,Southeast,Yakutat,4.16,0,4.16,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Wrangell,8.5,0,8.5,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Willow Solar,1.34,0,0,0,0,1.34,0,0,,AEA,Early Release
+2018,Southeast,Whitman,4.8,0,0,4.8,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,White Mountain,0,0,0,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Whale Pass,0.25,0,0.25,0,0,0,0,0,,AEA,Early Release
+2018,Aleutians,Westward Seafoods,6.6,0,6.6,0,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,Wales,0.702,0,0.572,0,0.13,0,0,0,,AEA,Early Release
+2018,North Slope,Wainwright,3.11,0,3.11,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Viking,1,0,1,0,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Venetie,0.495,0,0.495,0,0,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Valdez Cogen,5.3,5.3,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Valdez,8.2,2.8,5.4,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Upper Kalskag,1.098,0,1.098,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,University of Alaska Fairbanks,22.6,13,9.6,0,0,0,0,0,,AEA,Early Release
+2018,Aleutians,Unisea G 2,17.5,0,17.5,0,0,0,0,0,,AEA,Early Release
+2018,Aleutians,Unalaska Power Module,1.1,0,1.1,0,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,Unalakleet,2.5,0,1.9,0,0.6,0,0,0,,AEA,Early Release
+2018,Southeast,Tyee Lake Hydroelectric Facility,22.5,0,0,22.5,0,0,0,0,,AEA,Early Release
+2018,Bristol Bay,Twin Hills,0.22,0,0.22,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Tununak,0.344,0,0.344,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Tuntutuliak,1.45,0,0.975,0,0.475,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Tuluksak,0.3,0,0.3,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Toksook Bay,2.018,0,1.618,0,0.4,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Tok,7.6,0,7.6,0,0,0,0,0,,AEA,Early Release
+2018,Bristol Bay,Togiak,2.429,0,2.429,0,0,0,0,0,,AEA,Early Release
+2018,North Slope,TNSG South Plant,7.8,0,7.8,0,0,0,0,0,,AEA,Early Release
+2018,North Slope,TNSG North Plant,25.7,25.4,0.3,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Thorne Bay Plant,1.075,0,1.075,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Tesoro Alaska Company,8.6,8.6,0,0,0,0,0,0,,AEA,Early Release
+2018,Kodiak,Terror Lake Microgrid,33.6,0,0,33.6,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Tenakee Springs,0.42,0,0.24,0.18,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,Teller,0.75,0,0.75,0,0,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,TDX Saint Paul Wind,0.45,0,0,0,0.45,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Tatitlek,0.315,0,0.315,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Tanana,1.375,0,1.375,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Takotna,0.216,0,0.216,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Swan Lake,22.6,0,0,22.6,0,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Swampy Acres,8.4,0,8.4,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Stony River,0.166,0,0.166,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Stevens Village,0.417,0,0.417,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bering Straits,Stebbins,2.02,0,2.02,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Southcentral Power Project,203.9,203.9,0,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,South Fork Hydro (Eagle River),1.2,0,0,1.2,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,South Fork,2,0,0,2,0,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Solomon Gulch,12,0,0,12,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Soldotna,50,50,0,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Snettisham,78.2,0,0,78.2,0,0,0,0,,EIA-F860,Early Release
+2018,Bering Straits,Snake River,20.057,0,16.357,0,3.7,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Sleetmute,0.338,0,0.338,0,0,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Slana Generating Station,0.73,0,0.73,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Skagway,4.4,0,3.4,1,0,0,0,0,,AEA,Early Release
+2018,Southeast,Silvis,2.1,0,0,2.1,0,0,0,0,,AEA,Early Release
+2018,Northwest Arctic,Shungnak,1.258,0,1.258,0,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,Shishmaref,1.609,0,1.609,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bering Straits,Shaktoolik,1,0,0.8,0,0.2,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Shageluk,0.41,0,0.41,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Seward,15.6,0,15.6,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Seldovia,2.2,0,2.2,0,0,0,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Selawik,0.26,0,1.7,0,0.26,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Scammon Bay,1.212,0,1.212,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bering Straits,Savoonga,1.886,0,1.686,0,0.2,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,Sand Point,3.83,0,2.83,0,1,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Salmon Creek 1,8.5,0,0,8.5,0,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,Saint Paul,2.92,0,2.92,0,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,Saint Michael,0.7,0,0.7,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Saint Mary's,2.918,0,2.018,0,0.9,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,Saint George,0.895,0,0.8,0,0.095,0,0,0,,EIA-F860,Early Release
+2018,Southeast,S W Bailey,25.9,0,25.9,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Russian Mission,0.842,0,0.842,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Ruby,0.464,0,0.464,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Red Devil,0.092,0,0.092,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Rampart,0.187,0,0.187,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Quinhagak,1.512,0,1.212,0,0.3,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Purple Lake,3.9,0,0,3.9,0,0,0,0,,AEA,Early Release
+2018,Copper River/Chugach,Power Creek,6,0,0,6,0,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Port Lions,0.5,0,0.5,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Port Heiden,0.369,0,0.369,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Port Alsworth,0.63,0,0.63,0,0,0,0,0,,AEA,Early Release
+2018,North Slope,Point Lay,2.2,0,2.2,0,0,0,0,0,,EIA-F860,Early Release
+2018,North Slope,Point Hope,3.29,0,3.29,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Platinum,0.14,0,0.14,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Pilot Station,1.22,0,1.22,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Pilot Point,0.446,0,0.246,0,0.2,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Pillar Mountain Wind Project Microgrid,9,0,0,0,9,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Perryville,0.434,0,0.41,0,0.024,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Pelican,1.621,0,0.921,0.7,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Pedro Bay,0.211,0,0.211,0,0,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Ouzinkie,0.476,0,0.351,0.125,0,0,0,0,,AEA,Early Release
+2018,Copper River/Chugach,Orca,10.918,0,10.918,0,0,0,0,1,,EIA-F860,Early Release
+2018,Kodiak,Old Harbor,0.706,0,0.706,0,0,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Nymans Plant,10,0,10,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Nunapitchuk,0.484,0,0.484,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Nunam Iqua,0.84,0,0.84,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Nulato,0.989,0,0.989,0,0,0,0,0,,EIA-F860,Early Release
+2018,North Slope,Nuiqsut,4.51,0,4.51,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Northway,1.03,0,1.03,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,North Pole,181,181,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Noorvik,1.592,0,1.572,0,0,0.02,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Noatak,1.3,0,1.3,0,0,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,Nikolski,0.261,0,0.196,0,0.065,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Nikolai,0.3,0,0.3,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Nikiski Co-Generation,80.8,80.8,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Nightmute,0.344,0,0.344,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Newtok,0.27,0,0.27,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Newhalen,1.85,0,1.05,0.8,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,New Stuyahok,1.4,0,1.4,0,0,0,0,0,,AEA,Early Release
+2018,Aleutians,Nelson Lagoon,0.3,0,0.3,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Napaskiak,0.57,0,0.57,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Napakiak,0.25,0,0.25,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Naknek,9.9,0,9.9,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Mountain Village,2.315,0,2.315,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Minto,0.647,0,0.647,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Mekoryuk,1.049,0,0.849,0,0.2,0,0,0,,AEA,Early Release
+2018,Railbelt,McRoberts Creek,0.125,0,0,0.125,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,McGrath,2.2,0,2.2,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Marshall,1.104,0,1.104,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Marathon Hydro,0.16,0,0,0.16,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Manokotak,0.83,0,0.83,0,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Manley Hot Springs,0.236,0,0.236,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Lutak,0.285,0,0,0.285,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Lime Village,0.012,0,0,0,0,0.012,0,0,,AEA,Early Release
+2018,Bristol Bay,Levelock,0.267,0,0.267,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Lemon Creek,61.7,37.2,24.5,0,0,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Larsen Bay,0.815,0,0.34,0.475,0,0,0,0,,AEA,Early Release
+2018,Southeast,Lake Dorothy Hydroelectric Project,14.3,0,0,14.3,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Kwigillingok,1.545,0,1.07,0,0.475,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Kwethluk,1.05,0,1.05,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Koyukuk,0.202,0,0.202,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bering Straits,Koyuk,1.098,0,1.098,0,0,0,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Kotzebue,17.841,0,12.111,0,4.53,0,1.2,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Kotlik,1.698,0,1.698,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Kongiganak,1.315,0,0.84,0,0.475,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Koliganek,0.42,0,0.42,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Kokhanok,0.632,0,0.452,0,0.18,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Kodiak,18.3,0,18.3,0,0,0,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Kobuk,0.171,0,0.171,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Klawock Power Generation Station,2.5,0,2.5,0,0,0,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Kivalina,1.179,0,1.179,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Kipnuk,1.05,0,1.05,0,0,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,King Cove,5.1,0,3.9,1.2,0,0,0,0,,AEA,Early Release
+2018,Northwest Arctic,Kiana,1.173,0,1.173,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Ketchikan,4.2,0,0,4.2,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Kasigluk,2.315,0,2.015,0,0.3,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Kasidaya Creek Hydro,3,0,0,3,0,0,0,0,,AEA,Early Release
+2018,Kodiak,Karluk,0.12,0,0.12,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Kaltag,0.8446,0,0.835,0,0,0.0096,0,0,,AEA,Early Release
+2018,North Slope,Kaktovik,2.72,0,2.72,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Kake,4.4,0,3.9,0.5,0,0,0,0,,AEA,Early Release
+2018,Railbelt,JBER Landfill Gas Power Plant,11.5,0,11.5,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Jarvis Street,25.6,0,25.6,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,International,30,30,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Industrial Plant,41.7,41.7,0,0,0,0,0,0,,AEA,Early Release
+2018,Bristol Bay,Igiugig,0.235,0,0.195,0.04,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Hydaburg,1,0,1,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Huslia,0.8,0,0.8,0,0,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Humpback Creek,1.2,0,0,1.2,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Hughes,0.485,0,0.365,0,0,0.12,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Hooper Bay,2.729,0,2.429,0,0.3,0,0,0,,AEA,Early Release
+2018,Southeast,Hoonah,3.5,0,3.05,0.45,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Holy Cross,0.693,0,0.693,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Hollis,0.45,0,0.45,0,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Healy Lake,0.083,0,0.083,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Healy,92.8,90,2.8,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Haines,6.2,0,6.2,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,GVEA Solar Farm,0.563,0,0,0,0,0.563,0,0,,AEA,Early Release
+2018,Southeast,Gustavus,1.642,0,0.842,0.8,0,0,0,0,,AEA,Early Release
+2018,Southeast,Green Lake,18.6,0,0,18.6,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Grayling,0.607,0,0.607,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Goodnews Bay,0.661,0,0.661,0,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,Golovin,0.72,0,0.72,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Gold Creek,9.7,0,8.1,1.6,0,0,0,0,,AEA,Early Release
+2018,Southeast,Goat Lake Hydro,4,0,0,4,0,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Glennallen,10.7,0,10.7,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,George M Sullivan Generation Plant 2,346.9,346.9,0,0,0,0,0,0,,AEA,Early Release
+2018,Bering Straits,Gambell,2.008,0,1.708,0,0.3,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Galena,3.6,0,3.6,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Fort Yukon,3.4,0,3.4,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Fort Wainwright,20,20,0,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Fort Greely Power Plant,7.4,0,7.4,0,0,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Flywheel Energy Storage System Microgrid,2,0,0,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Fire Island Wind,18,0,0,0,18,0,0,0,,AEA,Early Release
+2018,Aleutians,False Pass,0.503,0,0.503,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,False Island,1.3,0,1.3,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Fairbanks,42.2,36.8,5.4,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Eva Creek Wind,24.6,0,0,0,24.6,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,ESS Battery Microgrid,3,0,0,0,0,0,3,2,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Emmonak,3.623,0,3.223,0,0.4,0,0,0,,AEA,Early Release
+2018,Bering Straits,Elim,1.105,0,1.105,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Elfin Cove,0.347,0,0.347,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Ekwok,0,0,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Eklutna Hydro Project,44.4,0,0,44.4,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Eklutna Generation Station,171,0,171,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Eielson AFB Central Heat & Power Plant,33.5,25,8.5,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Egegik,1.03,0,1.03,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Eek,0.579,0,0.579,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Eagle,0.474,0,0.45,0,0,0.024,0,0,,EIA-F860,Early Release
+2018,Aleutians,Dutch Harbor,22.2,0,22.2,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Dillingham,6.885,0,6.885,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Dewey Lakes ,0.943,0,0,0.943,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Delta Wind Farm,1.9,0,0,0,1.9,0,0,0,,AEA,Early Release
+2018,Railbelt,Delta Power,23.1,23.1,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Deering,0.677,0,0.577,0,0.1,0,0,0,,EIA-F860,Early Release
+2018,Northwest Arctic,Deering,0.09,0,0,0,0,0.09,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Crooked Creek,0.259,0,0.259,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Craig,4.515,0,4.515,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Cooper Lake,19.4,0,0,19.4,0,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,Cold Bay,2.595,0,2.595,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Coffman Cove,0.66,0,0.66,0,0,0,0,0,,EIA-F860,Early Release
+2018,Bristol Bay,Clark's Point,0.446,0,0.446,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Circle,0.27,0,0.27,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Chugach Storage,3,0,0,0,0,0,2,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Chuathbaluk,0.167,0,0.167,0,0,0,0,0,,AEA,Early Release
+2018,Copper River/Chugach,Chitina,0.351,0,0.351,0,0,0,0,0,,AEA,Early Release
+2018,Copper River/Chugach,Chistochina,0.2,0,0.2,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Chilkat Valley,1.15,0,0.6,0.55,0,0,0,0,,AEA,Early Release
+2018,Bristol Bay,Chignik Lake,0.447,0,0.447,0,0,0,0,0,,AEA,Early Release
+2018,Bristol Bay,Chignik Lagoon,0.632,0,0.465,0.167,0,0,0,0,,AEA,Early Release
+2018,Bristol Bay,Chignik Bay,0.637,0,0.577,0.06,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Chevak,2.228,0,1.828,0,0.4,0,0,0,,AEA,Early Release
+2018,Southeast,Chester Lake,1.3,0,0,1.3,0,0,0,0,,AEA,Early Release
+2018,Copper River/Chugach,Chenega Bay,0.198,0,0.198,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Chefornak,1.206,0,0.921,0,0.285,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Chalkyitsik,0.327,0,0.327,0,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Central,0.345,0,0.345,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Centennial,6.1,0,5.1,0,0,0,1,0,,AEA,Early Release
+2018,Northwest Arctic,Buckland,1.372,0,1.127,0,0.2,0.045,0,0,,AEA,Early Release
+2018,Bering Straits,Brevig Mission,1.104,0,1.104,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Bradley Lake,126,0,0,126,0,0,0,0,,AEA,Early Release
+2018,Southeast,Blue Lake Hydro,15.9,0,0,15.9,0,0,0,0,,AEA,Early Release
+2018,Southeast,Blind Slough,14.5,0,12.9,1.6,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Black Bear Lake,4.5,0,0,4.5,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Birch Creek,0.028,0,0.028,0,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Bettles,0.6,0,0.6,0,0,0,0,0,,EIA-F860,Early Release
+2018,Lower Yukon-Kuskokwim,Bethel,13.65,0,12.75,0,0.9,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Bernice Lake,76.7,76.7,0,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Beluga,312.4,312.4,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Beaver Falls,5.4,0,0,5.4,0,0,0,0,,EIA-F860,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Beaver,0.492,0,0.492,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Battery Energy Storage System,40,0,0,0,0,0,40,0,,AEA,Early Release
+2018,North Slope,Barrow,20.3,17.3,3,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Aurora Energy,27.5,27.5,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Southeast,Auke Bay,36.2,33.7,2.5,0,0,0,0,0,,EIA-F860,Early Release
+2018,North Slope,Atqasuk,3.2,0,3.2,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Atmautluak,1.104,0,1.104,0,0,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,Atka,0.541,0,0.257,0.284,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Arctic Village,0.395,0,0.395,0,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Anvik,0.503,0,0.503,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Annex Creek,4,0,0,4,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Aniak,1.7,0,1.7,0,0,0,0,0,,AEA,Early Release
+2018,Southeast,Angoon,1.585,0,1.585,0,0,0,0,0,,AEA,Early Release
+2018,Railbelt,Anchorage 1,77.9,75.9,2,0,0,0,0,0,,EIA-F860,Early Release
+2018,North Slope,Anaktuvuk Pass,2.795,0,2.795,0,0,0,0,0,,AEA,Early Release
+2018,Northwest Arctic,Ambler,1.031,0,1.031,0,0,0,0,0,,EIA-F860,Early Release
+2018,Copper River/Chugach,Allison Creek Hydro,6.5,0,0,6.5,0,0,0,0,,AEA,Early Release
+2018,Yukon-Koyukuk/Upper Tanana,Allakaket/Alatna,0.525,0,0.525,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Alakanuk,0.8,0,0.8,0,0,0,0,0,,AEA,Early Release
+2018,Aleutians,Akutan,0.657,0,0.552,0.105,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Akiak,0.92,0,0.92,0,0,0,0,0,,AEA,Early Release
+2018,Lower Yukon-Kuskokwim,Akiachak,1.5,0,1.5,0,0,0,0,0,,EIA-F860,Early Release
+2018,Kodiak,Akhiok,0.36,0,0.36,0,0,0,0,0,,EIA-F860,Early Release
+2018,Railbelt,Agrium Kenai Nitrogen Operations,12.5,12.5,0,0,0,0,0,0,,EIA-F860,Early Release
+2018,Aleutians,Adak,4.335,0,4.335,0,0,0,0,0,,EIA-F860,Early Release
+2013,Southeast,Yakutat,4.9,0,4.9,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Wrangell,8.5,0,8.5,0,0,,,,0,AEA Village Assessment,
+2013,Bering Straits,White Mountain,0.585,0,0.585,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Whale Pass,0.25,0,0.25,0,0,,,,0,AEA Village Assessment,
+2013,Bering Straits,Wales,0.625,0,0.495,0,0.13,,,,0,EIA-F860,
+2013,North Slope,Wainwright,3,0,3,0,0,,,,0,EIA-F860,
+2013,Southeast,Viking,1,0,1,0,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Venetie,0.495,0,0.495,0,0,,,,0,EIA-F860,
+2013,Copper River/Chugach,Valdez Cogen,5.3,5.3,0,0,0,,,,0,EIA-F860,
+2013,Copper River/Chugach,Valdez,9.7,2.8,6.9,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Upper Kalskag,1.1,0,1.1,0,0,,,,0,EIA-F860,
+2013,Aleutians,Unalaska Power Module,1.1,0,1.1,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Unalakleet,2.6,0,2,0,0.6,,,,0,AEA Village Assessment,
+2013,Southeast,Tyee Lake Hydroelectric Facility,20,0,0,20,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Twin Hills,0.22,0,0.22,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Tununak,0.325,0,0.325,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Tuntutuliak,1.34,0,0.865,0,0.475,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Tuluksak,0.795,0,0.795,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Toksook Bay,2.1,0,1.7,0,0.4,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Tok,7.6,0,7.6,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Togiak,1.3,0,1.3,0,0,,,,0,EIA-F860,
+2013,Southeast,Thorne Bay Plant,1,0,1,0,0,,,,0,AEA Hydro Program Manager,
+2013,Kodiak,Terror Lake Microgrid,22.4,0,0,22.4,0,,,,0,AEA Village Assessment,
+2013,Southeast,Tenakee Springs,0.24,0,0.24,0,0,,,,0,AEA Village Assessment,
+2013,Bering Straits,Teller,1.05,0,1.05,0,0,,,,0,EIA-F860,
+2013,Copper River/Chugach,Tatitlek,0.315,0,0.315,0,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Tanana,1.545,0,1.545,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Takotna,0.216,0,0.216,0,0,,,,0,EIA-F860,
+2013,Southeast,Swan Lake,22.4,0,0,22.4,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Stony River,0.138,0,0.138,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Stevens Village,0.263,0,0.263,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Stebbins,1.2,0,1.2,0,0,,,,0,EIA-F860,
+2013,Railbelt,Southcentral Power Project,203.9,203.9,0,0,0,,,,0,EIA-F860,
+2013,Southeast,South Fork Hydro,1.2,0,0,1.2,0,,,,0,EIA-F860,
+2013,Southeast,South Fork,2,0,0,2,0,,,,0,AEA Village Assessment,
+2013,Copper River/Chugach,Solomon Gulch,12,0,0,12,0,,,,0,EIA-F860,
+2013,Southeast,Snettisham,78.2,0,0,78.2,0,,,,0,AEA Village Assessment,
+2013,Bering Straits,Snake River,18,0,16.2,0,1.8,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Sleetmute,0.323,0,0.323,0,0,,,,0,AEA Village Assessment,
+2013,Copper River/Chugach,Slana Generating Station,0.73,0,0.73,0,0,,,,0,"AEA Wind Program Manager, AEA Village Assessment",
+2013,Southeast,Skagway,4.4,0,3.4,1,0,,,,0,AEA Village Assessment,
+2013,Southeast,Silvis,2.1,0,0,2.1,0,,,,0,AEA Village Assessment,
+2013,Northwest Arctic,Shungnak,1.2,0,1.2,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Shishmaref,1.4,0,1.4,0,0,,,,0,EIA-F860,
+2013,#N/A,Sheldon Point,0.708,0,0.708,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Shaktoolik,1.198,0,0.998,0,0.2,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Shageluk,0.408,0,0.408,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Seward,15.6,0,15.6,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Seldovia,2.4,0,2.4,0,0,,,,0,EIA-F860,
+2013,Northwest Arctic,Selawik,1.6,0,1.6,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Scammon Bay,1.3,0,1.3,0,0,,,,0.01,AEA Village Assessment,
+2013,Bering Straits,Savoonga,1.9,0,1.7,0,0.2,,,,0,EIA-F860,
+2013,Aleutians,Sand Point,3.88,0,2.88,0,1,,,,0,EIA-F860,
+2013,Southeast,Salmon Creek 1,8.5,0,0,8.5,0,,,,0,EIA-F860,
+2013,Aleutians,Saint Paul,3.495,0,2.62,0,0.675,,,,0,EIA-F860,
+2013,Bering Straits,Saint Michael,1,0,1,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Saint Mary's,6.5,0,6.5,0,0,,,,0,AEA Village Assessment,
+2013,Aleutians,Saint George,0.98,0,0.98,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,S W Bailey,25.9,0,25.9,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Russian Mission,0.904,0,0.904,0,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Ruby,0.464,0,0.464,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Red Devil,0.13,0,0.13,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Rampart,0.367,0,0.367,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Quinhagak,1.4,0,1.1,0,0.3,,,,0,EIA-F860,
+2013,Southeast,Purple Lake,3.9,0,0,3.9,0,,,,0,AEA Village Assessment,
+2013,Copper River/Chugach,Power Creek,6,0,0,6,0,,,,0,AEA Village Assessment,
+2013,Kodiak,Port Lions,1,0,1,0,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Port Heiden,0.369,0,0.369,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Port Alsworth,0.466,0,0.466,0,0,,,,0,EIA-F860,
+2013,North Slope,Point Lay,2.4,0,2.4,0,0,,,,0,AEA Village Assessment,
+2013,North Slope,Point Hope,2.1,0,2.1,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Platinum,0.129,0,0.129,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Pilot Station,1.2,0,1.2,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Pilot Point,0.246,0,0.246,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Pilot Point,0.02,0,0,0,0.02,,,,0,EIA-F860,
+2013,Kodiak,Pillar Mountain,9,0,0,0,9,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Perryville,0.497,0,0.473,0,0.024,,,,0,AEA Village Assessment,
+2013,Southeast,Pelican,1,0,1,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Pedro Bay,0.211,0,0.211,0,0,,,,0,EIA-F860,
+2013,Kodiak,Ouzinkie,0.336,0,0.336,0,0,,,,0,EIA-F860,
+2013,Copper River/Chugach,Orca,10.7,0,10.7,0,0,,,,0,AEA Village Assessment,
+2013,Kodiak,Old Harbor,0.703,0,0.703,0,0,,,,0,EIA-F860,
+2013,Kodiak,Nymans Plant,10,0,10,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Nunapitchuk,0.5,0,0.5,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Nulato,1.002,0,1.002,0,0,,,,0,EIA-F860,
+2013,North Slope,Nuiqsut,4.6,0,4.6,0,0,,,,0,"AEA Village Assessment, AEA Wind Program Manager",
+2013,Yukon-Koyukuk/Upper Tanana,Northway,1.1,0,1.1,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,North Pole,181,181,0,0,0,,,,0,EIA-F860,
+2013,Northwest Arctic,Noorvik,1,0,1,0,0,,,,0,AEA Hydro Program Manager,
+2013,Northwest Arctic,Noatak,1.2,0,1.2,0,0,,,,0,EIA-F860,
+2013,Aleutians,Nikolski,0.261,0,0.196,0,0.065,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Nikolai,0.3,0,0.3,0,0,,,,0,EIA-F860,
+2013,Railbelt,Nikiski Co-Generation,77.9,77.9,0,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Nightmute,0.325,0,0.325,0,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Newhalen,1.724,0,0.9,0.824,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,New Stuyahok,1.331,0,1.331,0,0,,,,0,EIA-F860,
+2013,Aleutians,Nelson Lagoon,0.3,0,0.3,0,0,,,,0,AEA Wind Program Manager,
+2013,Southeast,Naukati Bay,0.488,0,0.488,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Napakiak,0.25,0,0.25,0,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Naknek,9.9,0,9.9,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Mountain Village,1.7,0,1.7,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Minto,0.708,0,0.708,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Mekoryuk,0.904,0,0.704,0,0.2,,,,0,AEA Village Assessment,
+2013,Southeast,McRoberts Creek,0.125,0,0,0.125,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,McGrath,2.2,0,2.2,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Marshall,1.085,0,1.085,0,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Manokotak,0.73,0,0.73,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Manley Hot Springs,0.486,0,0.486,0,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Levelock,0.234,0,0.234,0,0,,,,0,EIA-F860,
+2013,Southeast,Lemon Creek,61.7,37.2,24.5,0,0,,,,0,EIA-F860,
+2013,Kodiak,Larsen Bay,0.868,0,0.393,0.475,0,,,,0,EIA-F860,
+2013,Southeast,Lake Dorothy,14.3,0,0,14.3,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Kwigillingok,1.198,0,0.723,0,0.475,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Kwethluk,1.3,0,1.3,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Koyukuk,0.202,0,0.202,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Koyuk,1.1,0,1.1,0,0,,,,0,EIA-F860,
+2013,Northwest Arctic,Kotzebue,15.8,0,11.1,0,4.7,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Kotlik,1.4,0,1.4,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Kongiganak,1.375,0,0.925,0,0.45,,,,0,EIA-F860,
+2013,Bristol Bay,Koliganek,0.42,0,0.42,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Kokhanok,0.792,0,0.612,0,0.18,,,,0,EIA-F860,
+2013,Kodiak,Kodiak,22.3,0,22.3,0,0,,,,0,AEA Village Assessment,
+2013,Northwest Arctic,Kobuk,0.215,0,0.215,0,0,,,,0,AEA Village Assessment,
+2013,Northwest Arctic,Kivalina,1.1,0,1.1,0,0,,,,0,AEA Hydro Program Manager,
+2013,Aleutians,King Cove,2.6,0,1.8,0.8,0,,,,0,AEA Village Assessment,
+2013,Northwest Arctic,Kiana,1.1,0,1.1,0,0,,,,0,EIA-F860,
+2013,Southeast,Ketchikan,4.2,0,0,4.2,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Kasigluk,1.9,0,1.6,0,0.3,,,,0,AEA Village Assessment,
+2013,Southeast,Kasidaya Creek,3,0,0,3,0,,,,0,AEA Village Assessment,
+2013,Kodiak,Karluk,0.14,0,0.14,0,0,,,,27,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Kaltag,0.559,0,0.549,0,0,,,,0,EIA-F860,
+2013,North Slope,Kaktovik,2.6,0,2.6,0,0,,,,0,EIA-F860,
+2013,Southeast,Kake,2.4,0,2.4,0,0,,,,0,EIA-F860,
+2013,Southeast,Jarvis Street,12.1,0,12.1,0,0,,,,0,EIA-F860,
+2013,Railbelt,International,46.3,46.3,0,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Igiugig,0.201,0,0.201,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Hydaburg,1,0,1,0,0,,,,0,AEA Hydro Program Manager,
+2013,Yukon-Koyukuk/Upper Tanana,Huslia,0.796,0,0.796,0,0,,,,0,AEA Village Assessment,
+2013,Copper River/Chugach,Humpback Creek,1.2,0,0,1.2,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Hughes,0.23,0,0.23,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Hooper Bay,1.9,0,1.6,0,0.3,,,,0,AEA,
+2013,Southeast,Hoonah,2,0,2,0,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Holy Cross,0.455,0,0.455,0,0,,,,0,EIA-F860,
+2013,Southeast,Hollis,0.45,0,0.45,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Healy Lake,0.083,0,0.083,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Healy,30.8,28,2.8,0,0,,,,0,EIA-F860,
+2013,Southeast,Haines,6.485,0,6.2,0.285,0,,,,0,AEA Hydro Program Manager,
+2013,Southeast,Gustavus,0.842,0,0.842,0,0,,,,0,EIA-F860,
+2013,Southeast,Green Lake,18.6,0,0,18.6,0,,,,0,AEA,
+2013,Yukon-Koyukuk/Upper Tanana,Grayling,0.26,0,0.26,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Goodnews Bay,0.48,0,0.48,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Golovin,0.58,0,0.58,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Gold Creek,9.7,0,8.1,1.6,0,,,,0,EIA-F860,
+2013,Southeast,Goat Lake,4,0,0,4,0,,,,0,EIA-F860,
+2013,Copper River/Chugach,Glennallen,10.7,0,10.7,0,0,,,,0,EIA-F860,
+2013,Railbelt,George M Sullivan Generation Plant 2,266.3,266.3,0,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Gambell,1.9,0,1.6,0,0.3,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Galena,3.9,0,3.9,0,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Fort Yukon,2.1,0,2.1,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Fire Island,18,0,0,0,18,,,,3,EIA-F860,
+2013,Aleutians,False Pass,0.375,0,0.375,0,0,,,,0,EIA-F860,
+2013,Southeast,False Island,1.3,0,1.3,0,0,,,,0,EIA-F860,
+2013,Southeast,Falls Creek,0.8,0,0,0.8,0,,,,0,EIA-F860,
+2013,Railbelt,Fairbanks,42.2,36.8,5.4,0,0,,,,0,EIA-F860,
+2013,Railbelt,Eva Creek,24.6,0,0,0,24.6,,,,0,EIA-F860,
+2013,Railbelt,ESS Battery,3,0,0,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Emmonak,2.8,0,2.4,0,0.4,,,,0,EIA-F860,
+2013,Bering Straits,Elim,1.6,0,1.6,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Elfin Cove,0.347,0,0.347,0,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Ekwok,0.37,0,0.37,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Eklutna Lake,44.4,0,0,44.4,0,,,,0,"AEA Hydro Program Manager, AEA Village Assessment",
+2013,Bristol Bay,Egegik,0.38,0,0.38,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Eek,0.595,0,0.595,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Eagle,0.45,0,0.45,0,0,,,,0,EIA-F860,
+2013,Aleutians,Dutch Harbor,17.5,0,17.5,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Dillingham,6.6,0,6.6,0,0,,,,0,EIA-F860,
+2013,Railbelt,Delta Wind Farm,1.9,0,0,0,1.9,,,,0,EIA-F860,
+2013,Railbelt,Delta Power,23.1,23.1,0,0,0,,,,0,AEA Village Assessment,
+2013,Northwest Arctic,Deering,0.577,0,0.577,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Crooked Creek,0.223,0,0.223,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Craig,4.4,0,4.4,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Cooper Lake,19.4,0,0,19.4,0,,,,0,AEA Village Assessment,
+2013,Aleutians,Cold Bay,2.495,0,2.495,0,0,,,,0,EIA-F860,
+2013,Southeast,Coffman Cove,0.66,0,0.66,0,0,,,,0,AEA Village Assessment,
+2013,Bristol Bay,Clark's Point,0.446,0,0.446,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Circle,0.188,0,0.188,0,0,,,,0,"AEA Wind Program Manager, AEA Village Assessment",
+2013,Lower Yukon-Kuskokwim,Chuathbaluk,0.179,0,0.179,0,0,,,,0,AEA Village Assessment,
+2013,Copper River/Chugach,Chitina,0.301,0,0.301,0,0,,,,0,AEA Village Assessment,
+2013,Copper River/Chugach,Chistochina,0.2,0,0.2,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Chilkat Valley,0.6,0,0.6,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Chignik Lake,0.442,0,0.442,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Chignik Lagoon,0.453,0,0.453,0,0,,,,0,EIA-F860,
+2013,Bristol Bay,Chignik,0.575,0,0.575,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Chevak,2.015,0,1.615,0,0.4,,,,0,EIA-F860,
+2013,Southeast,Chester Lake,1,0,0,1,0,,,,0,EIA-F860,
+2013,Copper River/Chugach,Chenega Bay,0.198,0,0.198,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Chefornak,0.921,0,0.921,0,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Chalkyitsik,0.307,0,0.307,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Central,0.575,0,0.575,0,0,,,,0,EIA-F860,
+2013,Southeast,Centennial,3.3,0,3.3,0,0,,,,0,AEA Village Assessment,
+2013,Northwest Arctic,Buckland,1.152,0,1.152,0,0,,,,0,AEA Village Assessment,
+2013,Bering Straits,Brevig Mission,1.025,0,1.025,0,0,,,,0,EIA-F860,
+2013,Railbelt,Bradley Lake,120,0,0,120,0,,,,0,EIA-F860,
+2013,Southeast,Blue Lake,7,0,0,7,0,,,,0,AEA Village Assessment,
+2013,Southeast,Blind Slough,14.8,0,13.2,1.6,0,,,,0,AEA Village Assessment,
+2013,Southeast,Black Bear Lake,4.5,0,0,4.5,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Birch Creek,0.028,0,0.028,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Bettles,0.6,0,0.6,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Bethel,12.6,0,12.6,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Bernice Lake,76.7,76.7,0,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Beluga,374.4,374.4,0,0,0,,,,0.2,"AEA Village Assessment, AEA Wind Program Manager",
+2013,Southeast,Beaver Falls,5.4,0,0,5.4,0,,,,0,EIA-F860,
+2013,Yukon-Koyukuk/Upper Tanana,Beaver,0.244,0,0.244,0,0,,,,0,EIA-F860,
+2013,Railbelt,Battery Energy Storage System,27,0,0,0,0,,,,0,EIA-F860,
+2013,North Slope,Barrow,20.3,17.3,3,0,0,,,,0,EIA-F860,
+2013,Bering Straits,Banner Peak Wind Farm,1.17,0,0,0,1.17,,,,0,FERC,
+2013,Railbelt,AWWU Conduit,0.75,0,0,0.75,0,,,,0,AEA,
+2013,#N/A,Aurora Energy,27.5,27.5,0,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Auke Bay,36.2,33.7,2.5,0,0,,,,0,AEA Wind Program Manager,
+2013,North Slope,Atqasuk,3.2,0,3.2,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Atmautluak,0.547,0,0.547,0,0,,,,0,AEA Village Assessment,
+2013,Aleutians,Atka,0.541,0,0.257,0.284,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Arctic Village,0.395,0,0.395,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Anvik,0.375,0,0.375,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Annex Creek,4,0,0,4,0,,,,0,"AEA Wind Program Manager, AEA Village Assessment",
+2013,Lower Yukon-Kuskokwim,Aniak,1.1,0,1.1,0,0,,,,0,AEA Village Assessment,
+2013,Southeast,Angoon,1.5,0,1.5,0,0,,,,0,AEA Village Assessment,
+2013,Railbelt,Anchorage 1,102.9,100.9,2,0,0,,,,0,AEA Village Assessment,
+2013,North Slope,Anaktuvuk Pass,2.7,0,2.7,0,0,,,,0,AEA Village Assessment,
+2013,Northwest Arctic,Ambler,1.115,0,1.115,0,0,,,,0,AEA Village Assessment,
+2013,Yukon-Koyukuk/Upper Tanana,Allakaket,0.525,0,0.525,0,0,,,,0,AEA Village Assessment,
+2013,Lower Yukon-Kuskokwim,Alakanuk,2.1,0,2.1,0,0,,,,0,EIA-F860,
+2013,Aleutians,Akutan,0.407,0,0.407,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Akiak,0.92,0,0.92,0,0,,,,0,EIA-F860,
+2013,Lower Yukon-Kuskokwim,Akiachak,1.5,0,1.5,0,0,,,,0,AEA Village Assessment,
+2013,Kodiak,Akhiok,0.36,0,0.36,0,0,,,,0,AEA Village Assessment,
+2013,Aleutians,Adak,4.035,0,4.035,0,0,,,,0,EIA-F860,
+2013,Aleutians,10 Mile,0.6,0,0,0.6,0,,,,0,EIA-F860,
+2012,Southeast,Yakutat,4.9,0,4.9,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Wrangell,8.5,0,8.5,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,White Mountain,0.585,0,0.585,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Whale Pass,0.25,0,0.25,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,Wales,0.625,0,0.495,0,0.13,,,,,EIA-F860,
+2012,North Slope,Wainwright,3,0,3,0,0,,,,,EIA-F860,
+2012,Southeast,Viking,1,0,1,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Venetie,0.495,0,0.495,0,0,,,,,EIA-F860,
+2012,Copper River/Chugach,Valdez Cogen,5.3,5.3,0,0,0,,,,,EIA-F860,
+2012,Copper River/Chugach,Valdez,9.7,2.8,6.9,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Upper Kalskag,1.1,0,1.1,0,0,,,,,EIA-F860,
+2012,Aleutians,Unalaska Power Module,1.1,0,1.1,0,0,,,,,EIA-F860,
+2012,Bering Straits,Unalakleet,2.6,0,2,0,0.6,,,,,AEA Village Assessment,
+2012,Southeast,Tyee Lake,20,0,0,20,0,,,,,AEA Village Assessment,
+2012,Bristol Bay,Twin Hills,0.22,0,0.22,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Tununak,0.325,0,0.325,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Tuntutuliak,1.34,0,0.865,0,0.475,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Tuluksak,0.795,0,0.795,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Toksook Bay,2.1,0,1.7,0,0.4,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Tok,7.6,0,7.6,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Togiak,1.3,0,1.3,0,0,,,,,EIA-F860,
+2012,Southeast,Thorne Bay Plant,1,0,1,0,0,,,,,EIA-F860,
+2012,Kodiak,Terror Lake,22.4,0,0,22.4,0,,,,,AEA Hydro Program Manager,
+2012,Southeast,Tenakee Springs,0.24,0,0.24,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,Teller,1.05,0,1.05,0,0,,,,,AEA Village Assessment,
+2012,Copper River/Chugach,Tatitlek,0.315,0,0.315,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Tanana,1.545,0,1.545,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Takotna,0.216,0,0.216,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Swan Lake,22.4,0,0,22.4,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Stony River,0.138,0,0.138,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Stevens Village,0.263,0,0.263,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,Stebbins,1.2,0,1.2,0,0,,,,,EIA-F860,
+2012,Southeast,South Fork,2,0,0,2,0,,,,,EIA-F860,
+2012,Copper River/Chugach,Solomon Gulch,12,0,0,12,0,,,,,EIA-F860,
+2012,Southeast,Snettisham,78.2,0,0,78.2,0,,,,,EIA-F860,
+2012,Bering Straits,Snake River,20.5,0,20.5,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Sleetmute,0.323,0,0.323,0,0,,,,,EIA-F860,
+2012,Copper River/Chugach,Slana,0.73,0,0.73,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Skagway,4.4,0,3.4,1,0,,,,,AEA Village Assessment,
+2012,Southeast,Silvis,2.1,0,0,2.1,0,,,,,AEA Village Assessment,
+2012,Northwest Arctic,Shungnak,1.2,0,1.2,0,0,,,,,"AEA Wind Program Manager, AEA Village Assessment",
+2012,Bering Straits,Shishmaref,1.4,0,1.4,0,0,,,,,AEA Village Assessment,
+2012,#N/A,Sheldon Point,0.708,0,0.708,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,Shaktoolik,1.198,0,0.998,0,0.2,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Shageluk,0.408,0,0.408,0,0,,,,,EIA-F860,
+2012,Railbelt,Seward,15.6,0,15.6,0,0,,,,,EIA-F860,
+2012,Railbelt,Seldovia,2.4,0,2.4,0,0,,,,,AEA Village Assessment,
+2012,Northwest Arctic,Selawik,1.86,0,1.6,0,0.26,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Scammon Bay,1.3,0,1.3,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,Savoonga,1.9,0,1.7,0,0.2,,,,,EIA-F860,
+2012,Aleutians,Sand Point,3.88,0,2.88,0,1,,,,,AEA Village Assessment,
+2012,Southeast,Salmon Creek 1,8.5,0,0,8.5,0,,,,,AEA Village Assessment,
+2012,Aleutians,Saint Paul,3.295,0,2.62,0,0.675,,,,,EIA-F860,
+2012,Bering Straits,Saint Michael,1,0,1,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Saint Mary's,6.5,0,6.5,0,0,,,,,EIA-F860,
+2012,Aleutians,Saint George,0.98,0,0.98,0,0,,,,,EIA-F860,
+2012,Southeast,S W Bailey,25.9,0,25.9,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Russian Mission,0.904,0,0.904,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Ruby,0.464,0,0.464,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Red Devil,0.13,0,0.13,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Rampart,0.367,0,0.367,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Quinhagak,1.4,0,1.1,0,0.3,,,,,AEA Village Assessment,
+2012,Southeast,Purple Lake,3.9,0,0,3.9,0,,,,,AEA Village Assessment,
+2012,Copper River/Chugach,Power Creek,6,0,0,6,0,,,,,EIA-F860,
+2012,Kodiak,Port Lions,1,0,1,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Port Heiden,0.369,0,0.369,0,0,,,,,AEA Village Assessment,
+2012,Bristol Bay,Port Alsworth,0.466,0,0.466,0,0,,,,,AEA Village Assessment,
+2012,North Slope,Point Lay,1.8,0,1.8,0,0,,,,,AEA Village Assessment,
+2012,North Slope,Point Hope,2.7,0,2.7,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Platinum,0.129,0,0.129,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Pilot Station,1.2,0,1.2,0,0,,,,,AEA Village Assessment,
+2012,Bristol Bay,Pilot Point,0.246,0,0.246,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Pilot Point,0.02,0,0,0,0.02,,,,,EIA-F860,
+2012,Kodiak,Pillar Mountain,9,0,0,0,9,,,,,EIA-F860,
+2012,Bristol Bay,Perryville,0.497,0,0.473,0,0.024,,,,,EIA-F860,
+2012,Southeast,Pelican,1.7,0,1,0.7,0,,,,,EIA-F860,
+2012,Bristol Bay,Pedro Bay,0.211,0,0.211,0,0,,,,,AEA Village Assessment,
+2012,Kodiak,Ouzinkie,0.336,0,0.336,0,0,,,,,AEA Village Assessment,
+2012,Copper River/Chugach,Orca,10.7,0,10.7,0,0,,,,,EIA-F860,
+2012,Kodiak,Old Harbor,0.703,0,0.703,0,0,,,,,EIA-F860,
+2012,Kodiak,Nymans Plant,10,0,10,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Nunapitchuk,0.5,0,0.5,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Nulato,1.002,0,1.002,0,0,,,,,EIA-F860,
+2012,North Slope,Nuiqsut,3.8,0,3.8,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Northway,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,North Pole,181,181,0,0,0,,,,,EIA-F860,
+2012,Northwest Arctic,Noorvik,1,0,1,0,0,,,,,"AEA Village Assessment, AEA Wind Program Manager",
+2012,Northwest Arctic,Noatak,1.2,0,1.2,0,0,,,,,AEA Village Assessment,
+2012,Aleutians,Nikolski,0.261,0,0.196,0,0.065,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Nikolai,0.3,0,0.3,0,0,,,,,AEA Hydro Program Manager,
+2012,Railbelt,Nikiski Co-Generation,37.9,37.9,0,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Nightmute,0.325,0,0.325,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Newhalen,1.7,0,0.9,0.8,0,,,,,EIA-F860,
+2012,Bristol Bay,New Stuyahok,1.331,0,1.331,0,0,,,,,AEA Village Assessment,
+2012,Aleutians,Nelson Lagoon,0.3,0,0.3,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Naukati Bay,0.488,0,0.488,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Napakiak,0.25,0,0.25,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Naknek,9.9,0,9.9,0,0,,,,,AEA Wind Program Manager,
+2012,Lower Yukon-Kuskokwim,Mountain Village,1.7,0,1.7,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Minto,0.708,0,0.708,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Mekoryuk,0.904,0,0.704,0,0.2,,,,,EIA-F860,
+2012,Southeast,McRoberts Creek,0.125,0,0,0.125,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,McGrath,2.2,0,2.2,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Marshall,1.085,0,1.085,0,0,,,,,AEA Village Assessment,
+2012,Bristol Bay,Manokotak,0.73,0,0.73,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Manley Hot Springs,0.486,0,0.486,0,0,,,,,AEA Village Assessment,
+2012,Bristol Bay,Levelock,0.234,0,0.234,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Lemon Creek,61.7,37.2,24.5,0,0,,,,,AEA Village Assessment,
+2012,Kodiak,Larsen Bay,0.868,0,0.393,0.475,0,,,,,AEA Village Assessment,
+2012,Southeast,Lake Dorothy,14.3,0,0,14.3,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Kwigillingok,1.198,0,0.723,0,0.475,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Kwethluk,1.3,0,1.3,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Koyukuk,0.202,0,0.202,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,Koyuk,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2012,Northwest Arctic,Kotzebue,15.4,0,10.7,0,4.7,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Kotlik,1.4,0,1.4,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Kongiganak,1.375,0,0.925,0,0.45,,,,,EIA-F860,
+2012,Bristol Bay,Koliganek,0.42,0,0.42,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Kokhanok,0.792,0,0.612,0,0.18,,,,,EIA-F860,
+2012,Kodiak,Kodiak,22.3,0,22.3,0,0,,,,,EIA-F860,
+2012,Northwest Arctic,Kobuk,0.215,0,0.215,0,0,,,,,EIA-F860,
+2012,Northwest Arctic,Kivalina,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2012,Aleutians,King Cove,2.6,0,1.8,0.8,0,,,,,AEA Village Assessment,
+2012,Northwest Arctic,Kiana,1.1,0,1.1,0,0,,,,,AEA Hydro Program Manager,
+2012,Southeast,Ketchikan,4.2,0,0,4.2,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Kasigluk,1.9,0,1.6,0,0.3,,,,,EIA-F860,
+2012,Southeast,Kasidaya Creek,3,0,0,3,0,,,,,EIA-F860,
+2012,Kodiak,Karluk,0.14,0,0.14,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Kaltag,0.549,0,0.549,0,0,,,,,AEA Village Assessment,
+2012,North Slope,Kaktovik,2.6,0,2.6,0,0,,,,,EIA-F860,
+2012,Southeast,Kake,2.4,0,2.4,0,0,,,,,AEA,
+2012,Southeast,Jarvis Street,12.1,0,12.1,0,0,,,,,EIA-F860,
+2012,Railbelt,International,46.3,46.3,0,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Igiugig,0.201,0,0.201,0,0,,,,,EIA-F860,
+2012,Southeast,Hydaburg,1,0,1,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Huslia,0.796,0,0.796,0,0,,,,,AEA Hydro Program Manager,
+2012,Copper River/Chugach,Humpback Creek,1.2,0,0,1.2,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Hughes,0.23,0,0.23,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Hooper Bay,1.9,0,1.6,0,0.3,,,,,EIA-F860,
+2012,Southeast,Hoonah,2,0,2,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Holy Cross,0.455,0,0.455,0,0,,,,,EIA-F860,
+2012,Southeast,Hollis,0.45,0,0.45,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Healy Lake,0.083,0,0.083,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,Healy,30.8,28,2.8,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Haines,6.2,0,6.2,0,0,,,,,EIA-F860,
+2012,Southeast,Haines,6.485,0,6.2,0.285,0,,,,,AEA Hydro Program Manager,
+2012,Southeast,Gustavus,0.842,0,0.842,0,0,,,,,EIA-F860,
+2012,Southeast,Green Lake,18.6,0,0,18.6,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Grayling,0.26,0,0.26,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Goodnews Bay,0.48,0,0.48,0,0,,,,,EIA-F860,
+2012,Bering Straits,Golovin,0.58,0,0.58,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Gold Creek,9.7,0,8.1,1.6,0,,,,,EIA-F860,
+2012,Southeast,Goat Lake,4,0,0,4,0,,,,,EIA-F860,
+2012,Copper River/Chugach,Glennallen,10.7,0,10.7,0,0,,,,,EIA-F860,
+2012,Railbelt,George M Sullivan Generation Plant 2,266.3,266.3,0,0,0,,,,,EIA-F860,
+2012,Bering Straits,Gambell,1.9,0,1.6,0,0.3,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Galena,4.2,0,4.2,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Fort Yukon,2.7,0,2.7,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,Fire Island,18,0,0,0,18,,,,,EIA-F860,
+2012,Aleutians,False Pass,0.375,0,0.375,0,0,,,,,EIA-F860,
+2012,Southeast,False Island,1.3,0,1.3,0,0,,,,,EIA-F860,
+2012,Southeast,Falls Creek,0.8,0,0,0.8,0,,,,,EIA-F860,
+2012,Railbelt,Fairbanks,42.2,36.8,5.4,0,0,,,,,EIA-F860,
+2012,Railbelt,Eva Creek,24.6,0,0,0,24.6,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Emmonak,2.8,0,2.4,0,0.4,,,,,EIA-F860,
+2012,Bering Straits,Elim,1.6,0,1.6,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Elfin Cove,0.347,0,0.347,0,0,,,,,AEA Village Assessment,
+2012,Bristol Bay,Ekwok,0.37,0,0.37,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,Eklutna Lake,44.4,0,0,44.4,0,,,,,"AEA Hydro Program Manager, AEA Village Assessment",
+2012,Bristol Bay,Egegik,0.38,0,0.38,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Eek,0.595,0,0.595,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Eagle,0.45,0,0.45,0,0,,,,,EIA-F860,
+2012,Aleutians,Dutch Harbor,17.5,0,17.5,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Dillingham,6.6,0,6.6,0,0,,,,,EIA-F860,
+2012,Railbelt,Delta Wind Farm,1,0,0,0,1,,,,,EIA-F860,
+2012,Railbelt,Delta Power,23.1,23.1,0,0,0,,,,,AEA Village Assessment,
+2012,Northwest Arctic,Deering,0.577,0,0.577,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Crooked Creek,0.223,0,0.223,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Craig,4.4,0,4.4,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,Cooper Lake,19.4,0,0,19.4,0,,,,,AEA Village Assessment,
+2012,Aleutians,Cold Bay,2.495,0,2.495,0,0,,,,,EIA-F860,
+2012,Southeast,Coffman Cove,0.66,0,0.66,0,0,,,,,AEA Village Assessment,
+2012,Bristol Bay,Clark's Point,0.446,0,0.446,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Circle,0.188,0,0.188,0,0,,,,,"AEA Wind Program Manager, AEA Village Assessment",
+2012,Lower Yukon-Kuskokwim,Chuathbaluk,0.179,0,0.179,0,0,,,,,AEA Village Assessment,
+2012,Copper River/Chugach,Chitina,0.301,0,0.301,0,0,,,,,AEA Village Assessment,
+2012,Copper River/Chugach,Chistochina,0.2,0,0.2,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Chilkat Valley,0.6,0,0.6,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Chignik Lake,0.442,0,0.442,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Chignik Lagoon,0.453,0,0.453,0,0,,,,,EIA-F860,
+2012,Bristol Bay,Chignik,0.575,0,0.575,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Chevak,2.015,0,1.615,0,0.4,,,,,EIA-F860,
+2012,Southeast,Chester Lake,1,0,0,1,0,,,,,EIA-F860,
+2012,Copper River/Chugach,Chenega Bay,0.198,0,0.198,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Chefornak,0.921,0,0.921,0,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Chalkyitsik,0.307,0,0.307,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Central,0.575,0,0.575,0,0,,,,,EIA-F860,
+2012,Southeast,Centennial,3.3,0,3.3,0,0,,,,,AEA Village Assessment,
+2012,Northwest Arctic,Buckland,1.152,0,1.152,0,0,,,,,AEA Village Assessment,
+2012,Bering Straits,Brevig Mission,1.025,0,1.025,0,0,,,,,EIA-F860,
+2012,Railbelt,Bradley Lake,120,0,0,120,0,,,,,EIA-F860,
+2012,Southeast,Blue Lake,7,0,0,7,0,,,,,AEA Village Assessment,
+2012,Southeast,Blind Slough,14.8,0,13.2,1.6,0,,,,,AEA Village Assessment,
+2012,Southeast,Black Bear Lake,4.5,0,0,4.5,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Birch Creek,0.028,0,0.028,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Bettles,0.6,0,0.6,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Bethel,12.6,0,12.6,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,Bernice Lake,76.7,76.7,0,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,Beluga,374.4,374.4,0,0,0,,,,,"AEA Village Assessment, AEA Wind Program Manager",
+2012,Southeast,Beaver Falls,5.4,0,0,5.4,0,,,,,EIA-F860,
+2012,Yukon-Koyukuk/Upper Tanana,Beaver,0.244,0,0.244,0,0,,,,,EIA-F860,
+2012,North Slope,Barrow,20.3,17.3,3,0,0,,,,,EIA-F860,
+2012,Bering Straits,Banner Peak Wind Farm,1.17,0,0,0,1.17,,,,,EIA-F860,
+2012,Railbelt,AWWU Conduit,0.75,0,0,0.75,0,,,,,FERC,
+2012,#N/A,Aurora Energy,27.5,27.5,0,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Auke Bay,36.2,33.7,2.5,0,0,,,,,AEA Wind Program Manager,
+2012,North Slope,Atqasuk,3.2,0,3.2,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Atmautluak,0.547,0,0.547,0,0,,,,,AEA Village Assessment,
+2012,Aleutians,Atka,0.257,0,0.257,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Arctic Village,0.395,0,0.395,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Anvik,0.375,0,0.375,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Annex Creek,4,0,0,4,0,,,,,"AEA Wind Program Manager, AEA Village Assessment",
+2012,Lower Yukon-Kuskokwim,Aniak,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2012,Southeast,Angoon,1.5,0,1.5,0,0,,,,,AEA Village Assessment,
+2012,Railbelt,Anchorage 1,102.9,100.9,2,0,0,,,,,AEA Village Assessment,
+2012,North Slope,Anaktuvuk Pass,2.8,0,2.8,0,0,,,,,AEA Village Assessment,
+2012,Northwest Arctic,Ambler,1.115,0,1.115,0,0,,,,,AEA Village Assessment,
+2012,Yukon-Koyukuk/Upper Tanana,Allakaket,0.525,0,0.525,0,0,,,,,AEA Village Assessment,
+2012,Lower Yukon-Kuskokwim,Alakanuk,1.3,0,1.3,0,0,,,,,EIA-F860,
+2012,Aleutians,Akutan,0.407,0,0.407,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Akiak,0.92,0,0.92,0,0,,,,,EIA-F860,
+2012,Lower Yukon-Kuskokwim,Akiachak,1.5,0,1.5,0,0,,,,,AEA Village Assessment,
+2012,Kodiak,Akhiok,0.36,0,0.36,0,0,,,,,AEA Village Assessment,
+2012,Aleutians,Adak,4.035,0,4.035,0,0,,,,,EIA-F860,
+2012,Aleutians,10 Mile,0.6,0,0,0.6,0,,,,,EIA-F860,
+2011,Southeast,Yakutat,3.7,0,3.7,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Wrangell,8.5,0,8.5,0,0,,,,,AEA Village Assessment,
+2011,Bering Straits,White Mountain,0.585,0,0.585,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Whale Pass,0.25,0,0.25,0,0,,,,,AEA Village Assessment,
+2011,Bering Straits,Wales,0.495,0,0.495,0,0,,,,,EIA-F860,
+2011,Bering Straits,Wales,0.13,0,0,0,0.13,,,,,EIA-F860,
+2011,North Slope,Wainwright,3,0,3,0,0,,,,,EIA-F860,
+2011,Southeast,Viking,1,0,1,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Venetie,0.495,0,0.495,0,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Valdez Cogen,5.3,5.3,0,0,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Valdez,9.7,2.8,6.9,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Upper Kalskag,1.1,0,1.1,0,0,,,,,AEA Wind Program Manager,
+2011,Aleutians,Unalaska Power Module,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2011,Bering Straits,Unalakleet,2.6,0,2,0,0.6,,,,,AEA Village Assessment,
+2011,Southeast,Tyee Lake,22.5,0,0,20,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Twin Hills,0.22,0,0.22,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Tununak,0.325,0,0.325,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Tuntutuliak,0.865,0,0.865,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Tuluksak,0.795,0,0.795,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Toksook Bay,2.1,0,1.7,0,0.4,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Tok,7.6,0,7.6,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Togiak,1.3,0,1.3,0,0,,,,,EIA-F860,
+2011,Southeast,Thorne Bay Plant,0.345,0,0.345,0,0,,,,,AEA Hydro Program Manager,
+2011,Kodiak,Terror Lake,22.4,0,0,22.4,0,,,,,EIA-F860,
+2011,Southeast,Tenakee Springs,0.24,0,0.24,0,0,,,,,AEA Village Assessment,
+2011,Bering Straits,Teller,1.05,0,1.05,0,0,,,,,AEA Village Assessment,
+2011,#N/A,Tazimina,0.8,0,0,0.824,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Tatitlek,0.315,0,0.315,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Tanana,1.545,0,1.545,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Takotna,0.216,0,0.216,0,0,,,,,EIA-F860,
+2011,Southeast,Swan Lake,22.4,0,0,22.4,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Stony River,0.138,0,0.138,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Stevens Village,0.263,0,0.263,0,0,,,,,EIA-F860,
+2011,Bering Straits,Stebbins,1.2,0,1.2,0,0,,,,,AEA Village Assessment,
+2011,Southeast,South Fork,2,0,0,2,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Solomon Gulch,12,0,0,12,0,,,,,AEA Village Assessment,
+2011,Southeast,Snettisham,78.2,0,0,78.2,0,,,,,EIA-F860,
+2011,Bering Straits,Snake River,20.5,0,20.5,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Sleetmute,0.323,0,0.323,0,0,,,,,AEA Village Assessment,
+2011,Copper River/Chugach,Slana,0.73,0,0.73,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Skagway,4.4,0,3.4,1,0,,,,,AEA Wind Program Manager,
+2011,Southeast,Silvis,2.1,0,0,2.1,0,,,,,AEA Village Assessment,
+2011,Northwest Arctic,Shungnak,1.2,0,1.2,0,0,,,,,AEA Village Assessment,
+2011,Bering Straits,Shishmaref,1.4,0,1.4,0,0,,,,,AEA Village Assessment,
+2011,#N/A,Sheldon Point,0.708,0,0.708,0,0,,,,,EIA-F860,
+2011,Bering Straits,Shaktoolik,0.998,0,0.998,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Shageluk,0.4075,0,0.4075,0,0,,,,,EIA-F860,
+2011,Railbelt,Seward,15.6,0,15.6,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,Seldovia,2.4,0,2.4,0,0,,,,,AEA Village Assessment,
+2011,Northwest Arctic,Selawik,1.86,0,1.6,0,0.26,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Scammon Bay,1.3,0,1.3,0,0,,,,,EIA-F860,
+2011,Bering Straits,Savoonga,1.9,0,1.7,0,0.2,,,,,AEA Village Assessment,
+2011,Aleutians,Sand Point,1,0,0,0,1,,,,,EIA-F860,
+2011,Aleutians,Sand Point,2.88,0,2.88,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Salmon Creek 1,8.5,0,0,8.5,0,,,,,EIA-F860,
+2011,Aleutians,Saint Paul,2.62,0,2.62,0,0,,,,,EIA-F860,
+2011,Aleutians,Saint Paul,0.675,0,0,0,0.675,,,,,EIA-F860,
+2011,Bering Straits,Saint Michael,1,0,1,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Saint Mary's,6.5,0,6.5,0,0,,,,,EIA-F860,
+2011,Aleutians,Saint George,0.98,0,0.98,0,0,,,,,AEA Village Assessment,
+2011,Southeast,S W Bailey,25.9,0,25.9,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Russian Mission,0.904,0,0.904,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Ruby,0.464,0,0.464,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Red Devil,0.13,0,0.13,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Rampart,0.367,0,0.367,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Quinhagak,1.4,0,1.1,0,0.3,,,,,EIA-F860,
+2011,Southeast,Purple Lake,3.9,0,0,3.9,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Power Creek,6,0,0,6,0,,,,,AEA Village Assessment,
+2011,Kodiak,Port Lions,1,0,1,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Port Heiden,0.369,0,0.369,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Port Alsworth,0.466,0,0.466,0,0,,,,,EIA-F860,
+2011,North Slope,Point Lay,1.8,0,1.8,0,0,,,,,EIA-F860,
+2011,North Slope,Point Hope,2.7,0,2.7,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Platinum,0.129,0,0.129,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Pilot Station,1.2,0,1.2,0,0,,,,,EIA-F860,
+2011,Bristol Bay,Pilot Point,0.246,0,0.246,0,0,,,,,EIA-F860,
+2011,Bristol Bay,Pilot Point,0.02,0,0,0,0.02,,,,,EIA-F860,
+2011,Kodiak,Pillar Mountain,4.5,0,0,0,4.5,,,,,EIA-F860,
+2011,Bristol Bay,Perryville,0.024,0,0,0,0.024,,,,,AEA Village Assessment,
+2011,Bristol Bay,Perryville,0.473,0,0.473,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Pelican,2.85,0,2.2,0.7,0,,,,,EIA-F860,
+2011,Bristol Bay,Pedro Bay,0.211,0,0.211,0,0,,,,,EIA-F860,
+2011,Kodiak,Ouzinkie,0.336,0,0.336,0,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Orca,10.7,0,10.7,0,0,,,,,AEA Village Assessment,
+2011,Kodiak,Old Harbor,0.703,0,0.703,0,0,,,,,EIA-F860,
+2011,Kodiak,Nymans Plant,10,0,10,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Nunapitchuk,0.5,0,0.5,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Nulato,1.002,0,1.002,0,0,,,,,AEA Village Assessment,
+2011,North Slope,Nuiqsut,4.2,0,4.2,0,0,,,,,AEA Wind Program Manager,
+2011,Yukon-Koyukuk/Upper Tanana,Northway,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,North Pole,181,181,0,0,0,,,,,EIA-F860,
+2011,Northwest Arctic,Noorvik,1,0,1,0,0,,,,,AEA Hydro Program Manager,
+2011,Northwest Arctic,Noatak,1.2,0,1.2,0,0,,,,,EIA-F860,
+2011,Aleutians,Nikolski,0.261,0,0.196,0,0.065,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Nikolai,0.3,0,0.3,0,0,,,,,EIA-F860,
+2011,Railbelt,Nikiski Co-Generation,37.9,37.9,0,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Nightmute,0.325,0,0.325,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Newhalen,1.5,0,1.5,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,New Stuyahok,1.331,0,1.331,0,0,,,,,EIA-F860,
+2011,Aleutians,Nelson Lagoon,0.3,0,0.3,0,0,,,,,AEA Wind Program Manager,
+2011,Southeast,Naukati Bay,0.488,0,0.488,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Napakiak,0.25,0,0.25,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Naknek,9.9,0,9.9,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Mountain Village,1.7,0,1.7,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Minto,0.708,0,0.708,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Mekoryuk,0.904,0,0.704,0,0.2,,,,,AEA Village Assessment,
+2011,Southeast,McRoberts Creek,0.125,0,0,0.125,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,McGrath,2.2,0,2.2,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Marshall,1.085,0,1.085,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Manokotak,0.73,0,0.73,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Manley Hot Springs,0.486,0,0.486,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Levelock,0.234,0,0.234,0,0,,,,,EIA-F860,
+2011,Southeast,Lemon Creek,61.7,37.2,24.5,0,0,,,,,EIA-F860,
+2011,Kodiak,Larsen Bay,0.475,0,0,0.475,0,,,,,EIA-F860,
+2011,Kodiak,Larsen Bay,0.393,0,0.393,0,0,,,,,EIA-F860,
+2011,Southeast,Lake Dorothy,14.3,0,0,14.3,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Kwigillingok,0.723,0,0.723,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Kwethluk,1.3,0,1.3,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Koyukuk,0.202,0,0.202,0,0,,,,,EIA-F860,
+2011,Bering Straits,Koyuk,1.1,0,1.1,0,0,,,,,EIA-F860,
+2011,Northwest Arctic,Kotzebue,14.6,0,11.7,0,1.14,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Kotlik,1.4,0,1.4,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Kongiganak,1.375,0,0.925,0,0.45,,,,,EIA-F860,
+2011,Bristol Bay,Koliganek,0.42,0,0.42,0,0,,,,,AEA Hydro Program Manager,
+2011,Bristol Bay,Kokhanok,0.612,0,0.612,0,0,,,,,AEA Village Assessment,
+2011,Kodiak,Kodiak,22.3,0,22.3,0,0,,,,,AEA Village Assessment,
+2011,Northwest Arctic,Kobuk,0.215,0,0.215,0,0,,,,,AEA Hydro Program Manager,
+2011,Northwest Arctic,Kivalina,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2011,Aleutians,King Cove,0.8,0,0,0.8,0,,,,,AEA Village Assessment,
+2011,Aleutians,King Cove,1.8,0,1.8,0,0,,,,,EIA-F860,
+2011,Northwest Arctic,Kiana,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Ketchikan,4.2,0,0,4.2,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Kasigluk,1.9,0,1.6,0,0.3,,,,,EIA-F860,
+2011,Southeast,Kasidaya Creek,3,0,0,3,0,,,,,EIA-F860,
+2011,Kodiak,Karluk,0.14,0,0.14,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Kaltag,0.549,0,0.549,0,0,,,,,AEA Village Assessment,
+2011,North Slope,Kaktovik,2.6,0,2.6,0,0,,,,,AEA Hydro Program Manager,
+2011,Southeast,Kake,2.5,0,2.5,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Jarvis Street,12.1,0,12.1,0,0,,,,,EIA-F860,
+2011,Railbelt,International,46.3,46.3,0,0,0,,,,,EIA-F860,
+2011,Bristol Bay,Igiugig,0.201,0,0.201,0,0,,,,,EIA-F860,
+2011,Southeast,Hydaburg,1,0,1,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Huslia,0.796,0,0.796,0,0,,,,,AEA Village Assessment,
+2011,Copper River/Chugach,Humpback Creek,1.2,0,0,1.2,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Hughes,0.23,0,0.23,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Hooper Bay,1.9,0,1.6,0,0.3,,,,,EIA-F860,
+2011,Southeast,Hoonah,2.4,0,2.4,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Holy Cross,0.455,0,0.455,0,0,,,,,EIA-F860,
+2011,Southeast,Hollis,0.45,0,0.45,0,0,,,,,AEA Hydro Program Manager,
+2011,Yukon-Koyukuk/Upper Tanana,Healy Lake,0.083,0,0.083,0,0,,,,,EIA-F860,
+2011,Railbelt,Healy,30.8,28,2.8,0,0,,,,,EIA-F860,
+2011,Southeast,Haines,6.485,0,6.2,0.285,0,,,,,AEA Village Assessment,
+2011,Southeast,Gustavus,0.842,0,0.842,0,0,,,,,EIA-F860,
+2011,Southeast,Green Lake,18.6,0,0,18.6,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Grayling,0.26,0,0.26,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Goodnews Bay,0.48,0,0.48,0,0,,,,,EIA-F860,
+2011,Bering Straits,Golovin,0.58,0,0.58,0,0,,,,,EIA-F860,
+2011,Southeast,Gold Creek,9.7,0,8.1,1.6,0,,,,,EIA-F860,
+2011,Southeast,Goat Lake,4,0,0,4,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Glennallen,10.7,0,10.7,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,George M Sullivan Generation Plant 2,266.3,266.3,0,0,0,,,,,EIA-F860,
+2011,Bering Straits,Gambell,1.9,0,1.6,0,0.3,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Galena,4.2,0,4.2,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Fort Yukon,1.7,0,1.7,0,0,,,,,EIA-F860,
+2011,Aleutians,False Pass,0.375,0,0.375,0,0,,,,,EIA-F860,
+2011,Southeast,False Island,1.3,0,1.3,0,0,,,,,AEA Village Assessment,
+2011,Southeast,False Island,1,0,1,0,0,,,,,AEA Wind Program Manager,
+2011,Southeast,Falls Creek,0.8,0,0,0.8,0,,,,,AEA Village Assessment,
+2011,Railbelt,Fairbanks,42.2,36.8,5.4,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Emmonak,2.3,0,1.9,0,0.4,,,,,AEA Village Assessment,
+2011,Bering Straits,Elim,1.6,0,1.6,0,0,,,,,AEA Hydro Program Manager,
+2011,Southeast,Elfin Cove,0.347,0,0.347,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Ekwok,0.37,0,0.37,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,Eklutna Lake,44.4,0,0,44.4,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Egegik,0.38,0,0.38,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Eek,0.595,0,0.595,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Eagle,0.45,0,0.45,0,0,,,,,EIA-F860,
+2011,Aleutians,Dutch Harbor,17.5,0,17.5,0,0,,,,,EIA-F860,
+2011,Bristol Bay,Dillingham,6.6,0,6.6,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,Delta Power,23.1,23.1,0,0,0,,,,,AEA Village Assessment,
+2011,Northwest Arctic,Deering,0.577,0,0.577,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Crooked Creek,0.223,0,0.223,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Craig,4.4,0,4.4,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,Cooper Lake,19.4,0,0,19.4,0,,,,,EIA-F860,
+2011,Aleutians,Cold Bay,2.495,0,2.495,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Coffman Cove,0.66,0,0.66,0,0,,,,,AEA Village Assessment,
+2011,Bristol Bay,Clark's Point,0.446,0,0.446,0,0,,,,,AEA Wind Program Manager,
+2011,Yukon-Koyukuk/Upper Tanana,Circle,0.188,0,0.188,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Chuathbaluk,0.179,0,0.179,0,0,,,,,AEA Village Assessment,
+2011,Copper River/Chugach,Chitina,0.301,0,0.301,0,0,,,,,AEA Village Assessment,
+2011,Copper River/Chugach,Chistochina,0.2,0,0.2,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Chilkat Valley,1.1,0,1.1,0,0,,,,,EIA-F860,
+2011,Bristol Bay,Chignik Lake,0.442,0,0.442,0,0,,,,,EIA-F860,
+2011,Bristol Bay,Chignik Lagoon,0.453,0,0.453,0,0,,,,,EIA-F860,
+2011,Bristol Bay,Chignik,0.575,0,0.575,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Chevak,0.4,0,0,0,0.4,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Chevak,1.615,0,1.615,0,0,,,,,EIA-F860,
+2011,Southeast,Chester Lake,1,0,0,1,0,,,,,EIA-F860,
+2011,Copper River/Chugach,Chenega Bay,0.198,0,0.198,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Chefornak,0.921,0,0.921,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Chalkyitsik,0.307,0,0.307,0,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Central,0.575,0,0.575,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Centennial,3.3,0,3.3,0,0,,,,,AEA Village Assessment,
+2011,Northwest Arctic,Buckland,1.152,0,1.152,0,0,,,,,EIA-F860,
+2011,Bering Straits,Brevig Mission,1.025,0,1.025,0,0,,,,,EIA-F860,
+2011,Railbelt,Bradley Lake,126,0,0,119.7,0,,,,,AEA Village Assessment,
+2011,Southeast,Blue Lake,7,0,0,7,0,,,,,AEA Village Assessment,
+2011,Southeast,Blind Slough,12.7,0,10.7,2,0,,,,,AEA Village Assessment,
+2011,Southeast,Black Bear Lake,4.5,0,0,4.5,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Birch Creek,0.028,0,0.028,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Bettles,0.6,0,0.6,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Bethel,12.6,0,12.6,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,Bernice Lake,76.7,76.7,0,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,Beluga,374.4,374.4,0,0,0,,,,,AEA Wind Program Manager,
+2011,Southeast,Beaver Falls,5.4,0,0,5.4,0,,,,,EIA-F860,
+2011,Yukon-Koyukuk/Upper Tanana,Beaver,0.244,0,0.244,0,0,,,,,EIA-F860,
+2011,North Slope,Barrow,20.3,17.3,3,0,0,,,,,EIA-F860,
+2011,Bering Straits,Banner Peak Wind Farm,1.17,0,0,0,1.17,,,,,EIA-F860,
+2011,Railbelt,AWWU Conduit,0.75,0,0,0.75,0,,,,,FERC,
+2011,#N/A,Aurora Energy,27.5,27.5,0,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Auke Bay,36.2,33.7,2.5,0,0,,,,,AEA Wind Program Manager,
+2011,North Slope,Atqasuk,3.2,0,3.2,0,0,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Atmautluak,0.547,0,0.547,0,0,,,,,AEA Village Assessment,
+2011,Aleutians,Atka,0.257,0,0.257,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Arctic Village,0.395,0,0.395,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Anvik,0.375,0,0.375,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Annex Creek,4,0,0,4,0,,,,,AEA Wind Program Manager,
+2011,Lower Yukon-Kuskokwim,Aniak,1.1,0,1.1,0,0,,,,,AEA Village Assessment,
+2011,Southeast,Angoon,1.5,0,1.5,0,0,,,,,AEA Village Assessment,
+2011,Railbelt,Anchorage 1,100.9,100.9,0,0,0,,,,,AEA Village Assessment,
+2011,North Slope,Anaktuvuk Pass,2.8,0,2.8,0,0,,,,,AEA Village Assessment,
+2011,Northwest Arctic,Ambler,1.115,0,1.115,0,0,,,,,AEA Village Assessment,
+2011,Yukon-Koyukuk/Upper Tanana,Allakaket,0.525,0,0.525,0,0,,,,,AEA Village Assessment,
+2011,#N/A,Alaska Environmental,1,0,0,0,1.012,,,,,AEA Village Assessment,
+2011,Lower Yukon-Kuskokwim,Alakanuk,1.3,0,1.3,0,0,,,,,EIA-F860,
+2011,Aleutians,Akutan,0.407,0,0.407,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Akiak,0.92,0,0.92,0,0,,,,,EIA-F860,
+2011,Lower Yukon-Kuskokwim,Akiachak,1.5,0,1.5,0,0,,,,,AEA Village Assessment,
+2011,Kodiak,Akhiok,0.36,0,0.36,0,0,,,,,AEA Village Assessment,
+2011,Aleutians,Adak,4.035,0,4.035,0,0,,,,,EIA-F860,
+2011,Aleutians,10 Mile,0.6,0,0,0.6,0,,,,,EIA-F860,

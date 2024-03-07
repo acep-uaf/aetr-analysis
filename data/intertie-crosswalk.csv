@@ -1,0 +1,206 @@
+﻿intertie-id,intertie-name,aea-energy-region,current
+001-0000,Akhiok_grid,Kodiak,TRUE
+002-0000,Akiachak_grid,Lower Yukon-Kuskokwim,TRUE
+003-0000,Akiak_grid,Lower Yukon-Kuskokwim,TRUE
+004-0000,Akutan_grid,Aleutians,TRUE
+005-0000,Allakaket_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+007-0000,Bettles_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+009-0000,Eagle_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+011-0000,Healy Lake_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+012-0000,Northway_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+014-1990,Cordova_grid,Copper River/Chugach,TRUE
+015-1975,Tok_grid,Yukon-Koyukuk/Upper Tanana,FALSE
+015-2008,Tok_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+023-1987,Prince of Wales Is._grid,Southeast,FALSE
+023-1999,Prince of Wales Is._grid,Southeast,FALSE
+023-2004,Prince of Wales Is._grid,Southeast,FALSE
+023-2006,Prince of Wales Is._grid,Southeast,FALSE
+023-2011,Prince of Wales Is._grid,Southeast,FALSE
+023-2015,Prince of Wales Is._grid,Southeast,TRUE
+026-0000,Slana_grid,Copper River/Chugach,FALSE
+026-2010,Slana_grid,Copper River/Chugach,FALSE
+026-2012,Slana_grid,Copper River/Chugach,TRUE
+032-1993,Haines_grid,Southeast,FALSE
+032-1998,UpperLynnCanal_grid,Southeast,TRUE
+034-1980,Bethel_grid,Lower Yukon-Kuskokwim,FALSE
+034-1988,Bethel_grid,Lower Yukon-Kuskokwim,TRUE
+035-0000,Ambler_grid,Northwest Arctic,TRUE
+036-0000,Anvik_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+039-0000,Brevig Mission_grid,Bering Straits,TRUE
+040-0000,Chevak_grid,Lower Yukon-Kuskokwim,TRUE
+041-0000,Eek_grid,Lower Yukon-Kuskokwim,TRUE
+043-0000,Elim_grid,Bering Straits,TRUE
+045-0000,Emmonak_grid,Lower Yukon-Kuskokwim,FALSE
+045-2016,Emmonak_grid,Lower Yukon-Kuskokwim,TRUE
+046-0000,Gambell_grid,Bering Straits,TRUE
+047-0000,Goodnews Bay_grid,Lower Yukon-Kuskokwim,TRUE
+048-0000,Grayling_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+049-0000,Holy Cross_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+050-0000,Hooper Bay_grid,Lower Yukon-Kuskokwim,TRUE
+051-0000,Huslia_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+052-0000,Upper Kalskag_grid,Lower Yukon-Kuskokwim,FALSE
+052-2005,Upper Kalskag_grid,Lower Yukon-Kuskokwim,TRUE
+054-0000,Kaltag_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+055-0000,Kasigluk_grid,Lower Yukon-Kuskokwim,FALSE
+055-2006,Kasigluk_grid,Lower Yukon-Kuskokwim,TRUE
+057-0000,Kiana_grid,Northwest Arctic,TRUE
+058-0000,Kivalina_grid,Northwest Arctic,TRUE
+059-0000,Kotlik_grid,Lower Yukon-Kuskokwim,TRUE
+060-0000,Koyuk_grid,Bering Straits,TRUE
+061-0000,Marshall_grid,Lower Yukon-Kuskokwim,TRUE
+062-0000,Mekoryuk_grid,Lower Yukon-Kuskokwim,TRUE
+063-0000,Minto_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+065-0000,New Stuyahok_grid,Bristol Bay,FALSE
+065-2016,New_Stuyahok_grid,Bristol Bay,TRUE
+066-0000,Noatak_grid,Northwest Arctic,TRUE
+067-0000,Noorvik_grid,Northwest Arctic,TRUE
+068-0000,Nulato_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+069-0000,Old Harbor_grid,Kodiak,TRUE
+070-0000,Pilot Station_grid,Lower Yukon-Kuskokwim,TRUE
+071-0000,Quinhagak_grid,Lower Yukon-Kuskokwim,TRUE
+072-0000,Russian Mission_grid,Lower Yukon-Kuskokwim,TRUE
+075-1985,Saint Mary's_grid,Lower Yukon-Kuskokwim,FALSE
+075-2020,Saint Mary's_grid,Lower Yukon-Kuskokwim,TRUE
+064-0000,Mountain Village_grid,Lower Yukon-Kuskokwim,FALSE
+076-0000,Savoonga_grid,Bering Straits,TRUE
+077-0000,Scammon Bay_grid,Lower Yukon-Kuskokwim,TRUE
+078-0000,Selawik_grid,Northwest Arctic,TRUE
+079-0000,Shageluk_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+080-0000,Shaktoolik_grid,Bering Straits,TRUE
+081-0000,Shishmaref_grid,Bering Straits,TRUE
+084-0000,Stebbins_grid,Bering Straits,FALSE
+084-2015,Stebbins_grid,Bering Straits,TRUE
+085-0000,Teller_grid,Bering Straits,TRUE
+086-0000,Togiak_grid,Bristol Bay,FALSE
+086-2020,Togiak_grid,Bristol Bay,TRUE
+192-0000,Twin Hills_grid,Bristol Bay,FALSE
+088-0000,Toksook Bay_grid,Lower Yukon-Kuskokwim,FALSE
+088-2006,Toksook Bay_grid,Lower Yukon-Kuskokwim,FALSE
+088-2008,Toksook Bay_grid,Lower Yukon-Kuskokwim,TRUE
+090-0000,Wales_grid,Bering Straits,TRUE
+091-0000,Yakutat_grid,Southeast,TRUE
+092-0000,Karluk_grid,Kodiak,TRUE
+093-0000,Aniak_grid,Lower Yukon-Kuskokwim,TRUE
+094-0000,Arctic Village_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+095-0000,Atka_grid,Aleutians,TRUE
+096-0000,Atmautluak_grid,Lower Yukon-Kuskokwim,TRUE
+097-0000,Beaver_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+098-0000,Birch Creek_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+099-0000,Buckland_grid,Northwest Arctic,TRUE
+100-0000,Chalkyitsik_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+101-0000,Chenega_grid,Copper River/Chugach,TRUE
+102-0000,Chignik Lagoon_grid,Bristol Bay,TRUE
+103-0000,Chignik Lake_grid,Bristol Bay,TRUE
+104-0000,Chignik_grid,Bristol Bay,TRUE
+105-0000,Chitina_grid,Copper River/Chugach,TRUE
+106-0000,Circle_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+107-0000,Clark's Point_grid,Bristol Bay,TRUE
+110-0000,Diomede_grid,Bering Straits,TRUE
+111-0000,Egegik_grid,Bristol Bay,TRUE
+112-0000,Elfin Cove_grid,Southeast,TRUE
+113-0000,False Pass_grid,Aleutians,TRUE
+114-0000,Cold Bay_grid,Aleutians,TRUE
+115-0000,Galena_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+116-0000,Central_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+117-0000,Golovin_grid,Bering Straits,TRUE
+118-0000,Gustavus_grid,Southeast,TRUE
+119-0000,Fort Yukon_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+120-0000,Hughes_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+121-0000,Igiugig_grid,Bristol Bay,TRUE
+123-1983,Newhalen_grid,Bristol Bay,TRUE
+125-0000,Angoon_grid,Southeast,TRUE
+128-0000,Hoonah_grid,Southeast,TRUE
+129-0000,Kake_grid,Southeast,TRUE
+130-0000,Deering_grid,Northwest Arctic,TRUE
+131-0000,King Cove_grid,Aleutians,TRUE
+132-0000,Kipnuk_grid,Lower Yukon-Kuskokwim,TRUE
+134-0000,Kokhanok_grid,Bristol Bay,TRUE
+135-0000,Kotzebue_grid,Northwest Arctic,TRUE
+136-0000,Koyukuk_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+137-0000,Kwethluk_grid,Lower Yukon-Kuskokwim,TRUE
+138-0000,Kwigillingok_grid,Lower Yukon-Kuskokwim,TRUE
+139-0000,Larsen Bay_grid,Kodiak,TRUE
+140-0000,Levelock_grid,Bristol Bay,TRUE
+141-0000,Lime Village_grid,Lower Yukon-Kuskokwim,TRUE
+142-0000,Manokotak_grid,Bristol Bay,TRUE
+143-0000,McGrath_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+144-0000,Chuathbaluk_grid,Lower Yukon-Kuskokwim,TRUE
+145-0000,Crooked Creek_grid,Lower Yukon-Kuskokwim,TRUE
+146-0000,Red Devil_grid,Lower Yukon-Kuskokwim,TRUE
+147-0000,Sleetmute_grid,Lower Yukon-Kuskokwim,TRUE
+148-0000,Stony River_grid,Lower Yukon-Kuskokwim,TRUE
+149-1980,Shungnak_grid,Northwest Arctic,TRUE
+150-0000,Naknek_grid,Bristol Bay,TRUE
+153-0000,Napaskiak_grid,Lower Yukon-Kuskokwim,TRUE
+154-0000,Chefornak_grid,Lower Yukon-Kuskokwim,TRUE
+155-0000,Perryville_grid,Bristol Bay,TRUE
+156-0000,Nelson Lagoon_grid,Aleutians,TRUE
+157-0000,Koliganek_grid,Bristol Bay,TRUE
+158-0000,Nikolai_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+159-0000,Nome_grid,Bering Straits,TRUE
+160-0000,Anaktuvuk Pass_grid,North Slope,TRUE
+161-0000,Atqasuk_grid,North Slope,TRUE
+162-0000,Kaktovik_grid,North Slope,TRUE
+163-0000,Nuiqsut_grid,North Slope,TRUE
+164-0000,Point Hope_grid,North Slope,TRUE
+165-0000,Point Lay_grid,North Slope,TRUE
+166-0000,Wainwright_grid,North Slope,TRUE
+167-0000,Nunam Iqua_grid,Lower Yukon-Kuskokwim,TRUE
+169-0000,Dillingham_grid,Bristol Bay,TRUE
+170-0000,Ouzinkie_grid,Kodiak,TRUE
+171-0000,Pedro Bay_grid,Bristol Bay,TRUE
+172-0000,Pelican_grid,Southeast,TRUE
+173-0000,Pilot Point_grid,Bristol Bay,TRUE
+174-0000,Platinum_grid,Lower Yukon-Kuskokwim,TRUE
+175-0000,Port Heiden_grid,Bristol Bay,TRUE
+176-0000,Kongiganak_grid,Lower Yukon-Kuskokwim,TRUE
+177-0000,Rampart_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+178-0000,Ruby_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+179-0000,Saint George_grid,Aleutians,TRUE
+180-0000,Saint Paul_grid,Aleutians,TRUE
+181-0000,Stevens Village_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+182-0000,Takotna_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+183-0000,Port Alsworth_grid,Bristol Bay,TRUE
+184-0000,Tanana_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+185-0000,Tatitlek_grid,Copper River/Chugach,TRUE
+186-0000,Adak_grid,Aleutians,TRUE
+187-0000,Sand Point_grid,Aleutians,TRUE
+188-0000,Manley Hot Springs_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+189-0000,Tenakee Springs_grid,Southeast,TRUE
+190-0000,Tuluksak_grid,Lower Yukon-Kuskokwim,TRUE
+191-0000,Tuntutuliak_grid,Lower Yukon-Kuskokwim,TRUE
+193-0000,Nikolski_grid,Aleutians,TRUE
+194-0000,Unalakleet_grid,Bering Straits,TRUE
+195-0000,Unalaska_grid,Aleutians,TRUE
+196-0000,Newtok_grid,Lower Yukon-Kuskokwim,TRUE
+197-0000,Venetie_grid,Yukon-Koyukuk/Upper Tanana,TRUE
+198-0000,WhiteMountain_grid,Bering Straits,TRUE
+199-0000,Kobuk_grid,Northwest Arctic,FALSE
+200-0000,Tununak_grid,Lower Yukon-Kuskokwim,FALSE
+201-0000,Nightmute_grid,Lower Yukon-Kuskokwim,FALSE
+202-0000,SaintMichael_grid,Bering Straits,FALSE
+203-0000,PitkasPoint_grid,Lower Yukon-Kuskokwim,FALSE
+204-0000,Nunapitchuk_grid,Lower Yukon-Kuskokwim,FALSE
+205-0000,LowerKalskag_grid,Lower Yukon-Kuskokwim,FALSE
+206-0000,Chistochina_grid,Copper River/Chugach,FALSE
+207-0000,Coffman_Cove_grid,Southeast,FALSE
+208-0000,Ekwok_grid,Southeast,FALSE
+209-0000,Hollis_grid,Southeast,FALSE
+210-0000,Hydaburg_grid,Southeast,FALSE
+211-0000,Naukati_Bay_grid,Southeast,FALSE
+212-0000,Tetlin_grid,Yukon-Koyukuk/Upper Tanana,FALSE
+213-0000,Whale_Pass_grid,Southeast,TRUE
+214-0000,Mentasta_Lake_grid,Copper River/Chugach,FALSE
+215-1985,Railbelt_grid,Railbelt,TRUE
+216-1982,CopperValley_grid,Copper River/Chugach,TRUE
+217-2009,SEAPA_grid,Southeast,TRUE
+218-0000,Alakanuk_grid,Lower Yukon-Kuskokwim,FALSE
+219-0000,Sitka_grid,Southeast,TRUE
+221-0000,Utqiagvik_grid,North Slope,TRUE
+222-0000,Juneau_grid,Southeast,TRUE
+223-0000,Kodiak_grid,Kodiak,TRUE
+224_0000,Deadhorse_grid,North Slope,TRUE
+225_0000,Metlakatla_grid,Southeast,TRUE
+226_0000,Paxson_grid,Copper River/Chugach,TRUE
+227-0000,Ketchikan_grid,Southeast,FALSE
+228-1981,Wrangell-Petersburg_grid,Southeast,FALSE

@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" modified="2024-02-26T22:00:37.113Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="m45Wt7BnMYs73dfav6Rx" version="23.1.7" type="device">
+  <diagram name="Page-1" id="BQHFLmsIctJX5MoPxbJp">
+    <mxGraphModel dx="1210" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-1" target="svdF3Y1zz3MRMxKQ2w_L-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="245" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-1" value="Aleutians" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-2" target="svdF3Y1zz3MRMxKQ2w_L-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="285" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-2" value="Bering Straits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-3" target="svdF3Y1zz3MRMxKQ2w_L-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="325" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-3" value="Bristol Bay" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-4" target="svdF3Y1zz3MRMxKQ2w_L-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="365" />
+              <mxPoint x="450" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-4" value="Copper River/Chugach" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-5" target="svdF3Y1zz3MRMxKQ2w_L-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="405" />
+              <mxPoint x="450" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-5" value="Kodiak" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-6" target="svdF3Y1zz3MRMxKQ2w_L-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="445" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-6" value="Lower Yukon Kuskokwim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-7" target="svdF3Y1zz3MRMxKQ2w_L-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="485" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-7" value="North Slope" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-8" target="svdF3Y1zz3MRMxKQ2w_L-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="525" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-8" value="Northwest Borough" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-9" target="svdF3Y1zz3MRMxKQ2w_L-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="565" />
+              <mxPoint x="440" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-9" value="Railbelt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-10" target="svdF3Y1zz3MRMxKQ2w_L-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="605" />
+              <mxPoint x="450" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-10" value="Southeast" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="svdF3Y1zz3MRMxKQ2w_L-11" target="svdF3Y1zz3MRMxKQ2w_L-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="645" />
+              <mxPoint x="410" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-11" value="Yukon-Koyukuk Upper Tanana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-12" value="Coastal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-13" value="Railbelt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-14" value="Rural Remote" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-27" value="AEA Energy Region" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="180" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="svdF3Y1zz3MRMxKQ2w_L-28" value="ACEP Energy Region" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="483.75" y="180" width="162.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

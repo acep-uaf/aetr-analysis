@@ -1,0 +1,2785 @@
+﻿year,plant_name,oil,gas,coal,hydro,wind,solar,storage,other,aea_energy_region,source,data_version
+2011,Akiachak,1851.534,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Akiak,1029.531,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Akutan,489.5706,0,0,42.111,0,,,,Aleutians,PCE,Final
+2011,Annex Creek,0,0,0,22270,0,,,,Southeast,EIA,Final
+2011,Auke Bay,1119,0,0,0,0,,,,Southeast,EIA,Final
+2011,Gold Creek,23,0,0,4838,0,,,,Southeast,EIA,Final
+2011,Lake Dorothy,0,0,0,70602,0,,,,Southeast,EIA,Final
+2011,Lemon Creek,2283,0,0,0,0,,,,Southeast,EIA,Final
+2011,Salmon Creek 1,0,0,0,24337,0,,,,Southeast,EIA,Final
+2011,Snettisham,0,0,0,263749,0,,,,Southeast,EIA,Final
+2011,Alaska Environmental,0,0,0,0,1394,,,,Railbelt,EIA,Final
+2011,Allakaket,655.368,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Bettles,573.845,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Chistochina,-2.148,0,0,0,0,,,,Copper River/Chugach,PCE,Final
+2011,Coffman Cove,632.583,0,0,0,0,,,,Southeast,PCE,Final
+2011,Craig,2779,0,0,0,0,,,,Southeast,EIA,Final
+2011,Viking,65,0,0,0,0,,,,Southeast,EIA,Final
+2011,Black Bear Lake,0,0,0,17791,0,,,,Southeast,EIA,Final
+2011,South Fork,0,0,0,6115,0,,,,Southeast,EIA,Final
+2011,Tok,-0.6,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Eagle,749.742,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Goat Lake,0,0,0,15831,0,,,,Southeast,EIA,Final
+2011,Haines,185,0,0,0,0,,,,Southeast,"EIA, PCE",Final
+2011,Skagway,95,0,0,3000.12,0,,,,Southeast,"EIA, PCE",Final
+2011,Healy Lake,83.3,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Hollis,-12.348,0,0,0,0,,,,Southeast,PCE,Final
+2011,Hydaburg,23,0,0,0,0,,,,Southeast,EIA,Final
+2011,Mentasta Lake,237.108,0,0,0,0,,,,Copper River/Chugach,PCE,Final
+2011,Naukati Bay,449.908,0,0,0,0,,,,Southeast,PCE,Final
+2011,Northway,1286,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,EIA,Final
+2011,Kasidaya Creek,0,0,0,7965,0,,,,Southeast,EIA,Final
+2011,Slana,1150.458,0,0,0,0,,,,Copper River/Chugach,PCE,Final
+2011,Tok,0,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,False Island,929,0,0,0,0,,,,Southeast,EIA,Final
+2011,Thorne Bay Plant,119,0,0,0,0,,,,Southeast,EIA,Final
+2011,Tok,10400,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Whale Pass,267.042,0,0,0,0,,,,Southeast,PCE,Final
+2011,Alakanuk,1946.208,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Ambler,1277.774,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Anvik,405.42,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Brevig Mission,1176.332,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Chevak,1657.267,0,0,0,741.629,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Eek,800.578,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Ekwok,261.5155,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Elim,1159.445,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Emmonak,3089.884,0,0,0,80.325,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Gambell,1495.881,0,0,0,387.204,,,,Bering Straits,PCE,Final
+2011,Goodnews Bay,773.073,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Grayling,569.047,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Holy Cross,594.372,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Hooper Bay,2711.468,0,0,0,543.096,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Huslia,1005.8,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Upper Kalskag,1472.206,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Kaltag,727.038,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Kasigluk,2286.42,0,0,0,496.85,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Kiana,1511.732,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Kivalina,1212.085,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Kotlik,1966.457,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Koyuk,1315.918,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Upper Kalskag,0,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Marshall,1644.176,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Mekoryuk,708.831,0,0,0,238.706,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Minto,652.663,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Mountain Village,2796.866,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,New Stuyahok,1466.378,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Nightmute,0,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Noatak,1800.64,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Noorvik,2001.474,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Nulato,1110.214,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Nunapitchuk,0,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Old Harbor,788.019,0,0,0,0,,,,Kodiak,PCE,Final
+2011,Pilot Station,1750.671,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Saint Mary's,0,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Quinhagak,1415.165,0,0,0,409.24,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Russian Mission,1123.786,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Saint Mary's,3172.434,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Saint Michael,1734.962,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Savoonga,1753.637,0,0,0,359.924,,,,Bering Straits,PCE,Final
+2011,Scammon Bay,1735.552,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Selawik,2745.755,0,0,0,107.907,,,,Northwest Arctic,PCE,Final
+2011,Shageluk,369.015,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Shaktoolik,903.839,0,0,0,0.082,,,,Bering Straits,PCE,Final
+2011,Shishmaref,1593.91,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Shungnak,1527.344,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Stebbins,1354.235,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Teller,837.989,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Togiak,3044.756,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Toksook Bay,2592.108,0,0,0,559.973,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Tununak,0,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Wales,582.095,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Karluk,252.608,0,0,0,0,,,,Kodiak,PCE,Final
+2011,Anchorage 1,48.345,91290.655,0,0,0,,,,Railbelt,EIA,Final
+2011,Eklutna Lake,0,0,0,66088,0,,,,Railbelt,EIA,Final
+2011,George M Sullivan Generation Plant 2,328,1082675,0,0,0,,,,Railbelt,EIA,Final
+2011,Aniak,2618.598,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Atka,444.322,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Atmautluak,796.814,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Aurora Energy,0,0,209150,0,0,,,,Railbelt,EIA,Final
+2011,Banner Peak Wind Farm,0,0,0,0,955,,,,Bering Straits,PCE,Final
+2011,Barrow,0,50211,0,0,0,,,,North Slope,EIA,Final
+2011,Beaver,318.03,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Bethel,41800,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Buckland,1592.204,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Chalkyitsik,304.165,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Chenega Bay,308.276,0,0,0,0,,,,Copper River/Chugach,PCE,Final
+2011,Chignik Lagoon,506.531,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Chignik Lake,199.043,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Chignik,868.082,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Chitina,519.236,0,0,0,0,,,,Copper River/Chugach,PCE,Final
+2011,Beluga,0,2281306,0,0,0,,,,Railbelt,EIA,Final
+2011,Bernice Lake,41995,0,0,0,0,,,,Railbelt,EIA,Final
+2011,Cooper Lake,0,0,0,28759,0,,,,Railbelt,EIA,Final
+2011,International,21789,0,0,0,0,,,,Railbelt,EIA,Final
+2011,Circle,389.51,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Glennallen,15113,0,0,0,0,,,,Copper River/Chugach,EIA,Final
+2011,Solomon Gulch,0,0,0,46189,0,,,,Copper River/Chugach,EIA,Final
+2011,Valdez,7338,0,0,0,0,,,,Copper River/Chugach,EIA,Final
+2011,Valdez Cogen,17519,0,0,0,0,,,,Copper River/Chugach,EIA,Final
+2011,Orca,9068,0,0,0,0,,,,Copper River/Chugach,PCE,Final
+2011,Power Creek,0,0,0,16759.928,0,,,,Copper River/Chugach,PCE,Final
+2011,Diomede,438.7359,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Egegik,281.745,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Elfin Cove,277.4572,0,0,0,0,,,,Southeast,PCE,Final
+2011,False Pass,461.351,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Cold Bay,2566.921,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Galena,2907.345,,,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Central,474.603,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Delta Power,-170,0,0,0,0,,,,Railbelt,EIA,Final
+2011,Fairbanks,8529,0,0,0,0,,,,Railbelt,EIA,Final
+2011,Healy,178,0,178010,0,0,,,,Railbelt,EIA,Final
+2011,North Pole,486542,0,0,0,0,,,,Railbelt,EIA,Final
+2011,Golovin,755.701,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Falls Creek,0,0,0,1955,0,,,,Southeast,PCE,Final
+2011,Gustavus,98.19696,0,0,0,0,,,,Southeast,PCE,Final
+2011,Fort Yukon,3061.62,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Nikiski Co-Generation,0,276289,0,0,0,,,,Railbelt,EIA,Final
+2011,Seldovia,143,0,0,0,0,,,,Railbelt,EIA,Final
+2011,Bradley Lake,0,0,0,303900,0,,,,Railbelt,EIA,Final
+2011,Hughes,372.295,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Igiugig,307.718455,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Newhalen,84.087,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Tazimina,0,0,0,3566.238,0,,,,Bristol Bay,PCE,Final
+2011,Angoon,2025.215,0,0,0,0,,,,Southeast,PCE,Final
+2011,Chilkat Valley,-68.44091,0,0,183.54,0,,,,Southeast,PCE,Final
+2011,Hoonah,4816.875,0,0,0,0,,,,Southeast,PCE,Final
+2011,Kake,2769.488,0,0,0,0,,,,Southeast,PCE,Final
+2011,Klukwan,0,0,0,0,0,,,,Southeast,PCE,Final
+2011,Deering,336.347,,,0,0,,,,Northwest Arctic,PCE,Final
+2011,Beaver Falls,0,0,0,46676,0,,,,Southeast,EIA,Final
+2011,Ketchikan,0,0,0,22625,0,,,,Southeast,EIA,Final
+2011,S W Bailey,2603,0,0,0,0,,,,Southeast,EIA,Final
+2011,Silvis,0,0,0,12871,0,,,,Southeast,EIA,Final
+2011,Swan Lake,0,0,0,90502,0,,,,Southeast,EIA,Final
+2011,King Cove,1712.346,0,0,3102.464,0,,,,Aleutians,PCE,Final
+2011,Kipnuk,1583.208,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Kobuk,0,0,0,0,0,,,,Northwest Arctic,PCE,Final
+2011,Kodiak,18214,0,0,0,0,,,,Kodiak,EIA,Final
+2011,Nymans Plant,3568,0,0,0,0,,,,Kodiak,EIA,Final
+2011,Pillar Mountain,0,0,0,0,12364,,,,Kodiak,EIA,Final
+2011,Port Lions,70,0,0,0,0,,,,Kodiak,EIA,Final
+2011,Terror Lake,0,0,0,114186,0,,,,Kodiak,EIA,Final
+2011,Kokhanok,406.922,0,0,0,66.449,,,,Bristol Bay,PCE,Final
+2011,Kotzebue,20300,0,0,0,1502.537,,,,Northwest Arctic,PCE,Final
+2011,Koyukuk,314.147,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Kwethluk,1377.593,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Kwigillingok,1168.266,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Larsen Bay,159.17355,0,0,342.385,0,,,,Kodiak,PCE,Final
+2011,Levelock,472.118,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Lime Village,32.903,,,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Manokotak,1365.719,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,McGrath,2840.704,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Centennial,65,0,0,0,0,,,,Southeast,EIA,Final
+2011,Chester Lake,0,0,0,5129,0,,,,Southeast,EIA,Final
+2011,Purple Lake,0,0,0,15040,0,,,,Southeast,EIA,Final
+2011,Chuathbaluk,220.9848,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Crooked Creek,302.6524,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Red Devil,106.4297,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Sleetmute,259.1367,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Stony River,128.072,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Naknek,19900,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Napakiak,0,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Napaskiak,979.45,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Chefornak,1630.624,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Perryville,176.4313,0,0,0,15.799,,,,Bristol Bay,PCE,Final
+2011,Nelson Lagoon,392.2319,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Koliganek,648.44,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Nikolai,399.2111,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Snake River,33500,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Anaktuvuk Pass,3599,0,0,0,0,,,,North Slope,EIA,Final
+2011,Atqasuk,3241,0,0,0,0,,,,North Slope,EIA,Final
+2011,Kaktovik,4550,0,0,0,0,,,,North Slope,EIA,Final
+2011,Nuiqsut,1754,1475,0,0,0,,,,North Slope,EIA,Final
+2011,Point Hope,6153,0,0,0,0,,,,North Slope,EIA,Final
+2011,Point Lay,3085,0,0,0,0,,,,North Slope,EIA,Final
+2011,Wainwright,6258,0,0,0,0,,,,North Slope,EIA,Final
+2011,Sheldon Point,829.249,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Dillingham,18800,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Ouzinkie,328.82,0,0,0,0,,,,Kodiak,PCE,Final
+2011,Pedro Bay,211.787,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Pelican,798.502,0,0,0,0,,,,Southeast,PCE,Final
+2011,Blind Slough,618,0,0,10803,0,,,,Southeast,EIA,Final
+2011,Pilot Point,443.084,0,0,0,5.517,,,,Bristol Bay,PCE,Final
+2011,Port Heiden,490.07,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Kongiganak,671.839,0,0,0,44,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Ruby,732.5764,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Saint George,420.732,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Saint Paul,4295.975,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Seward,44,0,0,0,0,,,,Railbelt,EIA,Final
+2011,Blue Lake,0,0,0,56154,0,,,,Southeast,EIA,Final
+2011,Green Lake,0,0,0,58996,0,,,,Southeast,EIA,Final
+2011,Jarvis Street,1386,0,0,0,0,,,,Southeast,EIA,Final
+2011,Takotna,194.5705,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Port Alsworth,648.313,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Tanana,1146.596,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Tatitlek,472.204,0,0,0,0,,,,Copper River/Chugach,PCE,Final
+2011,Adak,1908.416,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Sand Point,4313.795,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Manley Hot Springs,434.1617,0,0,0,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2011,Tenakee Springs,416.313,0,0,0,0,,,,Southeast,PCE,Final
+2011,Tuluksak,606.7231,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Tuntutuliak,970.951,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,Twin Hills,282.2418,0,0,0,0,,,,Bristol Bay,PCE,Final
+2011,Nikolski,211.643,0,0,0,0.66,,,,Aleutians,PCE,Final
+2011,Unalakleet,3497.944,0,0,0,921.367,,,,Bering Straits,PCE,Final
+2011,Unalaska Power Module,43500,0,0,0,0,,,,Aleutians,PCE,Final
+2011,Newtok,426.984,0,0,0,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2011,White Mountain,369.216,0,0,0,0,,,,Bering Straits,PCE,Final
+2011,Wrangell,1374,0,0,0,0,,,,Southeast,EIA,Final
+2011,Yakutat,6511.709,0,0,0,0,,,,Southeast,PCE,Final
+2012,Akiachak,1928,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Akiak,1182,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Akutan,320,0,0,365,0,,,,Aleutians,PCE,Final
+2012,Annex Creek,0,0,0,21935,0,,,,Southeast,EIA,Final
+2012,Auke Bay,592,0,0,0,0,,,,Southeast,EIA,Final
+2012,Gold Creek,0,0,0,3987,0,,,,Southeast,EIA,Final
+2012,Lake Dorothy,0,0,0,84467,0,,,,Southeast,EIA,Final
+2012,Lemon Creek,230,0,0,0,0,,,,Southeast,EIA,Final
+2012,Salmon Creek 1,0,0,0,28396,0,,,,Southeast,EIA,Final
+2012,Snettisham,0,0,0,290422,0,,,,Southeast,EIA,Final
+2012,Delta Wind Farm,0,0,0,0,989,,,,Railbelt,AEA,Final
+2012,Allakaket,690,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Bettles,582,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Black Bear Lake,0,0,0,19497,0,,,,Southeast,EIA,Final
+2012,Craig,1600,0,0,0,0,,,,Southeast,EIA,Final
+2012,Eagle,769,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,False Island,726,0,0,0,0,,,,Southeast,EIA,Final
+2012,Goat Lake,0,0,0,16298,0,,,,Southeast,EIA,Final
+2012,Haines,-37,0,0,0,0,,,,Southeast,EIA,Final
+2012,Healy Lake,77,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Hydaburg,34,0,0,0,0,,,,Southeast,EIA,Final
+2012,Kasidaya Creek,0,0,0,6915,0,,,,Southeast,EIA,Final
+2012,Naukati Bay,415,0,0,,0,,,,Southeast,PCE,Final
+2012,Northway,1270,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Skagway,-45,0,0,3331,0,,,,Southeast,EIA,Final
+2012,Slana,1352,0,0,,0,,,,Copper River/Chugach,PCE,Final
+2012,South Fork,0,0,0,6614,0,,,,Southeast,EIA,Final
+2012,Thorne Bay Plant,31,0,0,0,0,,,,Southeast,EIA,Final
+2012,Tok,10151,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Viking,-34,0,0,0,0,,,,Southeast,EIA,Final
+2012,Whale Pass,287,0,0,,0,,,,Southeast,PCE,Final
+2012,Alakanuk,2031,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Ambler,1312,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Anvik,417,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Brevig Mission,1185,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Chevak,1767,0,0,,822,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Eek,818,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Ekwok,503,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Elim,1182,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Emmonak,2866,0,0,,504,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Gambell,1465,0,0,,453,,,,Bering Straits,PCE,Final
+2012,Goodnews Bay,830,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Grayling,563,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Holy Cross,617,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Hooper Bay,2740,0,0,,637,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Huslia,1033,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Kaltag,753,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Kasigluk,2492,0,0,,517,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Kiana,1500,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Kivalina,1208,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Kotlik,2034,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Koyuk,1324,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Marshall,1627,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Mekoryuk,775,0,0,,184,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Minto,652,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Mountain Village,2853,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,New Stuyahok,1443,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Noatak,1864,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Noorvik,2003,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Nulato,1064,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Old Harbor,853,0,0,,0,,,,Kodiak,PCE,Final
+2012,Pilot Station,1814,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Quinhagak,1381,0,0,,536,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Russian Mission,1034,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Saint Mary's,3271,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Saint Michael,1798,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Savoonga,1904,0,0,,242,,,,Bering Straits,PCE,Final
+2012,Scammon Bay,1649,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Selawik,3137,0,0,,95,,,,Northwest Arctic,PCE,Final
+2012,Shageluk,359,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Shaktoolik,813,0,0,,148,,,,Bering Straits,PCE,Final
+2012,Shishmaref,1600,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Shungnak,1574,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Stebbins,1414,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Teller,819,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Togiak,3032,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Toksook Bay,2546,0,0,,640,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Upper Kalskag,1411,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Wales,585,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Karluk,266,0,0,,0,,,,Kodiak,PCE,Final
+2012,Anchorage 1,51,54582,0,0,0,,,,Railbelt,EIA,Final
+2012,Eklutna Lake,0,0,0,71126,0,,,,Railbelt,EIA,Final
+2012,George M Sullivan Generation Plant 2,1199,1005890,0,0,0,,,,Railbelt,EIA,Final
+2012,Aniak,2717,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Atka,404,0,0,6,0,,,,Aleutians,PCE,Final
+2012,Atmautluak,741,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Aurora Energy,0,0,201405,0,0,,,,Railbelt,EIA,Final
+2012,Barrow,0,49580,0,0,0,,,,North Slope,EIA,Final
+2012,Beaver,328,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Bethel,44177,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Buckland,1562,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Chalkyitsik,290,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Chenega Bay,298,0,0,,0,,,,Copper River/Chugach,PCE,Final
+2012,Chignik,965,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Chignik Lagoon,446,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Chignik Lake,381,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Chitina,529,0,0,,0,,,,Copper River/Chugach,PCE,Final
+2012,Beluga,0,2009571,0,0,0,,,,Railbelt,EIA,Final
+2012,Cooper Lake,0,0,0,77589,0,,,,Railbelt,EIA,Final
+2012,International,0,56163,0,0,0,,,,Railbelt,EIA,Final
+2012,Circle,394,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Glennallen,12204,0,0,0,0,,,,Copper River/Chugach,EIA,Final
+2012,Solomon Gulch,0,0,0,44135,0,,,,Copper River/Chugach,EIA,Final
+2012,Valdez,4426,0,0,0,0,,,,Copper River/Chugach,EIA,Final
+2012,Valdez Cogen,29655,0,0,0,0,,,,Copper River/Chugach,EIA,Final
+2012,Humpback Creek,0,0,0,3477,0,,,,Copper River/Chugach,EIA,Final
+2012,Orca,10786,0,0,0,0,,,,Copper River/Chugach,EIA,Final
+2012,Power Creek,0,0,0,13297,0,,,,Copper River/Chugach,EIA,Final
+2012,Diomede,520,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Egegik,608,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Elfin Cove,263,0,0,,0,,,,Southeast,PCE,Final
+2012,False Pass,576,0,0,,0,,,,Aleutians,PCE,Final
+2012,Fire Island Wind,0,0,0,0,18039,,,,Railbelt,AEA,Final
+2012,Galena,5737,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Cold Bay,2844,0,0,,0,,,,Aleutians,PCE,Final
+2012,Central,527,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Delta Power,-32,0,0,0,0,,,,Railbelt,EIA,Final
+2012,Eva Creek Wind,0,0,0,0,13359,,,,Railbelt,AEA,Final
+2012,Fairbanks,10667,0,0,0,0,,,,Railbelt,EIA,Final
+2012,Healy,114,0,215310,0,0,,,,Railbelt,EIA,Final
+2012,North Pole,590971,0,0,0,0,,,,Railbelt,EIA,Final
+2012,Golovin,812,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Gustavus,184,0,0,1975,0,,,,Southeast,PCE,Final
+2012,Fort Yukon,3446,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Bernice Lake,0,78818,0,0,0,,,,Railbelt,EIA,Final
+2012,Bradley Lake,0,0,0,397373,0,,,,Railbelt,EIA,Final
+2012,Nikiski Co-Generation,0,239080,0,0,0,,,,Railbelt,EIA,Final
+2012,Seldovia,201,0,0,0,0,,,,Railbelt,EIA,Final
+2012,Hughes,397,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Igiugig,335,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Newhalen,-337,0,0,4259,0,,,,Bristol Bay,PCE,Final
+2012,Angoon,1814,0,0,,0,,,,Southeast,PCE,Final
+2012,Chilkat Valley,,0,0,1059,0,,,,Southeast,PCE,Final
+2012,Hoonah,4668,0,0,,0,,,,Southeast,PCE,Final
+2012,Kake,2970,0,0,,0,,,,Southeast,PCE,Final
+2012,Deering,734,0,0,,0,,,,Northwest Arctic,PCE,Final
+2012,Beaver Falls,0,0,0,47490,0,,,,Southeast,EIA,Final
+2012,Ketchikan,0,0,0,24125,0,,,,Southeast,EIA,Final
+2012,Silvis,0,0,0,13745,0,,,,Southeast,EIA,Final
+2012,Swan Lake,0,0,0,80974,0,,,,Southeast,"AEA, SEPA",Final
+2012,S W Bailey,456,0,0,0,0,,,,Southeast,EIA,Final
+2012,King Cove,2603,0,0,2450,0,,,,Aleutians,PCE,Final
+2012,Kipnuk,1489,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Kodiak,5486,0,0,0,0,,,,Kodiak,EIA,Final
+2012,Nymans Plant,141,0,0,0,0,,,,Kodiak,EIA,Final
+2012,Pillar Mountain,0,0,0,0,16313,,,,Kodiak,EIA,Final
+2012,Port Lions,0,0,0,0,0,,,,Kodiak,EIA,Final
+2012,Terror Lake,0,0,0,131121,0,,,,Kodiak,EIA,Final
+2012,Kokhanok,317,0,0,,158,,,,Bristol Bay,PCE,Final
+2012,Kotzebue,19650,0,0,,3025,,,,Northwest Arctic,PCE,Final
+2012,Koyukuk,320,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Kwethluk,1437,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Kwigillingok,1097,0,0,,6,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Larsen Bay,199,0,0,947,0,,,,Kodiak,PCE,Final
+2012,Levelock,455,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Lime Village,73,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Manokotak,1374,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,McGrath,2754,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Centennial,-188,0,0,0,0,,,,Southeast,EIA,Final
+2012,Chester Lake,0,0,0,5452,0,,,,Southeast,EIA,Final
+2012,Purple Lake,0,0,0,16157,0,,,,Southeast,EIA,Final
+2012,Chuathbaluk,270,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Crooked Creek,298,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Red Devil,116,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Sleetmute,256,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Stony River,138,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Naknek,19344,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Napaskiak,776,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Chefornak,1846,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Perryville,417,0,0,,36,,,,Bristol Bay,PCE,Final
+2012,Nelson Lagoon,389,0,0,,0,,,,Aleutians,PCE,Final
+2012,Koliganek,656,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Nikolai,409,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Snake River,34531,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Anaktuvuk Pass,4045,0,0,,0,,,,North Slope,PCE,Final
+2012,Atqasuk,3523,0,0,,0,,,,North Slope,PCE,Final
+2012,Kaktovik,5728,0,0,,0,,,,North Slope,PCE,Final
+2012,Nuiqsut,2047,1417,0,0,0,,,,North Slope,EIA,Final
+2012,Point Hope,6336,0,0,,0,,,,North Slope,PCE,Final
+2012,Point Lay,3227,0,0,,0,,,,North Slope,PCE,Final
+2012,Wainwright,6376,0,0,,0,,,,North Slope,PCE,Final
+2012,Sheldon Point,878,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Dillingham,19164,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Ouzinkie,538,0,0,28,0,,,,Kodiak,PCE,Final
+2012,Pedro Bay,192,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Pelican,820,0,0,,0,,,,Southeast,PCE,Final
+2012,Blind Slough,807,0,0,13259,0,,,,Southeast,EIA,Final
+2012,Pilot Point,459,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Port Heiden,657,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Kongiganak,1009,0,0,,188,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Ruby,676,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Saint George,734,0,0,,0,,,,Aleutians,PCE,Final
+2012,Saint Paul,4533,0,0,,0,,,,Aleutians,PCE,Final
+2012,Seward,100,0,0,0,0,,,,Railbelt,EIA,Final
+2012,Blue Lake,0,0,0,55672,0,,,,Southeast,EIA,Final
+2012,Green Lake,0,0,0,57966,0,,,,Southeast,EIA,Final
+2012,Jarvis Street,1820,0,0,0,0,,,,Southeast,EIA,Final
+2012,Tyee Lake Hydroelectric Facility,0,0,0,100440,0,,,,Southeast,"AEA, SEPA",Final
+2012,Takotna,200,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Port Alsworth,758,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Tanana,1155,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Tatitlek,480,0,0,,0,,,,Copper River/Chugach,PCE,Final
+2012,Adak,3656,0,0,,0,,,,Aleutians,PCE,Final
+2012,Sand Point,3898,0,0,,0,,,,Aleutians,PCE,Final
+2012,Manley Hot Springs,474,0,0,,0,,,,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2012,Tenakee Springs,417,0,0,,0,,,,Southeast,PCE,Final
+2012,Tuluksak,635,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Tuntutuliak,955,0,0,,33,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,Twin Hills,296,0,0,,0,,,,Bristol Bay,PCE,Final
+2012,Nikolski,222,0,0,,0,,,,Aleutians,PCE,Final
+2012,Unalakleet,3478,0,0,,938,,,,Bering Straits,PCE,Final
+2012,Unalaska Power Module,44073,0,0,,0,,,,Aleutians,PCE,Final
+2012,Newtok,503,0,0,,0,,,,Lower Yukon-Kuskokwim,PCE,Final
+2012,White Mountain,760,0,0,,0,,,,Bering Straits,PCE,Final
+2012,Wrangell,434,0,0,0,0,,,,Southeast,EIA,Final
+2012,Yakutat,6133,0,0,,0,,,,Southeast,PCE,Final
+2013,Akhiok,69,0,0,,0,,,0,Kodiak,PCE,Final
+2013,Akiachak,1873,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Akiak,1146,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Akutan,500,0,0,86,0,,,0,Aleutians,PCE,Final
+2013,Annex Creek,0,0,0,25056,0,,,0,Southeast,EIA923,Final
+2013,Auke Bay,274,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Gold Creek,14,0,0,4690,0,,,0,Southeast,EIA923,Final
+2013,Lake Dorothy,0,0,0,82519,0,,,0,Southeast,EIA923,Final
+2013,Lemon Creek,431,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Salmon Creek 1,0,0,0,30072,0,,,0,Southeast,EIA923,Final
+2013,Snettisham,0,0,0,258832,0,,,0,Southeast,EIA923,Final
+2013,Delta Wind Farm,0,0,0,0,1600,,,0,Railbelt,EIA923,Final
+2013,Allakaket,697,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Bettles,573,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Black Bear Lake,0,0,0,20540,0,,,0,Southeast,EIA923,Final
+2013,Chistochina,47,0,0,,0,,,0,Copper River/Chugach,PCE,Final
+2013,Coffman Cove,0,0,0,,0,,,0,Southeast,PCE,Final
+2013,Craig,1445,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Eagle,718,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,False Island,1501,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Goat Lake,0,0,0,15521,0,,,0,Southeast,EIA923,Final
+2013,Haines,844,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Healy Lake,34,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Hydaburg,13,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Kasidaya Creek,0,0,0,7405,0,,,0,Southeast,EIA923,Final
+2013,Mentasta Lake,0,0,0,,0,,,0,Copper River/Chugach,PCE,Final
+2013,Naukati Bay,446,0,0,,0,,,0,Southeast,PCE,Final
+2013,Northway,1236,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Skagway,188,0,0,3137,0,,,0,Southeast,PCE,Final
+2013,Slana,1273,0,0,,0,,,0,Copper River/Chugach,PCE,Final
+2013,South Fork,0,0,0,5715,0,,,0,Southeast,EIA923,Final
+2013,Thorne Bay Plant,76,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Tok,9753,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Viking,-12,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Whale Pass,299,0,0,,0,,,0,Southeast,PCE,Final
+2013,Alakanuk,2266,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Ambler,1257,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Anvik,419,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Brevig Mission,1115,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Chevak,1712,0,0,,803,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Eek,829,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Ekwok,503,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Elim,1190,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Emmonak,3187,0,0,,516,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Gambell,1454,0,0,,482,,,0,Bering Straits,PCE,Final
+2013,Goodnews Bay,727,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Grayling,576,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Holy Cross,630,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Hooper Bay,2685,0,0,,563,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Huslia,977,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Kaltag,708,0,0,,,,,9,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Kasigluk,2411,0,0,,562,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Kiana,1525,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Kivalina,1267,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Kotlik,1966,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Koyuk,1302,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Marshall,1585,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Mekoryuk,682,0,0,,233,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Minto,606,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Mountain Village,2903,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,New Stuyahok,1390,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Noatak,1874,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Noorvik,1925,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Nulato,1038,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Old Harbor,831,0,0,,0,,,0,Kodiak,PCE,Final
+2013,Pilot Station,1805,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Quinhagak,1453,0,0,,568,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Russian Mission,1019,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Saint Mary's,3166,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Saint Michael,1720,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Savoonga,1803,0,0,,353,,,0,Bering Straits,PCE,Final
+2013,Scammon Bay,1674,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Selawik,2809,0,0,,54,,,0,Northwest Arctic,PCE,Final
+2013,Shageluk,376,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Shaktoolik,737,0,0,,295,,,0,Bering Straits,PCE,Final
+2013,Shishmaref,1630,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Shungnak,1737,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Stebbins,1517,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Teller,838,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Togiak,3008,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Toksook Bay,2588,0,0,,557,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Upper Kalskag,1327,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Wales,609,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Karluk,259,0,0,,0,,,0,Kodiak,PCE,Final
+2013,Anchorage 1,174,22163,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Eklutna Lake,0,0,0,89936,0,,,0,Railbelt,EIA923,Final
+2013,George M Sullivan Generation Plant 2,1513,560770,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Aniak,2548,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Arctic Village,517,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Atka,30,0,0,443,0,,,0,Aleutians,PCE,Final
+2013,Atmautluak,718,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Aurora Energy,0,0,187843,0,0,,,0,Railbelt,EIA923,Final
+2013,Barrow,26,50226,0,0,0,,,0,North Slope,EIA923,Final
+2013,Beaver,296,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Bethel,42620,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Buckland,1750,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Chalkyitsik,361,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Chenega Bay,269,0,0,,0,,,0,Copper River/Chugach,PCE,Final
+2013,Chignik,850,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Chignik Lagoon,381,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Chignik Lake,384,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Chitina,459,0,0,,0,,,0,Copper River/Chugach,PCE,Final
+2013,Beluga,0,1379744,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Bernice Lake,0,41965,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Cooper Lake,0,0,0,35928,0,,,0,Railbelt,EIA923,Final
+2013,International,0,14860,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Southcentral Power Project,0,947407,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Circle,408,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Glennallen,13574,0,0,0,0,,,0,Copper River/Chugach,EIA923,Final
+2013,Solomon Gulch,0,0,0,54750,0,,,0,Copper River/Chugach,EIA923,Final
+2013,Valdez,5075,0,0,0,0,,,0,Copper River/Chugach,EIA923,Final
+2013,Valdez Cogen,17027,0,0,0,0,,,0,Copper River/Chugach,EIA923,Final
+2013,Humpback Creek,0,0,0,3510,0,,,0,Copper River/Chugach,EIA923,Final
+2013,Orca,9086,0,0,0,0,,,0,Copper River/Chugach,EIA923,Final
+2013,Power Creek,0,0,0,15774,0,,,0,Copper River/Chugach,EIA923,Final
+2013,Diomede,397,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Egegik,603,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Elfin Cove,247,0,0,,0,,,0,Southeast,PCE,Final
+2013,False Pass,691,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Fire Island Wind,0,0,0,0,44784,,,0,Railbelt,EIA923,Final
+2013,Galena,5428,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Cold Bay,2615,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Central,524,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Delta Power,-170,0,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Eva Creek Wind,0,0,0,0,71010,,,0,Railbelt,EIA923,Final
+2013,Fairbanks,6878,0,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Healy,254,0,191064,0,0,,,0,Railbelt,EIA923,Final
+2013,North Pole,390644,0,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Golovin,807,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Gustavus,64,0,0,1939,0,,,0,Southeast,PCE,Final
+2013,Fort Yukon,3172,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Bradley Lake,0,0,0,368254,0,,,0,Railbelt,EIA923,Final
+2013,Nikiski Co-Generation,0,263113,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Seldovia,87,0,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Hughes,411,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Igiugig,323,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Newhalen,-250,0,0,4048,0,,,0,Bristol Bay,PCE,Final
+2013,Angoon,1760,0,0,,0,,,0,Southeast,PCE,Final
+2013,Chilkat Valley,,0,0,1015,0,,,0,Southeast,PCE,Final
+2013,Hoonah,4641,0,0,,0,,,0,Southeast,PCE,Final
+2013,Kake,3056,0,0,,0,,,0,Southeast,PCE,Final
+2013,Deering,705,0,0,,0,,,0,Northwest Arctic,PCE,Final
+2013,Beaver Falls,0,0,0,42463,0,,,0,Southeast,EIA923,Final
+2013,Ketchikan,0,0,0,20846,0,,,0,Southeast,EIA923,Final
+2013,Silvis,0,0,0,10997,0,,,0,Southeast,EIA923,Final
+2013,Swan Lake,0,0,0,69157,0,,,0,Southeast,EIA923,Final
+2013,S W Bailey,10204,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,King Cove,2526,0,0,1997,0,,,0,Aleutians,PCE,Final
+2013,Kipnuk,1685,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Kodiak,5808,0,0,0,0,,,0,Kodiak,EIA923,Final
+2013,Nymans Plant,0,0,0,0,0,,,0,Kodiak,EIA923,Final
+2013,Pillar Mountain,0,0,0,0,26699,,,0,Kodiak,EIA923,Final
+2013,Port Lions,0,0,0,0,0,,,0,Kodiak,EIA923,Final
+2013,Terror Lake,0,0,0,119142,0,,,0,Kodiak,EIA923,Final
+2013,Kokhanok,363,0,0,,78,,,0,Bristol Bay,PCE,Final
+2013,Kotzebue,18045,0,0,,3387,,,0,Northwest Arctic,PCE,Final
+2013,Koyukuk,283,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Kwethluk,1448,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Kwigillingok,984,0,0,,194,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Larsen Bay,26,0,0,773,0,,,0,Kodiak,PCE,Final
+2013,Levelock,424,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Lime Village,72,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Manokotak,340,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,McGrath,2598,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Centennial,-189,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Chester Lake,0,0,0,4368,0,,,0,Southeast,EIA923,Final
+2013,Purple Lake,0,0,0,16198,0,,,0,Southeast,EIA923,Final
+2013,Chuathbaluk,110,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Crooked Creek,258,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Red Devil,88,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Sleetmute,237,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Stony River,50,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Naknek,19434,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Napaskiak,894,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Chefornak,1604,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Perryville,170,0,0,,12,,,0,Bristol Bay,PCE,Final
+2013,Nelson Lagoon,328,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Koliganek,684,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Nikolai,405,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Snake River,32745,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Anaktuvuk Pass,4048,0,0,,0,,,0,North Slope,PCE,Final
+2013,Atqasuk,3388,0,0,,0,,,0,North Slope,PCE,Final
+2013,Kaktovik,4569,0,0,,0,,,0,North Slope,PCE,Final
+2013,Nuiqsut,1236,4688,0,0,0,,,0,North Slope,EIA923,Final
+2013,Point Hope,6345,0,0,,0,,,0,North Slope,PCE,Final
+2013,Point Lay,3515,0,0,,0,,,0,North Slope,PCE,Final
+2013,Wainwright,6341,0,0,,0,,,0,North Slope,PCE,Final
+2013,Sheldon Point,881,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Dillingham,18160,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Ouzinkie,434,0,0,326,0,,,0,Kodiak,PCE,Final
+2013,Pedro Bay,170,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Pelican,102,0,0,932,0,,,0,Southeast,PCE,Final
+2013,Blind Slough,661,0,0,11717,0,,,0,Southeast,EIA923,Final
+2013,Pilot Point,411,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Port Heiden,515,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Kongiganak,841,0,0,,375,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Ruby,649,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Saint George,673,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Saint Paul,4138,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Seward,306,0,0,0,0,,,0,Railbelt,EIA923,Final
+2013,Blue Lake,0,0,0,52463,0,,,0,Southeast,EIA923,Final
+2013,Green Lake,0,0,0,60781,0,,,0,Southeast,EIA923,Final
+2013,Jarvis Street,151,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Tyee Lake Hydroelectric Facility,0,0,0,100440,0,,,0,Southeast,AEA,Final
+2013,South Fork,0,0,0,3725,0,,,0,Southeast,AEA,Final
+2013,Takotna,200,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Port Alsworth,766,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Tanana,1104,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Tatitlek,457,0,0,,0,,,0,Copper River/Chugach,PCE,Final
+2013,Adak,2681,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Sand Point,3161,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Manley Hot Springs,426,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,Tenakee Springs,399,0,0,,0,,,0,Southeast,PCE,Final
+2013,Tuluksak,679,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Tuntutuliak,795,0,0,,268,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Twin Hills,279,0,0,,0,,,0,Bristol Bay,PCE,Final
+2013,Nikolski,188,0,0,,0,,,0,Aleutians,PCE,Final
+2013,Unalakleet,3341,0,0,,996,,,0,Bering Straits,PCE,Final
+2013,Dutch Harbor,45034,0,0,0,0,,,0,Aleutians,EIA923,Final
+2013,Unalaska Power Module,175,0,0,0,0,,,0,Aleutians,EIA923,Final
+2013,Newtok,454,0,0,,0,,,0,Lower Yukon-Kuskokwim,PCE,Final
+2013,Venetie,707,0,0,,0,,,0,Yukon-Koyukuk/Upper Tanana,PCE,Final
+2013,White Mountain,740,0,0,,0,,,0,Bering Straits,PCE,Final
+2013,Wrangell,597,0,0,0,0,,,0,Southeast,EIA923,Final
+2013,Yakutat,6118,0,0,,0,,,0,Southeast,PCE,Final
+2014,Atka,240.28,0,0,276.175,0,0,0,0,Aleutians,PCE,Early Release
+2014,False Pass,752.976,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2014,Cold Bay,2598.796,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2014,King Cove,2404.455,0,0,2222,0,0,0,0,Aleutians,PCE,Early Release
+2014,Nelson Lagoon,334.783,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2014,Saint George,661.949,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2014,Saint Paul,886.347,0,0,0,668.643,0,0,0,Aleutians,PCE,Early Release
+2014,Adak,2060.313,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2014,Sand Point,486.87,0,0,0,1026.611,0,0,0,Aleutians,PCE,Early Release
+2014,Nikolski,206.757,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2014,Dutch Harbor,46622,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2014,Unalaska Power Module,68,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2014,Unisea G 2,25376.087,0,0,0,0,0,0,6345.913,Aleutians,EIA923,Early Release
+2014,Westward Seafoods,18767,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2014,Akutan,661.252,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2014,Unalaska,0,0,0,0,0,0,0,0,Aleutians,,Early Release
+2014,Diomede,111.673,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Golovin,829.901,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Snake River,30761.978,0,0,0,985.501,0,0,0,Bering Straits,PCE,Early Release
+2014,Unalakleet,3305.094,0,0,0,1149.714,0,0,0,Bering Straits,PCE,Early Release
+2014,White Mountain,782.2,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Brevig Mission,1101.112,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Elim,1215.857,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Gambell,1561.583,0,0,0,422.778,0,0,0,Bering Straits,PCE,Early Release
+2014,Koyuk,1260.36,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Savoonga,1921.541,0,0,0,268.771,0,0,0,Bering Straits,PCE,Early Release
+2014,Shishmaref,1651.186,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Stebbins,1536.433,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Shaktoolik,775.63,0,0,0,378.007,0,0,0,Bering Straits,PCE,Early Release
+2014,Teller,832.979,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Wales,639.124,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Saint Michael,1748.687,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2014,Chignik Lagoon,446.893,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Chignik Lake,385.239,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Chignik,878.157,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Clark's Point,60.32,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Egegik,674.02,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Igiugig,338.429,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Newhalen,17.856,0,0,3908.007,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Kokhanok,409,0,0,0,13.835,0,0,0,Bristol Bay,PCE,Early Release
+2014,Levelock,480.5,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Manokotak,1386.126,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Naknek,21796.13,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Koliganek,745.828,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Dillingham,18811,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Pedro Bay,186.037,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Pilot Point,414.17,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Port Heiden,525.614,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Port Alsworth,830.156,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,New Stuyahok,1373.098,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Togiak,3057.693,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2014,Perryville,0,0,0,0,0,0,0,0,Bristol Bay,,Early Release
+2014,Chenega Bay,258.105,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2014,Chitina,463.244,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2014,Allison Creek Hydro,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2014,Glennallen,9104,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2014,Solomon Gulch,0,0,0,54955,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2014,Valdez,2007,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2014,Valdez Cogen,21217,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2014,Eyak Service Center BESS,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2014,Humpback Creek,0,0,0,3100,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2014,Orca,7570,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2014,Power Creek,0,0,0,16525,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2014,Tatitlek,441.152,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2014,"Cordova, Eyak",0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2014,Slana,1034.48,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2014,Chistochina,288.264,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2014,Mentasta Lake,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2014,Karluk,240.49,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2014,ESS Battery Microgrid,0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2014,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2014,Kodiak Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2014,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2014,Pillar Mountain Wind Project Microgrid,0,0,0,0,23323,0,0,0,Kodiak,EIA923,Early Release
+2014,Swampy Acres Microgrid,0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2014,Terror Lake Microgrid,0,0,0,134031,0,0,0,0,Kodiak,EIA923,Early Release
+2014,Akhiok,252.263,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2014,Ouzinkie,676.226,0,0,142.871,0,0,0,0,Kodiak,PCE,Early Release
+2014,Old Harbor,850.111,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2014,Port Lions Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2014,Larsen Bay,488.622,0,0,742.696,0,0,0,0,Kodiak,PCE,Early Release
+2014,Aniak,2629.6,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Atmautluak,655.181,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Kipnuk,1820.988,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Kwethluk,1501.492,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Kwigillingok,1103.731,0,0,0,210.629,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Lime Village,71.927,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Chuathbaluk,267.875,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Crooked Creek,233.035,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Red Devil,72.476,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Sleetmute,258.487,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Napaskiak,1058.101,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Chefornak,1521.699,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Nunam Iqua,909.07,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Kongiganak,0,0,0,0,178.457,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Tuntutuliak,93.164,0,0,0,76.613,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Newtok,443.881,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Akiachak,1871.996,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Akiak,1204.634,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Alakanuk,2284.423,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Bethel,11382.4,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Chevak,1681.383,0,0,0,829.138,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Emmonak,3475.78,0,0,0,506.189,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Hooper Bay,2851.8,0,0,0,375.806,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Kasigluk,2708.255,0,0,0,390.042,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Kotlik,1966.084,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Marshall,1518.762,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Pilot Station,1721.899,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Quinhagak,1705.186,0,0,0,425.341,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Saint Mary's,2997.053,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Scammon Bay,1711.609,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Toksook Bay,2644.752,0,0,0,687.991,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Kalskag,1324.101,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Eek,850.501,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Goodnews Bay,686.252,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Mekoryuk,752.757,0,0,0,231.822,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Russian Mission,1039.636,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Napakiak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2014,Platinum,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2014,Mountain Village,2855.753,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2014,Nunapitchuk,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2014,Nightmute,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2014,Pitkas Point,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2014,Tununak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2014,Lower Kalskag,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2014,Barrow,3.565,49633.435,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2014,Anaktuvuk Pass,4231,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2014,Atqasuk,3481.92,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2014,Kaktovik,4695.6,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2014,Nuiqsut,886.39,5711.61,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2014,Point Hope,5759,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2014,Point Lay,3593.257,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2014,Wainwright,6721.97,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2014,TNSG North Plant,5,66099,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2014,TNSG South Plant,0,9104,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2014,Buckland,1681.389,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Deering,606.627,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Kotzebue,17116.335,0,0,0,4625.497,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Ambler,1234.382,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Kiana,1554.2,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Kivalina,1220.661,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Noatak,1791.85,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Noorvik,1863.79,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Selawik,2594.496,0,0,0,47.939,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Shungnak,1633.556,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2014,Kobuk,0,0,0,0,0,0,0,0,Northwest Arctic,,Early Release
+2014,Anchorage 1,39.45,33602.55,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Eklutna Hydro Project,0,0,0,83110,0,0,0,0,Railbelt,EIA923,Early Release
+2014,George M Sullivan Generation Plant 2,987.859,492729.141,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Aurora Energy LLC Chena,0,0,191062,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Beluga,0,1216481,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Cooper Lake,0,0,0,32050,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Southcentral Power Project,0,909356,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Fort Greely Power Plant,119.56,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Utility Plants Section,0,0,71042.994,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,JBER Landfill Gas Power Plant,0,56167,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Delta Wind Farm,0,0,0,0,4500,0,0,0,Railbelt,EIA923,Early Release
+2014,Fire Island Wind,0,0,0,0,47813,0,0,0,Railbelt,EIA923,Early Release
+2014,Battery Energy Storage System,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2014,Delta Power,-121,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Eva Creek Wind,0,0,0,0,71779,0,0,0,Railbelt,EIA923,Early Release
+2014,Fairbanks,7085,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Healy,293.044,0,185611.956,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,North Pole,313855,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Bernice Lake,0,17447,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Bradley Lake,0,0,0,432575,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Nikiski Co-Generation,0,371284,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Seldovia,444,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Soldotna,0,46481,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Eklutna Generation Station,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2014,Seward,49,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Tesoro Kenai Cogeneration Plant,0,67069.24,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,University of Alaska Fairbanks,2827.932,2161.112,42366.231,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Eielson AFB Central Heat & Power Plant,55,0,68209,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,Agrium Kenai Nitrogen Operations,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2014,AWWU Conduit,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2014,International,0,862,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2014,GVEA Solar Farm,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2014,Willow Solar,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2014,Lake Dorothy Hydroelectric Project,0,0,0,83600,0,0,0,0,Southeast,EIA923,Early Release
+2014,Lemon Creek,181,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Salmon Creek 1,0,0,0,22116,0,0,0,0,Southeast,EIA923,Early Release
+2014,Snettisham,0,0,0,285599,0,0,0,0,Southeast,EIA923,Early Release
+2014,Elfin Cove,279.623,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Black Bear Lake,0,0,0,21145,0,0,0,0,Southeast,EIA923,Early Release
+2014,Goat Lake Hydro,0,0,0,15140,0,0,0,0,Southeast,EIA923,Early Release
+2014,Angoon,1812.726,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Hoonah,4595.68,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Kake,2838.967,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Chilkat Valley,0,0,0,1002.42,0,0,0,0,Southeast,PCE,Early Release
+2014,Kasidaya Creek Hydro,0,0,0,8640,0,0,0,0,Southeast,EIA923,Early Release
+2014,Beaver Falls,0,0,0,45508,0,0,0,0,Southeast,EIA923,Early Release
+2014,Ketchikan,0,0,0,24429,0,0,0,0,Southeast,EIA923,Early Release
+2014,S W Bailey,-262.90199,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Silvis,0,0,0,13723,0,0,0,0,Southeast,EIA923,Early Release
+2014,Swan Lake,0,0,0,66187,0,0,0,0,Southeast,EIA923,Early Release
+2014,Whitman,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,South Fork,0,0,0,5875,0,0,0,0,Southeast,EIA923,Early Release
+2014,Centennial,-39,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Craig,306,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Chester Lake,0,0,0,5966,0,0,0,0,Southeast,EIA923,Early Release
+2014,Purple Lake,0,0,0,15660,0,0,0,0,Southeast,EIA923,Early Release
+2014,False Island,818,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Haines,214.889,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Pelican,3,0,0,1097,0,0,0,0,Southeast,EIA923,Early Release
+2014,Blind Slough,732.06,0,0,13108,0,0,0,0,Southeast,EIA923,Early Release
+2014,Hydaburg,13,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Klawock Power Generation Station,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Blue Lake Hydro,0,0,0,40707,0,0,0,0,Southeast,EIA923,Early Release
+2014,Green Lake,0,0,0,70792,0,0,0,0,Southeast,EIA923,Early Release
+2014,Jarvis Street,251,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Tyee Lake Hydroelectric Facility,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Tenakee Springs,372.622,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Skagway,56.56,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Wrangell,673,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Thorne Bay Plant,-24,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Gustavus,3.2,0,0,892.872,0,0,0,0,Southeast,PCE,Early Release
+2014,Whale Pass,318.36,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Annex Creek,0,0,0,27380,0,0,0,0,Southeast,EIA923,Early Release
+2014,Auke Bay,0,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Yakutat,6161.54,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Gold Creek,18,0,0,5634,0,0,0,0,Southeast,EIA923,Early Release
+2014,Industrial Plant,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Klukwan,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,10 Mile Creek,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Mahoney Lake Hydroelectric,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Viking,-15,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2014,Coffman Cove,14.948,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Hollis,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Dewey Lakes ,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Lutak,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2014,Naukati Bay,431.712,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Ekwok,497.694,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2014,Stevens Village,117.351,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Arctic Village,528.768,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Beaver,264.725,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Birch Creek,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2014,Chalkyitsik,273.641,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Circle,389.24,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Galena Electric Utility,5842.295,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Central,571.3,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Gwitchyaa Zhee,2976.232,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Hughes,441.982,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Koyukuk,298.998,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,McGrath,2558.26,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Nikolai,437.054,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Rampart,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2014,Ruby,678.94,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Takotna,72.576,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Tanana,1125.926,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Northway,1169.6,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Manley Hot Springs,445.063,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Venetie,658.4,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Tok,9012.12,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Allakaket,634.584,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Bettles,557.697,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Eagle,663.28,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Healy Lake,26.304,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Anvik,410.482,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Grayling,592.948,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Holy Cross,627.226,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Huslia,955.386,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Kaltag,700.063,0,0,0,0,8.649,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Minto,614.149,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Nulato,1002.902,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Shageluk,380.435,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2014,Tetlin,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2014,Dry Spruce Bay (Creek),0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2015,Atka,141.865,0,0,371.32,0,0,0,0,Aleutians,PCE,Early Release
+2015,False Pass,647.112,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2015,Cold Bay,2436.21,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2015,King Cove,1711.320841,0,0,2760,0,0,0,0,Aleutians,PCE,Early Release
+2015,Nelson Lagoon,327.582,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2015,Saint George,604.591,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2015,Saint Paul,0,0,0,0,707.205,0,0,0,Aleutians,PCE,Early Release
+2015,Adak,2017.68,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2015,Sand Point,751.33,0,0,0,742.247,0,0,0,Aleutians,PCE,Early Release
+2015,Nikolski,201.31,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2015,Dutch Harbor,39395,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2015,Unalaska Power Module,726,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2015,Unisea G 2,26575.322,0,0,0,0,0,0,4760.678,Aleutians,EIA923,Early Release
+2015,Westward Seafoods,19096,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2015,Akutan,285.172,0,0,2.142,0,0,0,0,Aleutians,PCE,Early Release
+2015,Unalaska,0,0,0,0,0,0,0,0,Aleutians,,Early Release
+2015,Diomede,0,0,0,0,0,0,0,0,Bering Straits,,Early Release
+2015,Golovin,941.408,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Snake River,29764.067,0,0,0,1813.801,0,0,0,Bering Straits,PCE,Early Release
+2015,Unalakleet,3634.779,0,0,0,986.523,0,0,0,Bering Straits,PCE,Early Release
+2015,White Mountain,767.3,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Brevig Mission,1143.206,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Elim,1263.825,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Gambell,1415.804,0,0,0,535.705,0,0,0,Bering Straits,PCE,Early Release
+2015,Koyuk,1252.986,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Savoonga,1920.836,0,0,0,258.538,0,0,0,Bering Straits,PCE,Early Release
+2015,Shishmaref,1671.336,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Stebbins,2219.982,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Shaktoolik,794.51,0,0,0,329.269,0,0,0,Bering Straits,PCE,Early Release
+2015,Teller,851.047,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Wales,622.391,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Saint Michael,1130.45,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2015,Chignik Lagoon,80.819,0,0,561.994,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Chignik Lake,370.636,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Chignik,898.57,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Clark's Point,249.44,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Egegik,642.311,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Igiugig,349.167,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Newhalen,34.376,0,0,3746.996,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Kokhanok,420,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Levelock,475.619,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Manokotak,1488.142328,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Naknek,22412.982,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Koliganek,747.389,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Dillingham,18511.6,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Pedro Bay,194.16,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Pilot Point,435.688,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Port Heiden,576.538508,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Port Alsworth,882.193,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,New Stuyahok,1384.652,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Togiak,3002.202,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2015,Perryville,254.092,0,0,0,7.168,0.306,0,0,Bristol Bay,PCE,Early Release
+2015,Chenega Bay,247.922,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2015,Chitina,468.762,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2015,Allison Creek Hydro,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2015,Glennallen,8630,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2015,Solomon Gulch,0,0,0,55982,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2015,Valdez,2233,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2015,Valdez Cogen,21316,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2015,Eyak Service Center BESS,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2015,Humpback Creek,0,0,0,3051,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2015,Orca,7739,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2015,Power Creek,0,0,0,17811,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2015,Tatitlek,440.8449119,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2015,"Cordova, Eyak",0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2015,Slana,1171.2,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2015,Chistochina,179.34,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2015,Mentasta Lake,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2015,Karluk,208.071,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2015,ESS Battery Microgrid,0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2015,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2015,Kodiak Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2015,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2015,Pillar Mountain Wind Project Microgrid,0,0,0,0,29107,0,0,0,Kodiak,EIA923,Early Release
+2015,Swampy Acres Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2015,Terror Lake Microgrid,0,0,0,128893,0,0,0,0,Kodiak,EIA923,Early Release
+2015,Akhiok,257.111,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2015,Ouzinkie,366.0909,0,0,401.256,0,0,0,0,Kodiak,PCE,Early Release
+2015,Old Harbor,835.282,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2015,Port Lions Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2015,Larsen Bay,5.812168027,0,0,484.862,0,0,0,0,Kodiak,PCE,Early Release
+2015,Aniak,2673.8,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Atmautluak,692.7507094,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Kipnuk,1883.748,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Kwethluk,1620.721,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Kwigillingok,914.4566743,0,0,0,519.737,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Lime Village,79.428,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Chuathbaluk,278.162,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Crooked Creek,241.174,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Red Devil,67.426,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Sleetmute,260.8287089,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Stony River,118.6771428,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Napaskiak,982.837,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Chefornak,1593.556,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Nunam Iqua,885.866,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Kongiganak,301.5202507,0,0,0,231.357,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Tuntutuliak,0,0,0,0,67.743,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Newtok,443.6057,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Akiachak,1951.908,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Akiak,1067.311,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Alakanuk,2161.015,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Bethel,42481.8,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Chevak,1653.595,0,0,0,922.659,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Emmonak,3580.176,0,0,0,337.661,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Hooper Bay,2789.967,0,0,0,499.906,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Kasigluk,2749.219,0,0,0,378.784,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Kotlik,2010.883,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Marshall,1506.366,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Pilot Station,1809.641,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Quinhagak,1754.134,0,0,0,485.175,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Saint Mary's,3070.399,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Scammon Bay,1671.054,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Toksook Bay,2871.147,0,0,0,729.037,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Kalskag,1393.635,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Eek,879.54,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Goodnews Bay,680.65,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Mekoryuk,753.95,0,0,0,199.021,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Russian Mission,997.381,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Napakiak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2015,Platinum,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2015,Mountain Village,2884.924,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2015,Nunapitchuk,-15,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2015,Nightmute,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2015,Pitkas Point,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2015,Tununak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2015,Lower Kalskag,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2015,Barrow,1.588,50110.412,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2015,Anaktuvuk Pass,4110,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2015,Atqasuk,3442.36,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2015,Kaktovik,4733.1,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2015,Nuiqsut,392.256,6250.744,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2015,Point Hope,6584.988306,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2015,Point Lay,3577.981,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2015,Wainwright,7296.27,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2015,TNSG North Plant,0,79920,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2015,TNSG South Plant,0,801,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2015,Buckland,1733.571748,0,0,0,73.84,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Deering,700.837073,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Kotzebue,18117.048,0,0,0,3319.995,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Ambler,1492.79,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Kiana,1617.644,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Kivalina,1214.445,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Noatak,1837.843,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Noorvik,1976.306,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Selawik,2678.128,0,0,0,104.58,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Shungnak,1578.936,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2015,Kobuk,0,0,0,0,0,0,0,0,Northwest Arctic,,Early Release
+2015,Anchorage 1,22.908,47759.092,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Eklutna Hydro Project,0,0,0,92243,0,0,0,0,Railbelt,EIA923,Early Release
+2015,George M Sullivan Generation Plant 2,835.771,653306.229,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Aurora Energy LLC Chena,0,0,198296,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Beluga,0,381942,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Cooper Lake,0,0,0,16425,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Southcentral Power Project,0,867954,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Fort Greely Power Plant,101.92,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Utility Plants Section,0,0,119233.486,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,JBER Landfill Gas Power Plant,0,50132,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Delta Wind Farm,0,0,0,0,4000,0,0,0,Railbelt,EIA923,Early Release
+2015,Fire Island Wind,0,0,0,0,50562,0,0,0,Railbelt,EIA923,Early Release
+2015,Battery Energy Storage System,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2015,Delta Power,-183,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Eva Creek Wind,0,0,0,0,72784,0,0,0,Railbelt,EIA923,Early Release
+2015,Fairbanks,5842,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Healy,6590.568,0,241117.217,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,North Pole,340147,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Bernice Lake,0,339,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Bradley Lake,0,0,0,471705,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Nikiski Co-Generation,0,395023,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Seldovia,72,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Soldotna,0,41087,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Eklutna Generation Station,0,476985,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Seward,386,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Tesoro Kenai Cogeneration Plant,156.103,70300.997,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,University of Alaska Fairbanks,5390.087,0,41616.602,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Eielson AFB Central Heat & Power Plant,236,0,67286,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,Agrium Kenai Nitrogen Operations,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2015,AWWU Conduit,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2015,International,0,874,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2015,GVEA Solar Farm,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2015,Willow Solar,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2015,Lake Dorothy Hydroelectric Project,0,0,0,84921,0,0,0,0,Southeast,EIA923,Early Release
+2015,Lemon Creek,293,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Salmon Creek 1,0,0,0,31260,0,0,0,0,Southeast,EIA923,Early Release
+2015,Snettisham,0,0,0,278023,0,0,0,0,Southeast,EIA923,Early Release
+2015,Elfin Cove,315.24,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Black Bear Lake,0,0,0,21168,0,0,0,0,Southeast,EIA923,Early Release
+2015,Goat Lake Hydro,0,0,0,15691,0,0,0,0,Southeast,EIA923,Early Release
+2015,Angoon,1806.774,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Hoonah,4086.222,0,0,632.115,0,0,0,0,Southeast,PCE,Early Release
+2015,Kake,2358.927,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Chilkat Valley,0,0,0,1141.54,0,0,0,0,Southeast,PCE,Early Release
+2015,Kasidaya Creek Hydro,0,0,0,8638,0,0,0,0,Southeast,EIA923,Early Release
+2015,Beaver Falls,0,0,0,45980,0,0,0,0,Southeast,EIA923,Early Release
+2015,Ketchikan,0,0,0,23133,0,0,0,0,Southeast,EIA923,Early Release
+2015,S W Bailey,-968,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Silvis,0,0,0,13607,0,0,0,0,Southeast,EIA923,Early Release
+2015,Swan Lake,0,0,0,61089,0,0,0,0,Southeast,EIA923,Early Release
+2015,Whitman,0,0,0,8712,0,0,0,0,Southeast,EIA923,Early Release
+2015,South Fork,0,0,0,5891,0,0,0,0,Southeast,EIA923,Early Release
+2015,Centennial,1328,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Craig,1014,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Chester Lake,0,0,0,5429,0,0,0,0,Southeast,EIA923,Early Release
+2015,Purple Lake,0,0,0,14712,0,0,0,0,Southeast,EIA923,Early Release
+2015,False Island,828,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Haines,131.46,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Pelican,0,0,0,1129,0,0,0,0,Southeast,EIA923,Early Release
+2015,Blind Slough,806.54,0,0,12669,0,0,0,0,Southeast,EIA923,Early Release
+2015,Hydaburg,-9,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Klawock Power Generation Station,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Blue Lake Hydro,0,0,0,59501,0,0,0,0,Southeast,EIA923,Early Release
+2015,Green Lake,0,0,0,49511,0,0,0,0,Southeast,EIA923,Early Release
+2015,Jarvis Street,-270,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Tyee Lake Hydroelectric Facility,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Tenakee Springs,407.267,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Skagway,172.04,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Wrangell,614,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Thorne Bay Plant,184,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Gustavus,33.283,0,0,2115.992,0,0,0,0,Southeast,PCE,Early Release
+2015,Whale Pass,323.737,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Annex Creek,0,0,0,27012,0,0,0,0,Southeast,EIA923,Early Release
+2015,Auke Bay,-43,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Yakutat,5882.875,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Gold Creek,21,0,0,6465,0,0,0,0,Southeast,EIA923,Early Release
+2015,Industrial Plant,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Klukwan,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,10 Mile Creek,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Mahoney Lake Hydroelectric,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Viking,-11,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2015,Coffman Cove,8.51764,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Hollis,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Dewey Lakes ,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Lutak,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2015,Naukati Bay,31.104,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Ekwok,463.849,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2015,Arctic Village,479.8166139,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Beaver,298.784,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Birch Creek,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2015,Chalkyitsik,126.93,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Circle,371.92,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Galena Electric Utility,5437.142,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Central,558.813,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Gwitchyaa Zhee,3117.618,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Hughes,446.694,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Koyukuk,272.628,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,McGrath,2470.916,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Nikolai,434.207,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Rampart,56.799,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Ruby,671.984,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Takotna,245.1533955,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Tanana,1286.465,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Northway,1156.8,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Manley Hot Springs,511.807,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Venetie,638.4,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Tok,9257.72,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Allakaket,596.952,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Bettles,537.3,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Eagle,711.006,0,0,0,0,8.779,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Healy Lake,6.863,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Anvik,430.561,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Grayling,609.336,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Holy Cross,604.756,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Huslia,1021.094,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Kaltag,632.241,0,0,0,0,8.173,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Minto,663.715,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Nulato,985.13,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Shageluk,386.457,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2015,Tetlin,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2015,Dry Spruce Bay (Creek),0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2016,Atka,120.057,0,0,358.759,0,0,0,0,Aleutians,PCE,Early Release
+2016,False Pass,611.624,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2016,Cold Bay,1946.696,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2016,King Cove,2297.174,0,0,2005,0,0,0,0,Aleutians,PCE,Early Release
+2016,Nelson Lagoon,321.212,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2016,Saint George,543.698,0,0,0,57.192,0,0,0,Aleutians,PCE,Early Release
+2016,Saint Paul,0,0,0,0,592.969,0,0,0,Aleutians,PCE,Early Release
+2016,Adak,1977.794,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2016,Sand Point,0,0,0,0,735.698,0,0,0,Aleutians,PCE,Early Release
+2016,Nikolski,192.999,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2016,Dutch Harbor,46918,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2016,Unalaska Power Module,289,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2016,Unisea G 2,29837.22,0,0,0,0,0,0,501.78,Aleutians,EIA923,Early Release
+2016,Westward Seafoods,18455,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2016,Akutan,463.935,0,0,112.431,0,0,0,0,Aleutians,PCE,Early Release
+2016,Unalaska,0,0,0,0,0,0,0,0,Aleutians,,Early Release
+2016,Diomede,90.01,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Golovin,935.455,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Snake River,29455.264,0,0,0,1726.729,0,0,0,Bering Straits,PCE,Early Release
+2016,Unalakleet,3377.605,0,0,0,964.785,0,0,0,Bering Straits,PCE,Early Release
+2016,White Mountain,769.4,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Brevig Mission,1179.566,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Elim,1294.366,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Gambell,1323.628,0,0,0,684.108,0,0,0,Bering Straits,PCE,Early Release
+2016,Koyuk,1303.487,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Savoonga,2157.808,0,0,0,180.963,0,0,0,Bering Straits,PCE,Early Release
+2016,Shishmaref,1684.446,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Stebbins,3406.212,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Shaktoolik,752.408,0,0,0,436.104,0,0,0,Bering Straits,PCE,Early Release
+2016,Teller,866.054,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Wales,656.062,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2016,Saint Michael,0,0,0,0,0,0,0,0,Bering Straits,,Early Release
+2016,Chignik Lagoon,8.548,0,0,666.373,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Chignik Lake,356.58,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Chignik,665.324,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Clark's Point,224.96,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Egegik,542.53,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Igiugig,340.632,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Newhalen,78.53,0,0,3539.57,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Kokhanok,428.9,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Levelock,450.688,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Manokotak,1389.804,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Naknek,22085.813,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Koliganek,733.288,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Dillingham,18479.2,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Pedro Bay,195.538,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Pilot Point,454.064,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Port Heiden,515.04,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Port Alsworth,859.334,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,New Stuyahok,1377.62,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Togiak,3034.629,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Perryville,440.102,0,0,0,8.029,0.835,0,0,Bristol Bay,PCE,Early Release
+2016,Chenega Bay,269.07,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2016,Chitina,444.582,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2016,Allison Creek Hydro,0,0,0,881,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Glennallen,10403,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Solomon Gulch,0,0,0,54850,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Valdez,5050,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Valdez Cogen,17636,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Eyak Service Center BESS,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2016,Humpback Creek,0,0,0,3743,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Orca,5589,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Power Creek,0,0,0,15539,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2016,Tatitlek,414.243,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2016,"Cordova, Eyak",0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2016,Slana,1266.426,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2016,Chistochina,42.3,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2016,Mentasta Lake,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2016,Karluk,213.859,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2016,ESS Battery Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2016,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2016,Kodiak Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2016,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2016,Pillar Mountain Wind Project Microgrid,0,0,0,0,29309,0,0,0,Kodiak,EIA923,Early Release
+2016,Swampy Acres Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2016,Terror Lake Microgrid,0,0,0,124484,0,0,0,0,Kodiak,EIA923,Early Release
+2016,Akhiok,312.066,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2016,Ouzinkie,294.551,0,0,446.965,0,0,0,0,Kodiak,PCE,Early Release
+2016,Old Harbor,869.528,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2016,Port Lions Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2016,Larsen Bay,56.446,0,0,799.771,0,0,0,0,Kodiak,PCE,Early Release
+2016,Aniak,2613.996,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Atmautluak,724.5018889,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Kipnuk,1821.561,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Kwethluk,1752.639,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Kwigillingok,869.77,0,0,0,381.503,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Lime Village,71.149,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Chuathbaluk,245.655,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Crooked Creek,257.797,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Red Devil,63.519,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Sleetmute,245.351,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Stony River,121.018344,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Napaskiak,973.386,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Chefornak,1516.727,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Nunam Iqua,766.044,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Kongiganak,66.51,0,0,0,184.889,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Tuntutuliak,0,0,0,0,102.568,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Newtok,441.088,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Akiachak,1971.032,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Akiak,1133.561,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Alakanuk,1282.889,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Bethel,41975,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Chevak,1811.252,0,0,0,734.708,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Emmonak,4007.925,0,0,0,741.977,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Hooper Bay,2882.885,0,0,0,544.41,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Kasigluk,2494.09,0,0,0,579.794,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Kotlik,1972.116,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Marshall,1508.929,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Pilot Station,1974.124,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Quinhagak,1525.94,0,0,0,694.313,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Saint Mary's,3021.606,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Scammon Bay,1671.649,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Toksook Bay,2874.662,0,0,0,681.695,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Kalskag,1481.98,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Eek,953.693,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Goodnews Bay,682.065,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Mekoryuk,827.349,0,0,0,117.868,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Russian Mission,1023.124,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Napakiak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2016,Platinum,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2016,Mountain Village,2798.958,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2016,Nunapitchuk,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2016,Nightmute,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2016,Pitkas Point,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2016,Tununak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2016,Lower Kalskag,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2016,Barrow,0.797,50161.203,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2016,Anaktuvuk Pass,4256,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2016,Atqasuk,3300.275,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2016,Kaktovik,4792.4,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2016,Nuiqsut,414.264,5934.736,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2016,Point Hope,6818.348,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2016,Point Lay,3704.764,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2016,Wainwright,7322.11,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2016,TNSG North Plant,0,72702,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2016,TNSG South Plant,0,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2016,Buckland,1556.771,0,0,0,159.849,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Deering,656.235,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Kotzebue,16962.819,0,0,0,4073.088,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Ambler,1338.498,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Kiana,1578.772,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Kivalina,1322.266,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Noatak,1852.883,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Noorvik,1893.38,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Selawik,2803.685,0,0,0,63.935,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Shungnak,1592.997,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2016,Kobuk,0,0,0,0,0,0,0,0,Northwest Arctic,,Early Release
+2016,Anchorage 1,40.614,45041.386,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Eklutna Hydro Project,0,0,0,76916,0,0,0,0,Railbelt,EIA923,Early Release
+2016,George M Sullivan Generation Plant 2,99.11,589638.89,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Aurora Energy LLC Chena,0,0,191982,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Beluga,0,84421,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Cooper Lake,0,0,0,86666,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Southcentral Power Project,0,871990,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Fort Greely Power Plant,107.8,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Utility Plants Section,0,0,105551.403,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,JBER Landfill Gas Power Plant,0,42516,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Delta Wind Farm,0,0,0,0,4446,0,0,0,Railbelt,EIA923,Early Release
+2016,Fire Island Wind,0,0,0,0,56022,0,0,0,Railbelt,EIA923,Early Release
+2016,Battery Energy Storage System,0,0,0,0,0,0,-2392,0,Railbelt,EIA923,Early Release
+2016,Delta Power,38,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Eva Creek Wind,0,0,0,0,73845,0,0,0,Railbelt,EIA923,Early Release
+2016,Fairbanks,7133,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Healy,2878.877,0,189596.123,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,North Pole,417652,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Bernice Lake,0,12,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Bradley Lake,0,0,0,430509,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Nikiski Co-Generation,0,398898,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Seldovia,87,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Soldotna,0,39612,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Eklutna Generation Station,0,819046,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Seward,105,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Tesoro Kenai Cogeneration Plant,0,62679,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,University of Alaska Fairbanks,2603.221,1129.934,37330.845,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Eielson AFB Central Heat & Power Plant,216,0,69678.564,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,Agrium Kenai Nitrogen Operations,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2016,AWWU Conduit,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2016,International,0,-780,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2016,GVEA Solar Farm,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2016,Willow Solar,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2016,Lake Dorothy Hydroelectric Project,0,0,0,87454,0,0,0,0,Southeast,EIA923,Early Release
+2016,Lemon Creek,212,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Salmon Creek 1,0,0,0,27902,0,0,0,0,Southeast,EIA923,Early Release
+2016,Snettisham,0,0,0,273037,0,0,0,0,Southeast,EIA923,Early Release
+2016,Elfin Cove,316.791,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Black Bear Lake,0,0,0,20763,0,0,0,0,Southeast,EIA923,Early Release
+2016,Goat Lake Hydro,0,0,0,16957,0,0,0,0,Southeast,EIA923,Early Release
+2016,Angoon,1846.135,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Hoonah,3529.292,0,0,1212.903,0,0,0,0,Southeast,PCE,Early Release
+2016,Kake,2255.999,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Chilkat Valley,0,0,0,1051.5,0,0,0,0,Southeast,PCE,Early Release
+2016,Kasidaya Creek Hydro,0,0,0,7123,0,0,0,0,Southeast,EIA923,Early Release
+2016,Beaver Falls,0,0,0,42915,0,0,0,0,Southeast,EIA923,Early Release
+2016,Ketchikan,0,0,0,20683,0,0,0,0,Southeast,EIA923,Early Release
+2016,S W Bailey,-1111,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Silvis,0,0,0,13207,0,0,0,0,Southeast,EIA923,Early Release
+2016,Swan Lake,0,0,0,71246,0,0,0,0,Southeast,EIA923,Early Release
+2016,Whitman,0,0,0,7649,0,0,0,0,Southeast,EIA923,Early Release
+2016,South Fork,0,0,0,5322,0,0,0,0,Southeast,EIA923,Early Release
+2016,Centennial,3046,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Craig,431,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Chester Lake,0,0,0,4585,0,0,0,0,Southeast,EIA923,Early Release
+2016,Purple Lake,0,0,0,14286,0,0,0,0,Southeast,EIA923,Early Release
+2016,False Island,689,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Haines,122.683,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Pelican,175,0,0,789,0,0,0,0,Southeast,EIA923,Early Release
+2016,Blind Slough,110.74,0,0,11621,0,0,0,0,Southeast,EIA923,Early Release
+2016,Hydaburg,-9,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Klawock Power Generation Station,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,Blue Lake Hydro,0,0,0,69018,0,0,0,0,Southeast,EIA923,Early Release
+2016,Green Lake,0,0,0,35983,0,0,0,0,Southeast,EIA923,Early Release
+2016,Jarvis Street,1099,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Tyee Lake Hydroelectric Facility,0,0,0,96901,0,0,0,0,Southeast,EIA923,Early Release
+2016,Tenakee Springs,406.4,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Skagway,192.44,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Wrangell,44,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Thorne Bay Plant,-1,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Gustavus,43.91,0,0,2236.793,0,0,0,0,Southeast,PCE,Early Release
+2016,Whale Pass,357.974,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Annex Creek,0,0,0,25644,0,0,0,0,Southeast,EIA923,Early Release
+2016,Auke Bay,8,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Yakutat,5943.629,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Gold Creek,8,0,0,4589,0,0,0,0,Southeast,EIA923,Early Release
+2016,Industrial Plant,138,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Klukwan,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,10 Mile Creek,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,Mahoney Lake Hydroelectric,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,Viking,-10,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2016,Coffman Cove,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,Hollis,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,Dewey Lakes ,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,Lutak,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2016,Naukati Bay,2.938,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2016,Ekwok,486.616,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2016,Arctic Village,526.9702296,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Beaver,299.87852,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Birch Creek,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2016,Chalkyitsik,163.91,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Circle,363.36,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Galena Electric Utility,5533.936,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Central,515.643,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Gwitchyaa Zhee,3015.25,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Hughes,463.493,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Koyukuk,256.581,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,McGrath,2357.526,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Nikolai,417.185,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Rampart,200.677,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Ruby,637.712,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Takotna,248.3885982,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Tanana,1289.327,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Northway,1124.801,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Manley Hot Springs,552.596,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Venetie,705.1,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Tok,9366.719,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Allakaket,589.679,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Bettles,519.4,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Eagle,744.8,0,0,0,0,23.951,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Healy Lake,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2016,Anvik,425.774,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Grayling,624.019,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Holy Cross,595.4,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Huslia,1032.859,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Kaltag,592.508,0,0,0,0,7.316,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Minto,665.416,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Nulato,1046.427,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Shageluk,399.0148889,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2016,Tetlin,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2016,Dry Spruce Bay (Creek),0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2017,Atka,63.8341,0,0,408.298,0,0,0,0,Aleutians,PCE,Early Release
+2017,False Pass,648.781,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2017,Cold Bay,2328.823,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2017,King Cove,1696,0,0,2436,0,0,0,0,Aleutians,EIA923,Early Release
+2017,Nelson Lagoon,338.018,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2017,Saint George,569.596,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2017,Saint Paul,0,0,0,0,486.361,0,0,0,Aleutians,PCE,Early Release
+2017,Adak,1987.416,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2017,Sand Point,875.9,0,0,0,624.335,0,0,0,Aleutians,PCE,Early Release
+2017,Nikolski,195.172,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2017,Dutch Harbor,58373.16,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2017,Unalaska Power Module,10,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2017,Unisea G 2,28519.554,0,0,0,0,0,0,1377.446,Aleutians,EIA923,Early Release
+2017,Westward Seafoods,15633,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2017,Akutan,446.216,0,0,114.539,0,0,0,0,Aleutians,PCE,Early Release
+2017,Unalaska,0,0,0,0,0,0,0,0,Aleutians,,Early Release
+2017,Diomede,543.45848,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Golovin,1037.158,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Snake River,29914.516,0,0,0,1907.363,0,0,0,Bering Straits,PCE,Early Release
+2017,Unalakleet,3617.638,0,0,0,744.575,0,0,0,Bering Straits,PCE,Early Release
+2017,White Mountain,781.719,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Brevig Mission,1188.819,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Elim,1284.955,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Gambell,1415.187,0,0,0,570.108,0,0,0,Bering Straits,PCE,Early Release
+2017,Koyuk,1321.193,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Savoonga,2208.645,0,0,0,110.783,0,0,0,Bering Straits,PCE,Early Release
+2017,Shishmaref,1656.506,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Stebbins,3473.896,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Shaktoolik,814.33,0,0,0,317.836,0,0,0,Bering Straits,PCE,Early Release
+2017,Teller,857.0953708,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Wales,645.986,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2017,Saint Michael,0,0,0,0,0,0,0,0,Bering Straits,,Early Release
+2017,Chignik Lagoon,303.9990577,0,0,214.163,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Chignik Lake,345.722,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Chignik,731.685,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Clark's Point,291.44,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Egegik,586.159,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Igiugig,347.328,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Newhalen,40.174,0,0,3600.836,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Kokhanok,458.2,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Levelock,443.143,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Manokotak,1355.769,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Naknek,22369.793,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Koliganek,752.086,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Dillingham,19143.18,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Pedro Bay,189.184,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Pilot Point,496.047,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Port Heiden,606.36,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Port Alsworth,942.435,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,New Stuyahok,1724.326,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Togiak,3071.161,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Perryville,0,0,0,0,0,0,0,0,Bristol Bay,,Early Release
+2017,Chenega Bay,268.078,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2017,Chitina,433.979,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2017,Allison Creek Hydro,0,0,0,19710,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Glennallen,10237,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Solomon Gulch,0,0,0,36763,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Valdez,1383,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Valdez Cogen,21411,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Eyak Service Center BESS,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2017,Humpback Creek,0,0,0,3035,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Orca,8659,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Power Creek,0,0,0,16154,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2017,Tatitlek,409.468,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2017,"Cordova, Eyak",0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2017,Slana,1411.332,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2017,Chistochina,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2017,Mentasta Lake,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2017,Karluk,213.848,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2017,ESS Battery Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2017,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2017,Kodiak Microgrid,876,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2017,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2017,Pillar Mountain Wind Project Microgrid,0,0,0,0,24155,0,0,0,Kodiak,EIA923,Early Release
+2017,Swampy Acres Microgrid,36,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2017,Terror Lake Microgrid,0,0,0,137014,0,0,0,0,Kodiak,EIA923,Early Release
+2017,Akhiok,272.273,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2017,Ouzinkie,373.259,0,0,350.2,0,0,0,0,Kodiak,PCE,Early Release
+2017,Old Harbor,862.4,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2017,Port Lions Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2017,Larsen Bay,106.816,0,0,863.161,0,0,0,0,Kodiak,PCE,Early Release
+2017,Napakiak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2017,Nightmute,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2017,Pitkas Point,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2017,Tununak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2017,Lower Kalskag,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2017,Nunapitchuk,46,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2017,Alakanuk,56,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2017,Platinum,62.513,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Kongiganak,63.2,0,0,0,153.876,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Red Devil,69.744,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Lime Village,70.598,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Stony River,120.129,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Tuntutuliak,155.02,0,0,0,55.209,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Chuathbaluk,243.56,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Sleetmute,253.533,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Crooked Creek,254.725,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Newtok,428.672,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Atmautluak,560.928,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Goodnews Bay,723.318,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Nunam Iqua,784.261,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Mekoryuk,787.09,0,0,0,145.271,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Eek,923.61,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Russian Mission,994.656,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Kwigillingok,1042.75,0,0,0,371.45,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Napaskiak,1079.539258,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Akiak,1203.404,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Marshall,1471.29,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Chefornak,1550.304,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Kalskag,1554.656,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Scammon Bay,1688.073,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Quinhagak,1742.03,0,0,0,538.548,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Kipnuk,1843.812,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Kotlik,1942.266,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Akiachak,1945.101,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Kwethluk,1995.79,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Chevak,2007.096,0,0,0,599.473,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Pilot Station,2018.359,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Aniak,2604.1,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Kasigluk,2698.645,0,0,0,379.604,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Mountain Village,2749.535,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Toksook Bay,2843.319,0,0,0,797.875,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Hooper Bay,3000.81,0,0,0,465.922,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Saint Mary's,3046.355,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Emmonak,5343.97,0,0,0,379.232,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Bethel,42044,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2017,Barrow,0.766,49164.234,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2017,Anaktuvuk Pass,4244.298,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2017,Atqasuk,3401.747,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2017,Kaktovik,4735,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2017,Nuiqsut,560.92,6226.08,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2017,Point Hope,6814.356,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2017,Point Lay,3419.244,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2017,Wainwright,7389.725,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2017,TNSG North Plant,0,65312,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2017,TNSG South Plant,0,-595,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2017,Buckland,1676.262,0,0,0,57.19,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Deering,626.982,0,0,0,35.826,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Kotzebue,17819.641,0,0,0,4016.406,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Ambler,1302.225,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Kiana,1615.844,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Kivalina,1326.219,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Noatak,1860.923,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Noorvik,1933.148,0,0,0,0,15.576,0,0,Northwest Arctic,PCE,Early Release
+2017,Selawik,2840.319,0,0,0,14.837,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Shungnak,1615.584,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2017,Kobuk,0,0,0,0,0,0,0,0,Northwest Arctic,,Early Release
+2017,Anchorage 1,9.688,50839.312,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Eklutna Hydro Project,0,0,0,119240,0,0,0,0,Railbelt,EIA923,Early Release
+2017,George M Sullivan Generation Plant 2,62.284,803761.716,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Aurora Energy LLC Chena,0,0,180906,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Beluga,0,113992,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Cooper Lake,0,0,0,25713,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Southcentral Power Project,0,862918,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Fort Greely Power Plant,56.84,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Utility Plants Section,0,0,106212,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,JBER Landfill Gas Power Plant,0,44030,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Delta Wind Farm,0,0,0,0,2607,0,0,0,Railbelt,EIA923,Early Release
+2017,Fire Island Wind,0,0,0,0,47715,0,0,0,Railbelt,EIA923,Early Release
+2017,Battery Energy Storage System,0,0,0,0,0,0,-2711,0,Railbelt,EIA923,Early Release
+2017,Delta Power,223,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Eva Creek Wind,0,0,0,0,61514,0,0,0,Railbelt,EIA923,Early Release
+2017,Fairbanks,6660,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Healy,299.874,0,164769.126,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,North Pole,447767,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Bernice Lake,0,-250,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Bradley Lake,0,0,0,387059,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Nikiski Co-Generation,0,452731,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Seldovia,15,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Soldotna,0,18166,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Eklutna Generation Station,0,748674,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Seward,85,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Tesoro Kenai Cogeneration Plant,0,62324,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,University of Alaska Fairbanks,4836.676,554.666,37047.658,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Eielson AFB Central Heat & Power Plant,67,0,66772,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,Agrium Kenai Nitrogen Operations,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2017,AWWU Conduit,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2017,International,0,-795,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2017,GVEA Solar Farm,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2017,Willow Solar,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2017,Lake Dorothy Hydroelectric Project,0,0,0,77150,0,0,0,0,Southeast,EIA923,Early Release
+2017,Lemon Creek,-905,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Salmon Creek 1,0,0,0,27363,0,0,0,0,Southeast,EIA923,Early Release
+2017,Snettisham,0,0,0,302474,0,0,0,0,Southeast,EIA923,Early Release
+2017,Elfin Cove,335.347,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Black Bear Lake,0,0,0,19221,0,0,0,0,Southeast,EIA923,Early Release
+2017,Goat Lake Hydro,0,0,0,15606,0,0,0,0,Southeast,EIA923,Early Release
+2017,Angoon,1799.437,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Hoonah,3204.283,0,0,1417.449,0,0,0,0,Southeast,PCE,Early Release
+2017,Kake,2235.161,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Chilkat Valley,0,0,0,1002.54,0,0,0,0,Southeast,PCE,Early Release
+2017,Kasidaya Creek Hydro,0,0,0,9870,0,0,0,0,Southeast,EIA923,Early Release
+2017,Beaver Falls,0,0,0,39437,0,0,0,0,Southeast,EIA923,Early Release
+2017,Ketchikan,0,0,0,20778,0,0,0,0,Southeast,EIA923,Early Release
+2017,S W Bailey,3307,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Silvis,0,0,0,10110,0,0,0,0,Southeast,EIA923,Early Release
+2017,Swan Lake,0,0,0,70514,0,0,0,0,Southeast,EIA923,Early Release
+2017,Whitman,0,0,0,9373,0,0,0,0,Southeast,EIA923,Early Release
+2017,South Fork,0,0,0,5762,0,0,0,0,Southeast,EIA923,Early Release
+2017,Centennial,3568,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Craig,1509,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Chester Lake,0,0,0,3839,0,0,0,0,Southeast,EIA923,Early Release
+2017,Purple Lake,0,0,0,16932,0,0,0,0,Southeast,EIA923,Early Release
+2017,False Island,1553,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Haines,277.439,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Pelican,4,0,0,1898,0,0,0,0,Southeast,EIA923,Early Release
+2017,Blind Slough,950.6,0,0,11726,0,0,0,0,Southeast,EIA923,Early Release
+2017,Hydaburg,-5,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Klawock Power Generation Station,35,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Blue Lake Hydro,0,0,0,59004,0,0,0,0,Southeast,EIA923,Early Release
+2017,Green Lake,0,0,0,54587,0,0,0,0,Southeast,EIA923,Early Release
+2017,Jarvis Street,-545,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Tyee Lake Hydroelectric Facility,0,0,0,111574,0,0,0,0,Southeast,EIA923,Early Release
+2017,Tenakee Springs,414.305,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Skagway,784.4,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Wrangell,902,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Thorne Bay Plant,66,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Gustavus,189.962,0,0,2206.957,0,0,0,0,Southeast,PCE,Early Release
+2017,Whale Pass,363.697,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Annex Creek,0,0,0,19151,0,0,0,0,Southeast,EIA923,Early Release
+2017,Auke Bay,-186,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Yakutat,2474.156,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2017,Gold Creek,15,0,0,4543,0,0,0,0,Southeast,EIA923,Early Release
+2017,Industrial Plant,84,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Klukwan,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,10 Mile Creek,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,Mahoney Lake Hydroelectric,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,Viking,-6,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2017,Coffman Cove,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,Hollis,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,Dewey Lakes ,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,Lutak,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,Naukati Bay,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2017,Ekwok,450.9829962,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2017,Arctic Village,540.438,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Beaver,295.06684,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Birch Creek,17.659,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Chalkyitsik,317.77,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Circle,382.96,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Galena Electric Utility,5765.649,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Central,474.922,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Gwitchyaa Zhee,3258.915,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Hughes,448.653,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Koyukuk,316.345,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,McGrath,2245.755,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Nikolai,440.038,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Rampart,244.669,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Ruby,658.487,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Takotna,231.591,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Tanana,1322.974,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Northway,1159.999,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Manley Hot Springs,542.716,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Venetie,695,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Tok,9386.447,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Allakaket,618.048,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Bettles,545.2,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Eagle,795.86,0,0,0,0,25.06,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Healy Lake,54.22427,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Anvik,402.087,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Grayling,621.474,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Holy Cross,632.703,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Huslia,1084.699,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Kaltag,691.367,0,0,0,0,7.556,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Minto,632.512,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Nulato,1037.729,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Shageluk,422.726,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2017,Tetlin,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2017,Dry Spruce Bay (Creek),0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2018,Lake Dorothy Hydroelectric Project,0,0,0,81558,0,0,0,0,Southeast,EIA923,Early Release
+2018,Karluk,218.207,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2018,Anchorage 1,79.951,28857.049,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Eklutna Hydro Project,0,0,0,168115,0,0,0,0,Railbelt,EIA923,Early Release
+2018,George M Sullivan Generation Plant 2,38.745,843289.255,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Aniak,2582.3,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Arctic Village,479.774,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Atka,56.281,0,0,361.062,0,0,0,0,Aleutians,PCE,Early Release
+2018,Atmautluak,609.759,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Aurora Energy LLC Chena,0,0,177819,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Lemon Creek,-695,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Barrow,1.909,48251.091,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2018,Beaver,135.058,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Birch Creek,107.92,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Buckland,1064.66,0,0,0,49.296,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Chalkyitsik,289.2880905,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Chenega Bay,246.47,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2018,Chignik Lagoon,164.578,0,0,473.086,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Chignik Lake,312.851,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Chignik,848.6155568,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Chitina,436.327,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2018,Salmon Creek 1,0,0,0,24389,0,0,0,0,Southeast,EIA923,Early Release
+2018,Beluga,0,37832,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Cooper Lake,0,0,0,59832,0,0,0,0,Railbelt,EIA923,Early Release
+2018,International,0,-752,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Southcentral Power Project,0,815365,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Circle,389.8,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Clark's Point,296.0603442,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Allison Creek Hydro,0,0,0,23077,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Glennallen,9662,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Solomon Gulch,0,0,0,42087,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Valdez,888,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Snettisham,0,0,0,259856,0,0,0,0,Southeast,EIA923,Early Release
+2018,Valdez Cogen,16993,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Humpback Creek,0,0,0,3267,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Orca,7021,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Power Creek,0,0,0,15171,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2018,Diomede,224.6354658,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Fort Greely Power Plant,69.58,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Utility Plants Section,0,0,90177,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,JBER Landfill Gas Power Plant,0,42948,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Egegik,627.318,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Delta Wind Farm,0,0,0,0,4498,0,0,0,Railbelt,EIA923,Early Release
+2018,Elfin Cove,337.005,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2018,False Pass,337.09,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2018,Fire Island Wind,0,0,0,0,51829,0,0,0,Railbelt,EIA923,Early Release
+2018,Cold Bay,2412.493,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2018,Galena Electric Utility,5821.688,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Central,484.071,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Battery Energy Storage System,0,0,0,0,0,0,-2428,0,Railbelt,EIA923,Early Release
+2018,Delta Power,-176,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Eva Creek Wind,0,0,0,0,65514,0,0,0,Railbelt,EIA923,Early Release
+2018,Fairbanks,3927,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Black Bear Lake,0,0,0,18099,0,0,0,0,Southeast,EIA923,Early Release
+2018,Healy,5373.637,0,257091.363,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,North Pole,369250,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Golovin,935.3436077,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Gwitchyaa Zhee,3106.62,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Bernice Lake,0,396,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Bradley Lake,0,0,0,404479,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Nikiski Co-Generation,0,404744,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Seldovia,85,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Soldotna,0,23756,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Goat Lake Hydro,0,0,0,14916,0,0,0,0,Southeast,EIA923,Early Release
+2018,Hughes,442.722,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Igiugig,322.11,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Newhalen,81.61,0,0,3627.47,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Angoon,1771.994,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2018,Hoonah,3756.615,0,0,739.512,0,0,0,0,Southeast,PCE,Early Release
+2018,Kake,2228.271,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2018,Chilkat Valley,0,0,0,887.76,0,0,0,0,Southeast,PCE,Early Release
+2018,Deering,551.94,0,0,0,80.581,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Kasidaya Creek Hydro,0,0,0,10606,0,0,0,0,Southeast,EIA923,Early Release
+2018,Beaver Falls,0,0,0,33310,0,0,0,0,Southeast,EIA923,Early Release
+2018,Ketchikan,0,0,0,15741,0,0,0,0,Southeast,EIA923,Early Release
+2018,S W Bailey,18614,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Silvis,0,0,0,9221,0,0,0,0,Southeast,EIA923,Early Release
+2018,Swan Lake,0,0,0,58416,0,0,0,0,Southeast,EIA923,Early Release
+2018,Whitman,0,0,0,6998,0,0,0,0,Southeast,EIA923,Early Release
+2018,King Cove,809,0,0,3728,0,0,0,0,Aleutians,EIA923,Early Release
+2018,Kipnuk,1729.96,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,South Fork,0,0,0,4146,0,0,0,0,Southeast,EIA923,Early Release
+2018,ESS Battery Microgrid,0,0,0,0,0,0,-240,0,Kodiak,EIA923,Early Release
+2018,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,-342,0,Kodiak,EIA923,Early Release
+2018,Kodiak Microgrid,74,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2018,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2018,Pillar Mountain Wind Project Microgrid,0,0,0,0,26170,0,0,0,Kodiak,EIA923,Early Release
+2018,Swampy Acres Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2018,Terror Lake Microgrid,0,0,0,121969,0,0,0,0,Kodiak,EIA923,Early Release
+2018,Kokhanok,460.526,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Kotzebue,15590.241,0,0,0,4400.163,0,-90,0,Northwest Arctic,PCE/EIA923,Early Release
+2018,Koyukuk,204.142,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Kwethluk,1685.673,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Kwigillingok,1071.689784,0,0,0,273.366,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Larsen Bay,33.901,0,0,922.939,0,0,0,0,Kodiak,PCE,Early Release
+2018,Levelock,373.209,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Lime Village,49.8135,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Manokotak,632.1398979,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Eklutna Generation Station,0,614791,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,McGrath,2178.654,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Centennial,5578,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Akhiok,275.529,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2018,Craig,2349,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Chester Lake,0,0,0,5384,0,0,0,0,Southeast,EIA923,Early Release
+2018,Purple Lake,0,0,0,8157,0,0,0,0,Southeast,EIA923,Early Release
+2018,Chuathbaluk,232.445,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Crooked Creek,242.862,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Red Devil,64.385,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Sleetmute,253.754,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Stony River,126.3604822,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Naknek,24837.295,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Napaskiak,822.1734272,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,False Island,1575,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Chefornak,1507.844,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Perryville,298.332,0,0,0,0,0,0,0,Bristol Bay,RCA,Early Release
+2018,Nelson Lagoon,320.114,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2018,Koliganek,638.836,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Nikolai,386.726,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Snake River,28959.577,0,0,0,2102.643,0,0,0,Bering Straits,PCE,Early Release
+2018,Anaktuvuk Pass,4033,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2018,Atqasuk,2653.826,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2018,Kaktovik,4469.213,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2018,Nuiqsut,925.74,5854.26,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2018,Haines,1461.111,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2018,Point Hope,6768.559,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2018,Point Lay,3587.415,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2018,Wainwright,7424.42,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2018,Nunam Iqua,773.081,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Dillingham,19186.147,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Ouzinkie,397.574,0,0,276.468,0,0,0,0,Kodiak,PCE,Early Release
+2018,Pedro Bay,200.199,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Pelican,162,0,0,1147,0,0,0,0,Southeast,EIA923,Early Release
+2018,Blind Slough,412.58,0,0,8906,0,0,0,0,Southeast,EIA923,Early Release
+2018,Hydaburg,3,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Pilot Point,467.705,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Port Heiden,570.6,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Kongiganak,681.3,0,0,0,729.313,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Rampart,65.74523399,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Ruby,542.331,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Saint George,598.653,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2018,Saint Paul,3009.412,0,0,0,358.261,0,0,0,Aleutians,PCE,Early Release
+2018,Seward,144,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Klawock Power Generation Station,1331,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Blue Lake Hydro,0,0,0,56170,0,0,0,0,Southeast,EIA923,Early Release
+2018,Green Lake,0,0,0,52270,0,0,0,0,Southeast,EIA923,Early Release
+2018,Jarvis Street,-629,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Tyee Lake Hydroelectric Facility,0,0,0,117206,0,0,0,0,Southeast,EIA923,Early Release
+2018,Stevens Village,132.621,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Takotna,110.507837,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Port Alsworth,947.255,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Tanana,1340.148,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Northway,1116.799,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Tatitlek,404.712,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2018,Adak,2071.426,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2018,Sand Point,2805.538,0,0,0,1202.683,0,0,0,Aleutians,PCE,Early Release
+2018,Manley Hot Springs,547.907,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,TNSG North Plant,0,61008,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2018,TNSG South Plant,0,-480,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2018,Tenakee Springs,389.923,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2018,Tesoro Kenai Cogeneration Plant,0,64726.539,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Tuluksak,550.337,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Tuntutuliak,866.8,0,0,0,158.959,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Skagway,73.685,0,0,1988,0,0,0,0,Southeast,EIA923/PCE,Early Release
+2018,Twin Hills,150.9636364,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Nikolski,215.92,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2018,Unalakleet,3590.78,0,0,0,785.961,0,0,0,Bering Straits,PCE,Early Release
+2018,Dutch Harbor,54364,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2018,Unalaska Power Module,201,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2018,Newtok,380.988,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Unisea G 2,27726.229,0,0,0,0,0,0,2789.771,Aleutians,EIA923,Early Release
+2018,University of Alaska Fairbanks,5780.289,0,35857.711,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Eielson AFB Central Heat & Power Plant,131,0,67619,0,0,0,0,0,Railbelt,EIA923,Early Release
+2018,Slana,1377.214,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2018,Venetie,708.8407407,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Westward Seafoods,11797,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2018,White Mountain,858.155,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Wrangell,520,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Thorne Bay Plant,77,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Tok,9383.041,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Akiachak,1919.966,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Allakaket,593.712,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Bettles,538.3,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Eagle,818.72,0,0,0,0,24.343,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Gustavus,223.788,0,0,2205.052,0,0,0,0,Southeast,PCE,Early Release
+2018,Healy Lake,47.709,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Akiak,1202.145,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Whale Pass,400.003,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2018,Alakanuk,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2018,Ambler,1234.807,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Bethel,41814.295,0,0,0,212.732,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Brevig Mission,1199.979,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Chevak,1775.076,0,0,0,736.898,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Akutan,538.796,0,0,102.201,0,0,0,0,Aleutians,PCE,Early Release
+2018,Elim,1333.804,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Emmonak,5437.896,0,0,0,394.718,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Gambell,1505.86,0,0,0,475.56,0,0,0,Bering Straits,PCE,Early Release
+2018,Hooper Bay,2847.139,0,0,0,568.537,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Kasigluk,2594.833,0,0,0,397.908,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Kiana,1668.503,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Kivalina,1295.253,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Kotlik,1968.763,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Koyuk,1307.009,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Marshall,1502.128,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Annex Creek,0,0,0,26657,0,0,0,0,Southeast,EIA923,Early Release
+2018,Mountain Village,2773.668,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,New Stuyahok,1832.28,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Noatak,1941.352,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Noorvik,2000.855,0,0,0,0,11.499,0,0,Northwest Arctic,PCE,Early Release
+2018,Pilot Station,1824.956,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Quinhagak,1608.37,0,0,0,551.549,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Saint Mary's,3071.144,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Savoonga,2119.143,0,0,0,125.398,0,0,0,Bering Straits,PCE,Early Release
+2018,Scammon Bay,1672.489,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Auke Bay,-88,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Selawik,2713.826,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Shishmaref,1642.816,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Shungnak,1627.662,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2018,Stebbins,3519.456,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Togiak,3084.073,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2018,Toksook Bay,2969.299,0,0,0,851.987,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Kalskag,1570.604,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Yakutat,5829.114,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2018,Anvik,406.776,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Gold Creek,7,0,0,4096,0,0,0,0,Southeast,EIA923,Early Release
+2018,Eek,961.739,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Goodnews Bay,740.611,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Grayling,655.079,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Holy Cross,605.537,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Huslia,1131.645,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Kaltag,710.583,0,0,0,0,0.044,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Mekoryuk,774.503,0,0,0,135.193,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Minto,623.494,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Industrial Plant,130,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2018,Nulato,975.183,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Old Harbor,809.976,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2018,Russian Mission,1010.729,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2018,Shageluk,403.281,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2018,Shaktoolik,779.266,0,0,0,331.214,0,0,0,Bering Straits,PCE,Early Release
+2018,Teller,885.521,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2018,Wales,656.88,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Agrium Kenai Nitrogen Operations,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2019,Lake Dorothy Hydroelectric Project,0,0,0,67932,0,0,0,0,Southeast,EIA923,Early Release
+2019,Karluk,197.209,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2019,Anchorage 1,56.779,14680.121,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Eklutna Hydro Project,0,0,0,190971,0,0,0,0,Railbelt,EIA923,Early Release
+2019,George M Sullivan Generation Plant 2,0.644,626188.356,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,AWWU Conduit,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2019,Aniak,2466.81,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Arctic Village,556.813,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Atka,83.651,0,0,261.938,0,0,0,0,Aleutians,PCE,Early Release
+2019,Atmautluak,287.729,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Aurora Energy LLC Chena,0,0,186691,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Lemon Creek,1050,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Barrow,3.055,47563.945,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2019,Beaver,223.446,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Birch Creek,108.804,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Buckland,1439.622,0,0,0,129.595,0,0,0,Northwest Arctic,PCE,Early Release
+2019,Chalkyitsik,208.33,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Chenega Bay,160.833,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2019,Chignik Lagoon,69.109,0,0,430.863,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Chignik Lake,316.378,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Chignik,665.487,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Chitina,425.685,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2019,Salmon Creek 1,0,0,0,23099,0,0,0,0,Southeast,EIA923,Early Release
+2019,Beluga,0,55031,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Cooper Lake,0,0,0,46102,0,0,0,0,Railbelt,EIA923,Early Release
+2019,International,0,48,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Southcentral Power Project,0,797909,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Circle,386.8,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Clark's Point,314.4,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Allison Creek Hydro,0,0,0,19135,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Glennallen,2958,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Solomon Gulch,0,0,0,53198,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Valdez,3104,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Snettisham,0,0,0,238708,0,0,0,0,Southeast,EIA923,Early Release
+2019,Valdez Cogen,17823,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Eyak Service Center BESS,0,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Humpback Creek,0,0,0,3158,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Orca,6137,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Power Creek,0,0,0,16620,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2019,Diomede,0,0,0,0,0,0,0,0,Bering Straits,,Early Release
+2019,Fort Greely Power Plant,65.66,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Utility Plants Section,0,0,71202,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,JBER Landfill Gas Power Plant,0,36898,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Egegik,622.503,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Delta Wind Farm,0,0,0,0,3970,0,0,0,Railbelt,EIA923,Early Release
+2019,Elfin Cove,320.921,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2019,False Pass,748.645,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2019,Fire Island Wind,0,0,0,0,48221,0,0,0,Railbelt,EIA923,Early Release
+2019,Cold Bay,2102.4,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2019,Galena Electric Utility,6033.332,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Central,446.269,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Battery Energy Storage System,0,0,0,0,0,0,-3280,0,Railbelt,EIA923,Early Release
+2019,Delta Power,-133,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Eva Creek Wind,0,0,0,0,60106,0,0,0,Railbelt,EIA923,Early Release
+2019,Fairbanks,7685,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Black Bear Lake,0,0,0,19976,0,0,0,0,Southeast,EIA923,Early Release
+2019,Healy,10258.488,0,334301.512,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,North Pole,431296,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,GVEA Solar Farm,0,0,0,0,0,0,0,0,Railbelt,,Early Release
+2019,Golovin,950.66,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Gwitchyaa Zhee,3099.902,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Bernice Lake,0,6009,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Bradley Lake,0,0,0,413592,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Nikiski Combined Cycle,0,239545,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Seldovia,63,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Soldotna,0,46499,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Goat Lake Hydro,0,0,0,15420,0,0,0,0,Southeast,EIA923,Early Release
+2019,Hughes,365.566,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Igiugig,318.342,0,0,0.609,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Newhalen,69.12,0,0,3677.44,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Angoon,1723.443,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2019,Hoonah,3685.641,0,0,916.602,0,0,0,0,Southeast,PCE,Early Release
+2019,Kake,2232.15,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2019,Chilkat Valley,0,0,0,884.068,0,0,0,0,Southeast,PCE,Early Release
+2019,Klukwan,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,10 Mile Creek,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Deering,362.517,0,0,0,52.839,0,0,0,Northwest Arctic,PCE,Early Release
+2019,Kasidaya Creek Hydro,0,0,0,10741,0,0,0,0,Southeast,EIA923,Early Release
+2019,Mahoney Lake Hydroelectric,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Beaver Falls,0,0,0,35139,0,0,0,0,Southeast,EIA923,Early Release
+2019,Ketchikan,0,0,0,19815,0,0,0,0,Southeast,EIA923,Early Release
+2019,S W Bailey,26855,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Silvis,0,0,0,8560,0,0,0,0,Southeast,EIA923,Early Release
+2019,Swan Lake,0,0,0,54365,0,0,0,0,Southeast,EIA923,Early Release
+2019,Whitman,0,0,0,9908,0,0,0,0,Southeast,EIA923,Early Release
+2019,King Cove,591,0,0,3497,0,0,0,0,Aleutians,EIA923,Early Release
+2019,Kipnuk,1600.804,0,0,0,138.571,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Kobuk,0,0,0,0,0,0,0,0,Northwest Arctic,,Early Release
+2019,South Fork,0,0,0,4473,0,0,0,0,Southeast,EIA923,Early Release
+2019,ESS Battery Microgrid,0,0,0,0,0,0,-240,0,Kodiak,EIA923,Early Release
+2019,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,-375,0,Kodiak,EIA923,Early Release
+2019,Kodiak Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2019,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2019,Pillar Mountain Wind Project Microgrid,0,0,0,0,25015,0,0,0,Kodiak,EIA923,Early Release
+2019,Port Lions Microgrid,0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2019,Swampy Acres Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2019,Terror Lake Microgrid,0,0,0,124762,0,0,0,0,Kodiak,EIA923,Early Release
+2019,Kokhanok,494.908,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Kotzebue Hybrid,20368,0,0,0,1788.93,0,-7,0,Northwest Arctic,EIA923,Early Release
+2019,Viking,0,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Koyukuk,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2019,Kwethluk,1815.081,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Kwigillingok,933.31,0,0,0,326.432,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Larsen Bay,112.093,0,0,713.155,0,0,0,0,Kodiak,PCE,Early Release
+2019,Levelock,418.425,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Lime Village,54.689,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Manokotak,1046.869,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Eklutna Generation Station,0,723815,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,McGrath,2208.715,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Centennial,2464,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Akhiok,249.42,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2019,Craig (AK),461,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Chester Lake,0,0,0,5809,0,0,0,0,Southeast,EIA923,Early Release
+2019,Purple Lake,0,0,0,9111,0,0,0,0,Southeast,EIA923,Early Release
+2019,Chuathbaluk,219.965,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Crooked Creek,256.801,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Red Devil,56.324,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Sleetmute,257.456,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Stony River,120.036,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Naknek,25789.4,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Napakiak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2019,Napaskiak,295.829,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,False Island,1713,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Chefornak,1452.696,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Perryville,976.321,0,0,0,11.794,0.732,0,0,Bristol Bay,PCE,Early Release
+2019,Nelson Lagoon,299.758,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2019,Koliganek,710.601,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Nikolai,463.632,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Snake River,28959.26,0,0,0,2347.98,0,0,0,Bering Straits,PCE,Early Release
+2019,Anaktuvuk Pass,4042.567,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2019,NSB Atqasuk Utility,2782,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2019,NSB Kaktovik Utility,4510,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2019,NSB Nuiqsut Utility,1675.12,5226.88,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2019,Haines,-72,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,NSB Point Hope Utility,6269,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2019,Point Lay,3691.484,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2019,Wainwright,7461.385,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2019,Nunam Iqua,792.106,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Dillingham,19189.907,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Ouzinkie,400.546,0,0,271.39,0,0,0,0,Kodiak,PCE,Early Release
+2019,Dry Spruce Bay (Creek),0,0,0,0,0,0,0,0,Kodiak,,Early Release
+2019,Pedro Bay,145.148,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Pelican,338,0,0,717,0,0,0,0,Southeast,EIA923,Early Release
+2019,Petersburg,3342,0,0,9598,0,0,0,0,Southeast,EIA923,Early Release
+2019,Hydaburg,-26,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Pilot Point,282.75,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Platinum,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2019,Port Heiden,525.478,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Kongiganak,583.93,0,0,0,654.358,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Rampart,126.915,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Willow Solar,0,0,0,0,0,131,0,0,Railbelt,MEA FERC1 (ann rept to RCA),Early Release
+2019,Ruby,271.923,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Saint George,558.02,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2019,Saint Paul,0,0,0,0,152.635,0,0,0,Aleutians,PCE,Early Release
+2019,Seward (AK),218,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Klawock Power Generation Station,1944,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Blue Lake Hydro,0,0,0,59458,0,0,0,0,Southeast,EIA923,Early Release
+2019,Green Lake,0,0,0,51134,0,0,0,0,Southeast,EIA923,Early Release
+2019,Jarvis Street,-665,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Tyee Lake Hydroelectric Facility,0,0,0,75977,0,0,0,0,Southeast,EIA923,Early Release
+2019,Takotna,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2019,Port Alsworth,830.391,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Tanana,1264.894,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Northway,1041.601,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Tatitlek,355.928,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2019,Adak,2142.743,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2019,Sand Point,0,0,0,0,1022.284,0,0,0,Aleutians,PCE,Early Release
+2019,Manley Hot Springs,545.939,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,TNSG North Plant,0,56413,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2019,TNSG South Plant,0,-162,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2019,Tenakee Springs,387.515,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2019,Tesoro Kenai Cogeneration Plant,0,68210,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Tuntutuliak,1037.47,0,0,0,137.542,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Skagway,626,0,0,1932,0,0,0,0,Southeast,EIA923,Early Release
+2019,Nikolski,204.029,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2019,Unalakleet,3479.096,0,0,0,807.531,0,0,0,Bering Straits,PCE,Early Release
+2019,Dutch Harbor,52998,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2019,Unalaska Power Module,1194.62,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2019,Newtok,79.088,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Unisea G 2,29497.328,0,0,0,0,0,0,662.672,Aleutians,EIA923,Early Release
+2019,University of Alaska Fairbanks,6548.41,0.08,21779.51,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Eielson AFB Central Heat & Power Plant,277,0,69081,0,0,0,0,0,Railbelt,EIA923,Early Release
+2019,Slana,1396.263,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2019,Venetie,724.3,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Westward Seafoods,17373,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2019,White Mountain,888.186,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Wrangell,612,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Thorne Bay Plant,-11,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Tok,9343.4,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Unalaska,0,0,0,0,0,0,0,0,Aleutians,,Early Release
+2019,"Cordova, Eyak",0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2019,Akiachak,1733.814,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Allakaket,611.182,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Bettles,475.7,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Chistochina,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2019,Coffman Cove,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Eagle,807.12,0,0,0,0,23.573,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Gustavus,239.997,0,0,2151.827,0,0,0,0,Southeast,PCE,Early Release
+2019,Healy Lake,68.007,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Hollis,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Mentasta Lake,0,0,0,0,0,0,0,0,Copper River/Chugach,,Early Release
+2019,Tetlin,0,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,,Early Release
+2019,Akiak,929.501,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Whale Pass,431.358,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2019,Dewey Lakes ,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Lutak,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Naukati Bay,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Alakanuk,-14,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2019,Ambler,1176,0,0,0,0,0,0,0,Northwest Arctic,EIA923,Early Release
+2019,Bethel,42283.041,0,0,0,1121.743,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Brevig Mission,1188,0,0,0,0,0,0,0,Bering Straits,EIA923,Early Release
+2019,Chevak,1750.759,0,0,0,730.81,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Akutan,642.182,0,0,0.002,0,0,0,0,Aleutians,PCE,Early Release
+2019,Elim,1293.673,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Emmonak,5464.327,0,0,0,500.673,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Gambell,1726.228,0,0,0,269.921,0,0,0,Bering Straits,PCE,Early Release
+2019,Hooper Bay,3136.972,0,0,0,288.81,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Kasigluk,2697.897,0,0,0,276.88,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Kiana,1667.736,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2019,Kivalina,1678.719,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2019,Kotlik,2010.362,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Koyuk,1267.364,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Marshall,1422,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2019,Annex Creek,0,0,0,26761,0,0,0,0,Southeast,EIA923,Early Release
+2019,Mountain Village,2644.906,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,New Stuyahok,1825.185,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Noatak,1864.849,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2019,Noorvik,1973.077,0,0,0,0,8.577,0,0,Northwest Arctic,PCE,Early Release
+2019,Nunapitchuk,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2019,Pilot Station,1802.533,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Quinhagak,1564.475,0,0,0,628.001,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Saint Mary's,2121.492,0,0,0,1112.314,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Savoonga,2228.062,0,0,0,80.989,0,0,0,Bering Straits,PCE,Early Release
+2019,Scammon Bay,1643.411,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Auke Bay,-132,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Selawik,2558.41,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2019,Shishmaref,1714.112,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Shungnak,1639.134,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2019,Saint Michael,0,0,0,0,0,0,0,0,Bering Straits,,Early Release
+2019,Stebbins,3456.195,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Togiak,3012.627,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2019,Toksook Bay,3006.201,0,0,0,653.957,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Kalskag,1535.661,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Yakutat,5850.652,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2019,Anvik,413.962,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Gold Creek,3,0,0,366,0,0,0,0,Southeast,EIA923,Early Release
+2019,Eek,986.257,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Ekwok,0,0,0,0,0,0,0,0,Southeast,,Early Release
+2019,Goodnews Bay,728.48,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Grayling,654.537,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Holy Cross,575.081,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Huslia,1028.383,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Kaltag,625.356,0,0,0,0,0.08,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Mekoryuk,800.121,0,0,0,60.649,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Minto,654.595,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Nightmute,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2019,Industrial Plant,318,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2019,Nulato,1000.495,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Old Harbor,759.839,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2019,Pitkas Point,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2019,Russian Mission,970.412,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2019,Shageluk,414.287,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2019,Shaktoolik,762.567,0,0,0,393.317,0,0,0,Bering Straits,PCE,Early Release
+2019,Teller,861.802,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Tununak,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2019,Wales,638.865,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2019,Lower Kalskag,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,,Early Release
+2020,Agrium Kenai Nitrogen Operations,,,,,,,,,Railbelt,,Early Release
+2020,Lake Dorothy Hydroelectric Project,0,0,0,72444,0,0,0,0,Southeast,EIA923,Early Release
+2020,Karluk,199.304,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2020,Anchorage 1,126.501,7519.499,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Aurora Energy LLC Chena,0,0,188212,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,AWWU Conduit,,,,,,,,,Railbelt,,Early Release
+2020,Battery Energy Storage System,0,0,0,0,0,0,-2810,0,Railbelt,EIA923,Early Release
+2020,Aniak,2523.5,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Arctic Village,635.369,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Atka,67.615,0,0,285.258,0,0,0,0,Aleutians,PCE,Early Release
+2020,Atmautluak,944.928,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Beluga,0,16401,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Lemon Creek,-720,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Barrow,5.293,51132.707,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2020,Beaver,253.02,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Birch Creek,97.77,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Ambler,1246.482,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2020,Chalkyitsik,283.05,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Chenega Bay,115.076,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2020,Chignik Lagoon,280.141,0,0,235.858,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Chignik Lake,315.79,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Chignik,1130.604,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Chitina,421.494,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2020,Salmon Creek 1,0,0,0,27559,0,0,0,0,Southeast,EIA923,Early Release
+2020,Bernice Lake,0,3468,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Bradley Lake,0,0,0,466635,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Cooper Lake,0,0,0,60854,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Delta Power,-78,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Circle,409.804,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Clark's Point,336.394,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Allison Creek Hydro,0,0,0,20808,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Glennallen,5665,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Solomon Gulch,0,0,0,33509,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Valdez,4821,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Snettisham,0,0,0,283197,0,0,0,0,Southeast,EIA923,Early Release
+2020,Valdez Cogen,23442,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Eyak Service Center BESS,0,0,0,0,0,0,-71,0,Copper River/Chugach,EIA923,Early Release
+2020,Humpback Creek,0,0,0,2877,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Orca,7925,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Power Creek,0,0,0,13918,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2020,Diomede,306.343,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Delta Wind Farm,0,0,0,0,3849,0,0,0,Railbelt,EIA923,Early Release
+2020,Eielson AFB Central Heat & Power Plant,186,0,72878,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Eklutna Generation Station,0,729085,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Egegik,677.785,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Eklutna Hydro Project,0,0,0,170181,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Elfin Cove,302.805,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2020,False Pass,759.086,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2020,Eva Creek Wind,0,0,0,0,46088,0,0,0,Railbelt,EIA923,Early Release
+2020,Cold Bay,2359.44,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2020,Galena,5311.047,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Central,450.076,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Fairbanks,14518,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Fire Island Wind,0,0,0,0,47201,0,0,0,Railbelt,EIA923,Early Release
+2020,Fort Greely Power Plant,98.98,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,George M Sullivan Generation Plant 2,0,447493,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Black Bear Lake,0,0,0,21207,0,0,0,0,Southeast,EIA923,Early Release
+2020,GVEA Solar Farm,,,,,,412.3,,,Railbelt,GVEA FERC1 (ann rept to RCA),Early Release
+2020,Healy,9715.228,0,348418.772,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,International,0,-502,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Golovin,916.228,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Fort Yukon,2954.017,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,JBER Landfill Gas Power Plant,0,38966,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Nikiski Combined Cycle,0,404839,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,North Pole,546068,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Seldovia,120,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Seward,,,,,,,,,Railbelt,,Early Release
+2020,Goat Lake Hydro,0,0,0,15105,0,0,0,0,Southeast,EIA923,Early Release
+2020,Hughes,465.911,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Igiugig,299.826,0,0,16.116,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,"Iliamna, Newhalen, Nondalton",24.08,0,0,3848.63,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Angoon,1745.979,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2020,Hoonah,3115.411,0,0,1428.86,0,0,0,0,Southeast,PCE,Early Release
+2020,Kake,2161.479,0,0,128.3,0,0,0,0,Southeast,PCE,Early Release
+2020,Chilkat Valley,0,0,0,954.54,0,0,0,0,Southeast,PCE,Early Release
+2020,Klukwan,,,,,,,,,Southeast,,Early Release
+2020,10 Mile Creek,,,,,,,,,Southeast,,Early Release
+2020,Kiana,1662.203,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2020,Kasidaya Creek Hydro,0,0,0,5783,0,0,0,0,Southeast,EIA923,Early Release
+2020,Mahoney Lake Hydroelectric,,,,,,,,,Southeast,,Early Release
+2020,Beaver Falls,0,0,0,45436,0,0,0,0,Southeast,EIA923,Early Release
+2020,Ketchikan,0,0,0,24202,0,0,0,0,Southeast,EIA923,Early Release
+2020,S W Bailey,-248,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Silvis,0,0,0,13614,0,0,0,0,Southeast,EIA923,Early Release
+2020,Swan Lake,0,0,0,72648,0,0,0,0,Southeast,EIA923,Early Release
+2020,Whitman,0,0,0,9473,0,0,0,0,Southeast,EIA923,Early Release
+2020,King Cove,597,0,0,3617,0,0,0,0,Aleutians,EIA923,Early Release
+2020,Kipnuk,1438.291,0,0,0,469.303,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Kivalina,1830.596,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2020,South Fork,0,0,0,5965,0,0,0,0,Southeast,EIA923,Early Release
+2020,ESS Battery Microgrid,0,0,0,0,0,0,-240,0,Kodiak,EIA923,Early Release
+2020,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,-276,0,Kodiak,EIA923,Early Release
+2020,Kodiak Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2020,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2020,Pillar Mountain Wind Project Microgrid,0,0,0,0,24682,0,0,0,Kodiak,EIA923,Early Release
+2020,Port Lions Microgrid,,,,,,,,,Kodiak,,Early Release
+2020,Swampy Acres Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2020,Terror Lake Microgrid,0,0,0,126419,0,0,0,0,Kodiak,EIA923,Early Release
+2020,Kokhanok,421.356,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Noatak,1870.753,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2020,Viking,,,,,,,,,Southeast,,Early Release
+2020,Koyukuk,123.156,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Kwethluk,1870.227,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Kwigillingok,1102.58,0,0,0,246.171,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Larsen Bay,17.9,0,0,468.819,0,0,0,0,Kodiak,PCE,Early Release
+2020,Levelock,412.978,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Lime Village,13.979,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Manokotak,1204.023,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Soldotna,0,35259,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,McGrath,2230.27,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Centennial,1035,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Akhiok,250.903,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2020,Craig (AK),299,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Chester Lake,0,0,0,5415,0,0,0,0,Southeast,EIA923,Early Release
+2020,Purple Lake,0,0,0,11178,0,0,0,0,Southeast,EIA923,Early Release
+2020,Chuathbaluk,251.559,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Crooked Creek,303.312,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Red Devil,65.506,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Sleetmute,254.675,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Stony River,135.308,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,"Naknek, South Naknek, King Salmon",21413.671,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Napakiak,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2020,Napaskiak,877.806,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,False Island,734,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Chefornak,1445.44,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Perryville,382.057,0,0,0,11.549,1.158,0,0,Bristol Bay,PCE,Early Release
+2020,Nelson Lagoon,293.843,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2020,Koliganek,695.201,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Nikolai,398.057,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Snake River,29118.527,0,0,0,2399.937,0,0,0,Bering Straits,PCE,Early Release
+2020,Anaktuvuk Pass,4094.432,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2020,NSB Atqasuk Utility,2909,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2020,Kaktovik,3884.429,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2020,NSB Nuiqsut Utility,1201.292,3888.708,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2020,Haines,124,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,NSB Point Hope Utility,6244,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2020,Point Lay,3347.512,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2020,Wainwright,7519.46,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2020,Nunam Iqua,830.847,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,"Dillingham, Aleknagik",18565.575,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Ouzinkie,572.519,0,0,113.6,0,0,0,0,Kodiak,PCE,Early Release
+2020,Dry Spruce Bay (Creek),,,,,,,,,Kodiak,,Early Release
+2020,Pedro Bay,183.294,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Pelican,843,0,0,262,0,0,0,0,Southeast,EIA923,Early Release
+2020,Petersburg,868.28,0,0,13273,0,0,0,0,Southeast,EIA923,Early Release
+2020,Hydaburg,2,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Pilot Point,498.556,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Platinum,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2020,Port Heiden,615.484,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Kongiganak,814.46,0,0,0,509.719,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Rampart,264.655,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Southcentral Power Project,0,822673,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Ruby,492.842,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Saint George,527.947,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2020,Saint Paul,3042.315,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2020,Tesoro Kenai Cogeneration Plant,4209.915,64054.085,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Klawock Power Generation Station,484,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Blue Lake Hydro,,,,,,,,,Southeast,,Early Release
+2020,Green Lake,,,,,,,,,Southeast,,Early Release
+2020,Jarvis Street,,,,,,,,,Southeast,,Early Release
+2020,Tyee Lake Hydroelectric Facility,0,0,0,89657,0,0,0,0,Southeast,EIA923,Early Release
+2020,Takotna,,,,,,,,,Yukon-Koyukuk/Upper Tanana,,Early Release
+2020,Port Alsworth,887.782,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Tanana,1246.993,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,"Northway, Northway Village, Northway Junction",1102.4,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Tatitlek,424.791,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2020,Adak,1983.991,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2020,Sand Point,3265.108,0,0,0,347,0,0,0,Aleutians,EIA923,Early Release
+2020,Manley Hot Springs,558.74,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,TNSG North Plant,0,55955,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2020,TNSG South Plant,0,-533,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2020,Tenakee Springs,403.149,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2020,University of Alaska Fairbanks,1903.775,6.054,43541.171,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Tuntutuliak,1188.83,0,0,0,107.712,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Skagway,1430.144,0,0,2131.975,0,0,0,0,Southeast,PCE,Early Release
+2020,Nikolski,183.663,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2020,Unalakleet,3528,0,0,0,774.169,0,0,0,Bering Straits,PCE,Early Release
+2020,Dutch Harbor,42197,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2020,Unalaska Power Module,2587.2,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2020,Newtok,51.658,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Unisea G 2,30453.615,0,0,0,0,0,0,119.385,Aleutians,EIA923,Early Release
+2020,Utility Plants Section,0,0,68739,0,0,0,0,0,Railbelt,EIA923,Early Release
+2020,Willow Solar,,,,,,1308,,,Railbelt,MEA COPA & FERC1 (ann rept to CA),Early Release
+2020,Slana,1392.465,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Venetie,723,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Westward Seafoods,18835,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2020,White Mountain,873.346,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Wrangell,584,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Thorne Bay Plant,8,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,"Tok, Tanacross",9987.44,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Unalaska,,,,,,,,,Aleutians,,Early Release
+2020,"Cordova, Eyak",8030.56,0,0,16984.937,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2020,Akiachak,1910.344,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,"Allakaket, Alatna",667.394,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,"Bettles, Evansville",489.1,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Chistochina,,,,,,,,,Copper River/Chugach,,Early Release
+2020,Coffman Cove,,,,,,,,,Southeast,,Early Release
+2020,"Eagle, Eagle Village",849.04,0,0,0,0,26.427,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Gustavus,122.36,0,0,2305.657,0,0,0,0,Southeast,PCE,Early Release
+2020,Healy Lake,85.861,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Hollis,,,,,,,,,Southeast,,Early Release
+2020,Mentasta Lake,,,,,,,,,Copper River/Chugach,,Early Release
+2020,Tetlin,,,,,,,,,Yukon-Koyukuk/Upper Tanana,,Early Release
+2020,Akiak,997.522,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Whale Pass,438.02,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2020,Dewey Lakes ,,,,,,,,,Southeast,,Early Release
+2020,Lutak,,,,,,,,,Southeast,,Early Release
+2020,Naukati Bay,,,,,,,,,Southeast,,Early Release
+2020,7-Mile Ridge Wind Project,,,,,,,,,Yukon-Koyukuk/Upper Tanana,,Early Release
+2020,Alakanuk,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2020,Noorvik,1956.735,0,0,0,0,12.355,0,0,Northwest Arctic,PCE,Early Release
+2020,Bethel,42396.91,0,0,0,1346.765,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Brevig Mission,1292.448,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Chevak,1825.064,0,0,0,739.255,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Akutan,443.286,0,0,28.072,0,0,0,0,Aleutians,PCE,Early Release
+2020,Elim,1273.416,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Emmonak,5061.163,0,0,0,513.132,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Gambell,1639.707,0,0,0,329.483,0,0,0,Bering Straits,PCE,Early Release
+2020,Hooper Bay,3276.513,0,0,0,277.909,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Kasigluk,2681.203,0,0,0,396.545,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Selawik,2928.116,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2020,Shungnak,1691.692,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2020,Kotlik,2063.624,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Koyuk,1263.899,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Marshall,1491.798,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Annex Creek,0,0,0,25962,0,0,0,0,Southeast,EIA923,Early Release
+2020,Mountain Village,2520.964,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,New Stuyahok,1887.222,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Buckland,1519.632,0,0,0,298.727,0,0,0,Northwest Arctic,PCE,Early Release
+2020,Deering,403.654,0,0,0,85.507,29.85,0,0,Northwest Arctic,PCE,Early Release
+2020,Nunapitchuk,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2020,Pilot Station,1824.236,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Quinhagak,1903.05,0,0,0,371.809,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,"Saint Mary's, Andreafsky",1997.542,0,0,0,1912.159,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Savoonga,2320.215,0,0,0,57.261,0,0,0,Bering Straits,PCE,Early Release
+2020,Scammon Bay,1654.537,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Auke Bay,-143,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Kobuk,,,,,,,,,Northwest Arctic,,Early Release
+2020,Shishmaref,1803.318,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Kotzebue,17461.695,0,0,0,3658.094,152.07,-57,0,Northwest Arctic,"PCE, EIA923",Early Release
+2020,Saint Michael,,,,,,,,,Bering Straits,,Early Release
+2020,Stebbins,3505.795,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Togiak,2931.37,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2020,Toksook Bay,3239.799,0,0,0,380.473,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Kalskag,1587.179,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Yakutat,6083.545,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2020,Anvik,398.054,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Gold Creek,-17,0,0,-335,0,0,0,0,Southeast,EIA923,Early Release
+2020,Eek,1060.417,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Ekwok,,,,,,,,,Southeast,,Early Release
+2020,Goodnews Bay,752.054,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Grayling,653.196,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Holy Cross,590.214,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Huslia,1037.808,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Kaltag,650.442,0,0,0,0,7.251,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Mekoryuk,863.133,0,0,0,33.954,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Minto,686.371,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Nightmute,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2020,Industrial Plant,-36,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2020,Nulato,1054.759,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Old Harbor,800.502,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2020,Pitkas Point,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2020,Russian Mission,945.36,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2020,Shageluk,426.422,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2020,Shaktoolik,812.305,0,0,0,316.057,0,0,0,Bering Straits,PCE,Early Release
+2020,Teller,834.658,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Tununak,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2020,Wales,658.066,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2020,Lower Kalskag,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Agrium Kenai Nitrogen Operations,,,,,,,,,Railbelt,,Early Release
+2021,Akhiok,286.831,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2021,Akiachak,2003.701,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Akiak,224.694,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Akutan,515.405,0,0,168.137,0,0,0,0,Aleutians,PCE,Early Release
+2021,Annex Creek,0,0,0,25983,0,0,0,0,Southeast,EIA923,Early Release
+2021,Auke Bay,-354,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Gold Creek,5,0,0,5419,0,0,0,0,Southeast,EIA923,Early Release
+2021,Industrial Plant,-125,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Lake Dorothy Hydroelectric Project,0,0,0,87446,0,0,0,0,Southeast,EIA923,Early Release
+2021,Lemon Creek,-844,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Salmon Creek 1,0,0,0,24590,0,0,0,0,Southeast,EIA923,Early Release
+2021,Snettisham,0,0,0,289785,0,0,0,0,Southeast,EIA923,Early Release
+2021,Delta Wind Farm,0,0,0,0,3654,0,0,0,Railbelt,EIA923,Early Release
+2021,Black Bear Lake,0,0,0,22727,0,0,0,0,Southeast,EIA923,Early Release
+2021,Goat Lake Hydro,0,0,0,14473,0,0,0,0,Southeast,EIA923,Early Release
+2021,Kasidaya Creek Hydro,0,0,0,6902,0,0,0,0,Southeast,EIA923,Early Release
+2021,South Fork,0,0,0,6206,0,0,0,0,Southeast,EIA923,Early Release
+2021,Viking,,,,,,,,,Southeast,,Early Release
+2021,Craig (AK),324,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,False Island,696,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Haines,1390,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Hydaburg,12,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Klawock Power Generation Station,600,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,"Northway, Northway Village, Northway Junction",1096,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Skagway,1483.179,0,0,2501.397,0,0,0,0,Southeast,PCE,Early Release
+2021,Slana,1424.009,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Thorne Bay Plant,20,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,"Tok, Tanacross",10384,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,"Allakaket, Alatna",662.064,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,"Bettles, Evansville",517.5,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Chistochina,,,,,,,,,Copper River/Chugach,,Early Release
+2021,Coffman Cove,,,,,,,,,Southeast,,Early Release
+2021,"Eagle, Eagle Village",866.178,0,0,0,0,10.474,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Gustavus,533.567,0,0,2189.357,0,0,0,0,Southeast,PCE,Early Release
+2021,Healy Lake,104.891,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Hollis,,,,,,,,,Southeast,,Early Release
+2021,Mentasta Lake,,,,,,,,,Copper River/Chugach,,Early Release
+2021,Tetlin,,,,,,,,,Yukon-Koyukuk/Upper Tanana,,Early Release
+2021,Whale Pass,485.265,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2021,Dewey Lakes ,,,,,,,,,Southeast,,Early Release
+2021,Lutak,,,,,,,,,Southeast,,Early Release
+2021,Naukati Bay,,,,,,,,,Southeast,,Early Release
+2021,Alakanuk,0,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,EIA923,Early Release
+2021,Ambler,1330.93,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2021,Bethel,41601.5,0,0,0,1340.568,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Brevig Mission,1321.128,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Chevak,1794.79,0,0,0,842.517,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Elim,1371.323,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Emmonak,5355.709,0,0,0,563.277,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Gambell,2212.888,0,0,0,36.669,0,0,0,Bering Straits,PCE,Early Release
+2021,Hooper Bay,3312.447,0,0,0,346.953,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Kasigluk,2467.031,0,0,0,322.363,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Kiana,1715.15,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2021,Kivalina,1873.521,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2021,Kotlik,2178.55,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Koyuk,1286.827,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Marshall,1564.778,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Mountain Village,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,New Stuyahok,1921.708,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Noatak,1852.771,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2021,Noorvik,1963.121,0,0,0,0,12.542,0,0,Northwest Arctic,PCE,Early Release
+2021,Nunapitchuk,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Pilot Station,1876.637,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Quinhagak,1779.458,0,0,0,561.295,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,"Saint Mary's, Andreafsky",3649.804,0,0,0,2060.478,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Savoonga,2472.677,0,0,0,54.958,0,0,0,Bering Straits,PCE,Early Release
+2021,Scammon Bay,1710.611,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Selawik,2859.981,0,0,0,0,0,0,0,Northwest Arctic,PCE,Early Release
+2021,Shishmaref,1851.293,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Shungnak,1633.688,0,0,0,0,16.302,0,0,Northwest Arctic,PCE,Early Release
+2021,Saint Michael,,,,,,,,,Bering Straits,,Early Release
+2021,Stebbins,3563.795,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Togiak,3271.28,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Toksook Bay,3270.301,0,0,0,445.888,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Kalskag,1545.265,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Yakutat,6506.565,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2021,Anvik,400.1,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Eek,1221.074,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Ekwok,0,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Goodnews Bay,779.871,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Grayling,611.708,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Holy Cross,576.337,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Huslia,1106.171,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Kaltag,670.656,0,0,0,0,6.636,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Mekoryuk,920.319,0,0,0,4.24,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Minto,768.323,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Nightmute,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Nulato,1070.917,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Old Harbor,808.805,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2021,Pitkas Point,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Russian Mission,951.299,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Shageluk,434.028,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Shaktoolik,816.603,0,0,0,292.818,0,0,0,Bering Straits,PCE,Early Release
+2021,Teller,873.107,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Tununak,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Wales,660.928,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Lower Kalskag,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Karluk,206.794,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2021,Hank Nikkels Plant 1,1.479,2250.521,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Eklutna Hydro Project,0,0,0,139994,0,0,0,0,Railbelt,EIA923,Early Release
+2021,George M Sullivan Generation Plant 2,0,761372,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Aniak,2670.9,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Arctic Village,466.567,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Atka,57.14,0,0,310,0,0,0,0,Aleutians,PCE,Early Release
+2021,Atmautluak,1112.585,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Aurora Energy LLC Chena,0,0,177115,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Barrow,1.139,47329.861,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2021,Beaver,91.3,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Birch Creek,81.952,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Buckland,1695.8,0,0,0,239.392,0,0,0,Northwest Arctic,PCE,Early Release
+2021,Chalkyitsik,50.67,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Chenega Bay,218.882,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2021,Chignik Lagoon,513.656,0,0,18.35,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Chignik Lake,190.13,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Chignik,665.795,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Chitina,431.156,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2021,Beluga,0,2049,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Cooper Lake,0,0,0,36381,0,0,0,0,Railbelt,EIA923,Early Release
+2021,International,,,,,,,,,Railbelt,,Early Release
+2021,Southcentral Power Project,0,1041694,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Circle,421.562,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Clark's Point,413.43,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Allison Creek Hydro,0,0,0,17551,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Glennallen,8490,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Solomon Gulch,0,0,0,41182,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Valdez,3642,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Valdez Cogen,25547,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Eyak Service Center BESS,0,0,0,0,0,0,-85,0,Copper River/Chugach,EIA923,Early Release
+2021,Humpback Creek,0,0,0,3248,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Orca,8065,0,0,0,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Power Creek,0,0,0,15433,0,0,0,0,Copper River/Chugach,EIA923,Early Release
+2021,Diomede,398.436,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Fort Greely Power Plant,59.78,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Utility Plants Section,0,0,65058,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,JBER Landfill Gas Power Plant,0,38093,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Egegik,647.868,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Elfin Cove,374.821,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2021,False Pass,661.652,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Fire Island Wind,0,0,0,0,41759,0,0,0,Railbelt,EIA923,Early Release
+2021,Cold Bay,2425.3,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Galena,5360.972,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Central,460.249,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Battery Energy Storage System,0,0,0,0,0,0,-3433,0,Railbelt,EIA923,Early Release
+2021,Delta Power,-121,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Eva Creek Wind,0,0,0,0,56648,0,0,0,Railbelt,EIA923,Early Release
+2021,Fairbanks,9024,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Healy,7531.203,0,366441.797,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,North Pole,464977,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,GVEA Solar Farm,,,,,,360,,,Railbelt,,Early Release
+2021,Golovin,949.804,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Fort Yukon,2546.104,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Bernice Lake,0,785,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Bradley Lake,0,0,0,391018,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Nikiski Combined Cycle,0,399354,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Seldovia,224,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Soldotna,0,33121,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Hughes,537.326,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Igiugig,339.561,0,0,0.865,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,"Iliamna, Newhalen, Nondalton",159.79,0,0,3674.14,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Angoon,1822.265,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2021,Hoonah,3512.594,0,0,1488.258,0,0,0,0,Southeast,PCE,Early Release
+2021,Kake,1453.639,0,0,854.744,0,0,0,0,Southeast,PCE,Early Release
+2021,Chilkat Valley,0,0,0,166.08,0,0,0,0,Southeast,PCE,Early Release
+2021,Klukwan,,,,,,,,,Southeast,,Early Release
+2021,10 Mile Creek,,,,,,,,,Southeast,,Early Release
+2021,Deering,679.158,0,0,0,60.668,42.956,0,0,Northwest Arctic,PCE,Early Release
+2021,Mahoney Lake Hydroelectric,,,,,,,,,Southeast,,Early Release
+2021,Beaver Falls,0,0,0,48192,0,0,0,0,Southeast,EIA923,Early Release
+2021,Ketchikan,0,0,0,23221,0,0,0,0,Southeast,EIA923,Early Release
+2021,S W Bailey,-106,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Silvis,0,0,0,14462,0,0,0,0,Southeast,EIA923,Early Release
+2021,Swan Lake,0,0,0,81117,0,0,0,0,Southeast,EIA923,Early Release
+2021,Whitman,0,0,0,10841,0,0,0,0,Southeast,EIA923,Early Release
+2021,King Cove,846,0,0,3483,0,0,0,0,Aleutians,EIA923,Early Release
+2021,Kipnuk,1345.098,0,0,0,672.354,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,ESS Battery Microgrid,0,0,0,0,0,0,-246,0,Kodiak,EIA923,Early Release
+2021,Flywheel Energy Storage System Microgrid,0,0,0,0,0,0,-291,0,Kodiak,EIA923,Early Release
+2021,Kodiak Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2021,Nymans Plant Microgrid,0,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2021,Pillar Mountain Wind Project Microgrid,0,0,0,0,25238,0,0,0,Kodiak,EIA923,Early Release
+2021,Port Lions Microgrid,,,,,,,,,Kodiak,,Early Release
+2021,Swampy Acres Microgrid,4,0,0,0,0,0,0,0,Kodiak,EIA923,Early Release
+2021,Terror Lake Microgrid,0,0,0,132333,0,0,0,0,Kodiak,EIA923,Early Release
+2021,Kokhanok,498.7,0,0,0,18.142,0,0,0,Bristol Bay,PCE,Early Release
+2021,Kotzebue,18343.458,0,0,0,2583.924,594.163,-86,0,Northwest Arctic,"PCE, EIA923",Early Release
+2021,Koyukuk,192.954,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Kwethluk,1800.538,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Kwigillingok,1143.82,0,0,0,69.737,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Larsen Bay,,,,,,,,,Kodiak,,Early Release
+2021,Levelock,458.71,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Lime Village,3.859,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Manokotak,590.564,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Eklutna Generation Station,0,678552,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,McGrath,2160.161,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Centennial,760,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Chester Lake,0,0,0,3601,0,0,0,0,Southeast,EIA923,Early Release
+2021,Purple Lake,0,0,0,13956,0,0,0,0,Southeast,EIA923,Early Release
+2021,Chuathbaluk,272.217,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Crooked Creek,290.727,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Red Devil,77.713,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Sleetmute,295.127,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Stony River,135.798,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,"Naknek, South Naknek, King Salmon",24328.964,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Napakiak,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Napaskiak,1128.606,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Chefornak,1184.104,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Perryville,,,,,,,,,Bristol Bay,,Early Release
+2021,Nelson Lagoon,303.655,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Koliganek,690.707,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Nikolai,432.965,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Snake River,30208.678,0,0,0,2026.204,0,0,0,Bering Straits,PCE,Early Release
+2021,Anaktuvuk Pass,4260,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2021,NSB Atqasuk Utility,2161,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2021,Kaktovik,4655.922,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2021,NSB Nuiqsut Utility,2663.882,4665.118,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2021,NSB Point Hope Utility,6468,0,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2021,Point Lay,3385.903,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2021,Wainwright,7342.938,0,0,0,0,0,0,0,North Slope,PCE,Early Release
+2021,Nunam Iqua,869.134,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,"Dillingham, Aleknagik",19099.986,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Ouzinkie,668.29,0,0,0,0,0,0,0,Kodiak,PCE,Early Release
+2021,Dry Spruce Bay (Creek),,,,,,,,,Kodiak,,Early Release
+2021,Pedro Bay,209.359,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Pelican,420,0,0,881,0,0,0,0,Southeast,EIA923,Early Release
+2021,Petersburg,863.38,0,0,13520,0,0,0,0,Southeast,EIA923,Early Release
+2021,Pilot Point,462.36,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Platinum,,,,,,,,,Lower Yukon-Kuskokwim,,Early Release
+2021,Port Heiden,621.926,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Kongiganak,816.76,0,0,0,632.359,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Rampart,122.73,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Willow Solar,,,,,,1217,,,Railbelt,MEA ann rept to RCA,Early Release
+2021,Ruby,679.361,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Saint George,478.382,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Saint Paul,3305.16,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Seward (AK),335,0,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Blue Lake Hydro,0,0,0,77838,0,0,0,0,Southeast,EIA923,Early Release
+2021,Green Lake,0,0,0,41550,0,0,0,0,Southeast,EIA923,Early Release
+2021,Jarvis Street,-795,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,Tyee Lake Hydroelectric Facility,0,0,0,88071,0,0,0,0,Southeast,EIA923,Early Release
+2021,Takotna,60.65,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Port Alsworth,934.426,0,0,0,0,0,0,0,Bristol Bay,PCE,Early Release
+2021,Tanana,1248.425,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Tatitlek,426.589,0,0,0,0,0,0,0,Copper River/Chugach,PCE,Early Release
+2021,Adak,1845.95,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Sand Point,3595.57,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Manley Hot Springs,598.808,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,TNSG North Plant,0,49695,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2021,TNSG South Plant,0,-375,0,0,0,0,0,0,North Slope,EIA923,Early Release
+2021,Tenakee Springs,414.766,0,0,0,0,0,0,0,Southeast,PCE,Early Release
+2021,Tesoro Kenai Cogeneration Plant,0,64878,0,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Tuntutuliak,1217.217,0,0,0,46.788,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Nikolski,95.368,0,0,0,0,0,0,0,Aleutians,PCE,Early Release
+2021,Unalakleet,3556.16,0,0,0,682.343,0,0,0,Bering Straits,PCE,Early Release
+2021,Dutch Harbor,45654,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2021,Unalaska Power Module,1143,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2021,Newtok,281.052,0,0,0,0,0,0,0,Lower Yukon-Kuskokwim,PCE,Early Release
+2021,Unisea G 2,29139,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2021,University of Alaska Fairbanks,348.873,3.471,70619.656,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Eielson AFB Central Heat & Power Plant,292,0,73660,0,0,0,0,0,Railbelt,EIA923,Early Release
+2021,Venetie,344.7,0,0,0,0,0,0,0,Yukon-Koyukuk/Upper Tanana,PCE,Early Release
+2021,Westward Seafoods,16291,0,0,0,0,0,0,0,Aleutians,EIA923,Early Release
+2021,White Mountain,891.807,0,0,0,0,0,0,0,Bering Straits,PCE,Early Release
+2021,Wrangell,520,0,0,0,0,0,0,0,Southeast,EIA923,Early Release
+2021,"Cordova, Eyak",8392.122,0,0,19077.682,0,0,0,0,Copper River/Chugach,PCE,Early Release

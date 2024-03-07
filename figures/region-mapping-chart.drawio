@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T18:46:18.918Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fNtvXisCPMACacJRoyV4" version="24.0.1" type="device">
+  <diagram name="Page-1" id="N_GiIwEd4XvdHmrkBIOE">
+    <mxGraphModel dx="666" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sL7lpL_x95wXYqWV80iR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-1" target="sL7lpL_x95wXYqWV80iR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-1" value="Aleutians" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-2" target="sL7lpL_x95wXYqWV80iR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-2" value="Bering Straits" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-3" target="sL7lpL_x95wXYqWV80iR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-3" value="Bristol Bay" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-4" target="sL7lpL_x95wXYqWV80iR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-4" value="Lower Yukon Kuskokwim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-5" target="sL7lpL_x95wXYqWV80iR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-5" value="North Slope" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-6" target="sL7lpL_x95wXYqWV80iR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-6" value="Northwest Borough" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-7" target="sL7lpL_x95wXYqWV80iR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-7" value="Yukon-Koyukuk Upper Tanana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-8" target="sL7lpL_x95wXYqWV80iR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-8" value="Copper River/Chugach" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-9" target="sL7lpL_x95wXYqWV80iR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-9" value="Kodiak" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-10" target="sL7lpL_x95wXYqWV80iR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-10" value="Railbelt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="740" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="sL7lpL_x95wXYqWV80iR-11" target="sL7lpL_x95wXYqWV80iR-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-11" value="Southeast" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-12" value="Rural Remote" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-13" value="Coastal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-14" value="Railbelt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="360" y="740" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;AEA Energy Region&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sL7lpL_x95wXYqWV80iR-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ACEP Energy Region&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

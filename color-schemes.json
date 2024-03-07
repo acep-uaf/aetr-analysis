@@ -1,0 +1,42 @@
+{
+    "prime_movers": {
+        "Fossil Turbine": "#606571",
+        "Recip Engine": "#9da7bf",
+        "Hydro": "#00a1b7",
+        "Wind": "#F79646",
+        "Utility Solar": "#fad900",
+        "Rooftop Solar": "#9BBB59",
+        "Storage": "#71346a",
+        "Landfill Gas": "brown"
+    },
+    "fuel_types": {
+        "Oil": "#BFBFBF",
+        "Gas": "#DCD9C5",
+        "Coal": "#7f7f7f",
+        "Hydro": "#96B3DF",
+        "Wind": "#F79646",
+        "Solar": "#F5C243",
+        "Storage": "#8064A2",
+        "Other": "#C0504D"
+    },
+    "customer_types": {
+        "Residential Sales": "#0084c1",
+        "Commercial Sales": "#e29617",
+        "Other Sales": "#fad900"
+    },
+    "general_customer_types": {
+        "Residential": "#0084c1",
+        "Commercial": "#e29617",
+        "Other": "#fad900"
+    },
+    "account_types": {
+        "Residential Customers":"#0084c1",
+        "Commercial Customers":"#e29617",
+        "Other Customers":"#fad900"
+    },
+    "energy_regions": {
+        "Coastal": "#8CBBDA",
+        "Railbelt": "#97CD93",
+        "Rural Remote": "#F28D8C"
+    }
+}
