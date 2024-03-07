@@ -8,7 +8,7 @@ This repository calls on three main Jupyter Notebooks to create all figures and 
 
 |Element|Description|
 |:-|:-|
-|`./figures/` | This folder contains PNG and EPS files for all figures. PNG files are mostly 6.5in $\times$ 4in @ 600dpi. The EPS files are vector graphics and should be used for publication. Additionally, `energy-regions-flow-chart.drawio` and it's respective PNG are for the diagram mapping AEA to ACEP energy regions. It can be uploaded to [draw.io](draw.io) and modified.|
+|`./figures/` | This folder contains PNG and EPS/PDF files for all figures. PNG files are mostly 6.5in $\times$ 4in @ 600dpi. The EPS/PDF files are vector graphics and should be used for publication. Github automatically converts EPS to PDF on upload. Additionally, `energy-regions-flow-chart.drawio` and it's respective PNG are for the diagram mapping AEA to ACEP energy regions. It can be uploaded to [draw.io](draw.io) and modified.|
 | `./tables/`| This folder contains CSV outputs for some of the figures in the report. These are meant to be used in the creation of appendix tables. |
 | `capacity.ipynb`| Builds the figures and statistics for the Capacity section of the report. |
 |`net-generation.ipynb` | Builds the figures and statistics for the Generation section of the report. |
