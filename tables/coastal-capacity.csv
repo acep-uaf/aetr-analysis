@@ -1,6 +1,6 @@
-,acep-region,year,Fossil Turbine,Recip Engine,Hydro,Wind,Utility Solar,Rooftop Solar,Storage,Landfill Gas
-0,Coastal,2011,79.0,196.0,252.0,4.0,0.0,0.0,0.0,0.0
-1,Coastal,2012,79.0,204.0,252.0,9.0,0.0,0.0,0.0,0.0
-2,Coastal,2013,79.0,197.0,251.0,9.0,0.0,0.0,3.0,0.0
-3,Coastal,2018,121.0,219.0,288.0,9.0,0.0,0.0,6.0,0.0
-4,Coastal,2021,118.0,225.0,294.0,9.0,0.0,0.0,7.0,0.0
+acep-region,year,Fossil Turbine,Recip Engine,Hydro,Wind,Utility Solar,Rooftop Solar,Storage,Landfill Gas
+Coastal,2011,79.0,196.2,252.16,4.5,0.0,0.0,0.0,0.0
+Coastal,2012,79.0,203.55,251.76,9.0,0.0,0.0,0.0,0.0
+Coastal,2013,79.0,197.35,251.06,9.0,0.0,0.0,3.0,0.0
+Coastal,2018,120.7,218.98,288.31,9.0,0.0,0.0,6.0,0.0
+Coastal,2021,117.9,225.1,294.11,9.0,0.0,0.0,7.0,0.0

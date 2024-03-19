@@ -1,6 +1,6 @@
-,acep-region,year,Fossil Turbine,Recip Engine,Hydro,Wind,Utility Solar,Rooftop Solar,Storage,Landfill Gas
-5,Railbelt,2011,1199.0,26.0,184.0,1.0,0.0,0.0,0.0,0.0
-6,Railbelt,2012,1199.0,28.0,185.0,44.0,0.0,0.0,0.0,9.0
-7,Railbelt,2013,1443.0,28.0,186.0,44.0,0.0,1.0,27.0,12.0
-8,Railbelt,2018,1614.0,236.0,191.0,44.0,2.0,3.0,43.0,12.0
-9,Railbelt,2021,1589.0,234.0,191.0,44.0,2.0,11.0,90.0,12.0
+acep-region,year,Fossil Turbine,Recip Engine,Hydro,Wind,Utility Solar,Rooftop Solar,Storage,Landfill Gas
+Railbelt,2011,1198.9,26.2,184.38,1.01,0.0,0.38,0.0,0.0
+Railbelt,2012,1198.9,28.2,184.68,43.6,0.0,0.49,0.0,9.2
+Railbelt,2013,1442.8,28.2,185.88,44.5,0.0,0.62,27.0,11.5
+Railbelt,2018,1614.1,236.0,191.28,44.5,1.9,3.23,43.0,11.5
+Railbelt,2021,1589.1,233.5,191.46,44.5,1.9,11.31,89.5,11.5

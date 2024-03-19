@@ -1,6 +1,6 @@
-,acep-region,year,Fossil Turbine,Recip Engine,Hydro,Wind,Utility Solar,Rooftop Solar,Storage,Landfill Gas
-10,Rural Remote,2011,17.0,227.0,2.0,8.0,0.0,0.0,0.0,0.0
-11,Rural Remote,2012,17.0,227.0,2.0,13.0,0.0,0.0,0.0,0.0
-12,Rural Remote,2013,17.0,223.0,2.0,15.0,0.0,0.0,0.0,0.0
-13,Rural Remote,2018,43.0,268.0,3.0,18.0,0.0,0.0,1.0,0.0
-14,Rural Remote,2021,43.0,273.0,3.0,15.0,1.0,0.0,3.0,0.0
+acep-region,year,Fossil Turbine,Recip Engine,Hydro,Wind,Utility Solar,Rooftop Solar,Storage,Landfill Gas
+Rural Remote,2011,17.3,227.44,1.62,8.33,0.0,0.0,0.0,0.0
+Rural Remote,2012,17.3,226.54,1.6,13.22,0.0,0.0,0.0,0.0
+Rural Remote,2013,17.3,223.24,1.91,14.76,0.0,0.0,0.21,0.0
+Rural Remote,2018,42.7,268.27,2.66,18.04,0.32,0.0,1.2,0.0
+Rural Remote,2021,42.7,273.09,2.62,14.84,1.31,0.0,3.25,0.0
